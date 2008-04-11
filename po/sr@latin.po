@@ -1,0 +1,1564 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2008-04-11 17:45+0200\n"
+"PO-Revision-Date: 2008-04-11 17:45+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. [scenario]
+#. [campaign]
+#: Eliador/scenarios/eliador-home-intro.cfg:5 Eliador/utils/eliador-home.cfg:2
+#: Eliador/utils/eliador-battle.cfg:2 Eliador/_main.cfg:8
+msgid "Invasion of Eliador"
+msgstr ""
+
+#. [campaign]
+#: Eliador/_main.cfg:9
+msgid "IOE"
+msgstr ""
+
+#. [campaign]
+#: Eliador/_main.cfg:10
+msgid " (Version"
+msgstr ""
+
+#. [campaign]
+#: Eliador/_main.cfg:10
+msgid ""
+"A peaceful island is about to be invaded by unknown foes travelling towards "
+"the eastern shore. It is up to a family of outlaws to warn the island's "
+"inhabitants before it's too late."
+msgstr ""
+
+#. [campaign]
+#: Eliador/_main.cfg:14
+msgid "Easy"
+msgstr ""
+
+#. [campaign]
+#: Eliador/_main.cfg:15
+msgid "Normal"
+msgstr ""
+
+#. [campaign]
+#: Eliador/_main.cfg:16
+msgid "Hard"
+msgstr ""
+
+#. [about]
+#: Eliador/_main.cfg:18
+msgid "Campaign Design"
+msgstr ""
+
+#. [scenario]
+#: Eliador/scenarios/eliador-end.cfg:5
+msgid "Journey to Wesnoth"
+msgstr ""
+
+#. [event]
+#. [message]: type=Pirate Galleon
+#: Eliador/scenarios/eliador-home-intro.cfg:52
+#: Eliador/scenarios/eliador-end.cfg:47 Eliador/scenarios/eliador-end.cfg:57
+msgid "Ardella"
+msgstr ""
+
+#. [message]: type=Pirate Galleon
+#: Eliador/scenarios/eliador-end.cfg:48
+msgid ""
+"Hurry up and finish your breakfast, children. Your father is waiting for us."
+msgstr ""
+
+#. [unit]: type=Outlaw Kid, description=Anna
+#. [message]: type=Pirate Galleon
+#. [unit]: type=Gryphon Kid, description=Anna
+#: Eliador/scenarios/eliador-home-intro.cfg:59
+#: Eliador/scenarios/eliador-end.cfg:52 Eliador/utils/eliador-kelroth.cfg:238
+msgid "Anna"
+msgstr ""
+
+#. [message]: type=Pirate Galleon
+#: Eliador/scenarios/eliador-end.cfg:53
+msgid "How much further is Wesnoth?"
+msgstr ""
+
+#. [message]: type=Pirate Galleon
+#: Eliador/scenarios/eliador-end.cfg:58
+msgid "We will arrive in two days time."
+msgstr ""
+
+#. [unit]: type=Outlaw Kid, description=Zeke
+#. [message]: type=Pirate Galleon
+#. [unit]: type=Gryphon Kid, description=Zeke
+#: Eliador/scenarios/eliador-home-intro.cfg:67
+#: Eliador/scenarios/eliador-end.cfg:62 Eliador/utils/eliador-kelroth.cfg:222
+msgid "Zeke"
+msgstr ""
+
+#. [message]: type=Pirate Galleon
+#: Eliador/scenarios/eliador-end.cfg:63
+msgid "I can't wait that long! I miss papa!"
+msgstr ""
+
+#. [event]: (description=Agatha) moves 0}, (description=Glenda) moves 0}
+#: Eliador/scenarios/eliador-end.cfg:71
+msgid "Agatha"
+msgstr ""
+
+#. [event]: (description=Agatha) moves 0}, (description=Glenda) moves 0}
+#: Eliador/scenarios/eliador-end.cfg:79
+msgid "Glenda"
+msgstr ""
+
+#. [event]
+#. [event]: type=Goblin Knight) 4 6}, type=Goblin Knight) 5 6}, type=Goblin Knight) 6 6}
+#: Eliador/scenarios/eliador-end.cfg:127 Eliador/utils/eliador-kelroth.cfg:178
+#: Eliador/utils/eliador-kelroth.cfg:429 Eliador/utils/eliador-deaths.cfg:2
+#: Eliador/utils/eliador-anwar.cfg:230 Eliador/utils/eliador-treasure.cfg:134
+#: Eliador/utils/eliador-sinon.cfg:333 Eliador/utils/eliador-battle.cfg:531
+msgid "Momma!"
+msgstr ""
+
+#. [event]
+#: Eliador/scenarios/eliador-home-intro.cfg:53
+msgid "Zilead"
+msgstr ""
+
+#. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
+#: Eliador/scenarios/eliador-home-intro.cfg:93
+msgid "Why do you look so sad, papa?"
+msgstr ""
+
+#. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
+#: Eliador/scenarios/eliador-home-intro.cfg:94
+msgid ""
+"I am just feeling a little nostalgic, my son. It has been exactly six years "
+"since your mother and I came to Eliador."
+msgstr ""
+
+#. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
+#: Eliador/scenarios/eliador-home-intro.cfg:95
+msgid "If you liked Wesnoth so much, then why did you leave?"
+msgstr ""
+
+#. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
+#: Eliador/scenarios/eliador-home-intro.cfg:96
+msgid "It's a long..."
+msgstr ""
+
+#. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
+#: Eliador/scenarios/eliador-home-intro.cfg:103
+msgid "What is it, papa? What are you looking at?"
+msgstr ""
+
+#. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
+#: Eliador/scenarios/eliador-home-intro.cfg:104
+msgid "Galleons on the horizon. Dozens of them!"
+msgstr ""
+
+#. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
+#. [event]: description=Randalf facing sw}
+#: Eliador/scenarios/eliador-home-intro.cfg:106
+#: Eliador/utils/eliador-varad.cfg:148
+msgid "Morgan"
+msgstr ""
+
+#. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
+#. [event]: description=Randalf facing sw}
+#. [event]
+#: Eliador/scenarios/eliador-home-intro.cfg:111
+#: Eliador/utils/eliador-varad.cfg:147 Eliador/utils/eliador-balas.cfg:157
+msgid "Bill"
+msgstr ""
+
+#. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
+#: Eliador/scenarios/eliador-home-intro.cfg:114
+msgid "Well, well... It's been a long time, Zilead."
+msgstr ""
+
+#. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
+#: Eliador/scenarios/eliador-home-intro.cfg:115
+msgid "Run home, son! Quickly!"
+msgstr ""
+
+#. [unit]: race=elf
+#: Eliador/units/Captured_Archer.cfg:4
+msgid "Captured Elvish Archer"
+msgstr ""
+
+#. [attack]: type=impact
+#: Eliador/units/Captured_Marksman.cfg:40
+#: Eliador/units/Captured_Avenger.cfg:40
+#: Eliador/units/Captured_Sharpshooter.cfg:40
+#: Eliador/units/Captured_Ranger.cfg:40 Eliador/units/Captured_Archer.cfg:40
+msgid "kick"
+msgstr ""
+
+#. [unit]: race=elf
+#: Eliador/units/Captured_Avenger.cfg:4
+msgid "Captured Elvish Avenger"
+msgstr ""
+
+#. [unit]: race=elf
+#: Eliador/units/Captured_Marksman.cfg:4
+msgid "Captured Elvish Marksman"
+msgstr ""
+
+#. [unit]: race=elf
+#: Eliador/units/Captured_Ranger.cfg:4
+msgid "Captured Elvish Ranger"
+msgstr ""
+
+#. [unit]: race=elf
+#: Eliador/units/Captured_Sharpshooter.cfg:4
+msgid "Captured Elvish Sharpshooter"
+msgstr ""
+
+#. [unit]: race=monster
+#: Eliador/units/Cockatrice.cfg:4
+msgid "Cockatrice"
+msgstr ""
+
+#. [unit]: race=monster
+#: Eliador/units/Cockatrice.cfg:18
+msgid ""
+"Sometimes known as 'basilisks', these mystical creatures are said to be able "
+"to turn the living to stone. Needless to say, this makes them extremely "
+"dangerous."
+msgstr ""
+
+#. [attack]: type=cold
+#: Eliador/units/Cockatrice.cfg:22
+msgid "gaze"
+msgstr ""
+
+#. [unit]: race=monster
+#: Eliador/units/Dragon.cfg:4
+msgid "Dragon"
+msgstr ""
+
+#. [unit]: race=monster
+#: Eliador/units/Dragon.cfg:22
+msgid ""
+"A fire dragon is an ancient and horrifying being that normally lives only in "
+"hushed rumor and fantastic stories. It is normal for centuries to pass "
+"without a dragon being seen in Wesnoth, and usually it is only as a shadowy "
+"form flying in the distance. Legends are very specific about the ravages of "
+"fire dragons: hideously swift in flight, leathery wings spread over one "
+"hundred feet in width, they swoop in and blast their prey with inferno jets "
+"of flame. Anything escaping the dragon's fire breath must beware its "
+"ferocious bite and crushing tail. Fire dragons are cunning and cruel and "
+"often take underlings whom they lead to victory."
+msgstr ""
+
+#. [attack]: type=blade
+#: Eliador/units/Dragon.cfg:26
+msgid "bite"
+msgstr ""
+
+#. [attack]: type=impact
+#: Eliador/units/Dragon.cfg:35
+msgid "tail"
+msgstr ""
+
+#. [attack]: type=fire
+#: Eliador/units/Dragon.cfg:45
+msgid "fire breath"
+msgstr ""
+
+#. [unit]
+#: Eliador/units/Dummy_Unit.cfg:4
+msgid "Dummy Unit"
+msgstr ""
+
+#. [unit]
+#: Eliador/units/Dummy_Unit.cfg:21
+msgid "Dummy unit"
+msgstr ""
+
+#. [unit]: race=human
+#: Eliador/units/Elder_Mage.cfg:4
+msgid "Elder Mage"
+msgstr ""
+
+#. [unit]: race=human
+#: Eliador/units/Elder_Mage.cfg:24
+msgid ""
+"Once great, Elder Magi have seen their power a little diminished from "
+"wearying years of battle. Nevertheless they remain feared on the battlefield "
+"on account of their powerful lightning bolts."
+msgstr ""
+
+#. [attack]: type=impact
+#: Eliador/units/Elder_Mage.cfg:27 Eliador/units/Outlaw_Queen.cfg:95
+msgid "staff"
+msgstr ""
+
+#. [attack]: type=fire
+#: Eliador/units/Elder_Mage.cfg:37
+msgid "lightning"
+msgstr ""
+
+#. [unit]: race=human
+#: Eliador/units/Female_Peasant.cfg:4
+msgid "Female Peasant"
+msgstr ""
+
+#. [unit]: race=human
+#: Eliador/units/Female_Peasant.cfg:19
+msgid ""
+"Peasants are the backbone of the rural economy, and the soldiers of last "
+"resort. While not fearsome by nature, they will stubbornly defend their "
+"homes. However, if you're hurling peasants at your foes, you're clearly out "
+"of superior forces."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Eliador/units/Female_Peasant.cfg:24 Eliador/units/Female_Peasant.cfg:33
+msgid "pitchfork"
+msgstr ""
+
+#. [unit]: race=human
+#: Eliador/units/Gryphon_Rider_Kid.cfg:4
+msgid "Gryphon Kid"
+msgstr ""
+
+#. [attack]: type=blade
+#: Eliador/units/Gryphon_Rider_Kid.cfg:32
+#: Eliador/units/Gryphon_Rider_Kid.cfg:62
+msgid "claws"
+msgstr ""
+
+#. [female]
+#: Eliador/units/Gryphon_Rider_Kid.cfg:50
+msgid "female^Gryphon Kid"
+msgstr ""
+
+#. [unit]: race=human
+#: Eliador/units/Gryphon_Small.cfg:4
+msgid "Small Gryphon"
+msgstr ""
+
+#. [unit]: race=human
+#: Eliador/units/Horse.cfg:4 Eliador/units/Horsequeen.cfg:4
+#: Eliador/units/Horsekid.cfg:4
+msgid "Horse"
+msgstr ""
+
+#. [female]
+#: Eliador/units/Horsekid.cfg:22
+msgid "female^Horse"
+msgstr ""
+
+#. [unit]: race=human
+#: Eliador/units/Human_Loyalist_Fencer.cfg:4
+msgid "Fencer"
+msgstr ""
+
+#. [attack]: type=blade
+#: Eliador/units/Human_Loyalist_Fencer.cfg:125
+msgid "sabre"
+msgstr ""
+
+#. [unit]: race=monster
+#: Eliador/units/Kids_Sea_Serpent.cfg:4
+msgid "Kids Sea Serpent"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Eliador/units/Shark.cfg:47 Eliador/units/Kids_Sea_Serpent.cfg:29
+#: Eliador/units/Queen_Seaserpent.cfg:30
+msgid "fangs"
+msgstr ""
+
+#. [unit]: race=human
+#: Eliador/units/Outlaw_Kid.cfg:4
+msgid "Outlaw Kid"
+msgstr ""
+
+#. [attack]: type=impact
+#: Eliador/units/Outlaw_Kid.cfg:31 Eliador/units/Outlaw_Kid.cfg:63
+msgid "punch"
+msgstr ""
+
+#. [female]
+#: Eliador/units/Outlaw_Kid.cfg:50
+msgid "female^Outlaw Kid"
+msgstr ""
+
+#. [unit]: race=human
+#: Eliador/units/Outlaw_Queen.cfg:4
+msgid "female^Outlaw Queen"
+msgstr ""
+
+#. [unit]: race=human
+#: Eliador/units/Outlaw_Queen.cfg:26
+msgid ""
+"A noble by birth, the Outlaw Queen has learnt swordplay with the greatest "
+"generals and battle tactics with the greatest sages, making her both a great "
+"combatant and leader. However, she is the product of a failed aristocracy "
+"who has opted for the life of an Outlaw. She dreams of founding her own "
+"Queendom with the plunder she finds on the road, and she is ever so close to "
+"that goal."
+msgstr ""
+
+#. [attack]: type=impact
+#: Eliador/units/Outlaw_Queen.cfg:104 Eliador/units/Queen_Seaserpent.cfg:39
+msgid "sling"
+msgstr ""
+
+#. [unit]: race=monster
+#: Eliador/units/Queen_Seaserpent.cfg:4
+msgid "female^Queen Sea Serpent"
+msgstr ""
+
+#. [unit]: race=monster
+#: Eliador/units/Shark.cfg:4
+msgid "Shark"
+msgstr ""
+
+#. [unit]: race=undead
+#: Eliador/units/Witch.cfg:4
+msgid "Witch"
+msgstr ""
+
+#. [attack]: type=blade
+#: Eliador/units/Witch.cfg:66
+msgid "broom poke"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Eliador/units/Witch.cfg:75
+msgid "curse"
+msgstr ""
+
+#: Eliador/utils/eliador-anwar.cfg:3
+msgid "Anwar"
+msgstr ""
+
+#. [objectives]
+#: Eliador/utils/eliador-anwar.cfg:73
+msgid ""
+"\n"
+"(1) A monster follows its recruiter.\n"
+"(2) If adjacent to its recruiter, a monster will attack an enemy within range"
+msgstr ""
+
+#. [objective]: condition=win
+#: Eliador/utils/eliador-anwar.cfg:75
+msgid "Recruit all monsters"
+msgstr ""
+
+#. [objective]: condition=win
+#: Eliador/utils/eliador-anwar.cfg:79
+msgid "Or, survive until end of turns"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Eliador/utils/eliador-kelroth.cfg:100 Eliador/utils/eliador-anwar.cfg:83
+#: Eliador/utils/eliador-treasure.cfg:58 Eliador/utils/eliador-balas.cfg:81
+#: Eliador/utils/eliador-sinon.cfg:48 Eliador/utils/eliador-battle.cfg:45
+msgid "Death of Ardella"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Eliador/utils/eliador-kelroth.cfg:104 Eliador/utils/eliador-anwar.cfg:87
+#: Eliador/utils/eliador-treasure.cfg:62 Eliador/utils/eliador-balas.cfg:85
+#: Eliador/utils/eliador-sinon.cfg:52 Eliador/utils/eliador-battle.cfg:49
+msgid "Death of Anna"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Eliador/utils/eliador-kelroth.cfg:108 Eliador/utils/eliador-anwar.cfg:91
+#: Eliador/utils/eliador-treasure.cfg:66 Eliador/utils/eliador-balas.cfg:89
+#: Eliador/utils/eliador-sinon.cfg:56 Eliador/utils/eliador-battle.cfg:53
+msgid "Death of Zeke"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-anwar.cfg:103
+msgid "Gwaraug"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-anwar.cfg:104
+msgid "Shelog"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-anwar.cfg:105
+msgid "Nuba"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-anwar.cfg:110
+msgid "The beasts of Anwar can prove useful to us."
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-anwar.cfg:111
+msgid "What must we do?"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-anwar.cfg:112
+msgid "Do you remember the magic words your father taught you?"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-anwar.cfg:113
+msgid "Iumento, pareah."
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-anwar.cfg:114
+msgid "Good. Approach a beast, look into its eyes and recite those words."
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-anwar.cfg:147
+msgid "Momma, what was that flapping noise?"
+msgstr ""
+
+#. [then]
+#: Eliador/utils/eliador-anwar.cfg:160
+msgid "Exit the cave!"
+msgstr ""
+
+#. [else]
+#: Eliador/utils/eliador-anwar.cfg:163
+msgid "Stay out of the cave!"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-anwar.cfg:188
+msgid "Iumento, pareah!"
+msgstr ""
+
+#: Eliador/utils/eliador-kelroth.cfg:430 Eliador/utils/eliador-deaths.cfg:3
+#: Eliador/utils/eliador-anwar.cfg:231 Eliador/utils/eliador-treasure.cfg:135
+#: Eliador/utils/eliador-balas.cfg:688 Eliador/utils/eliador-sinon.cfg:334
+#: Eliador/utils/eliador-battle.cfg:529
+msgid "Anna!"
+msgstr ""
+
+#: Eliador/utils/eliador-kelroth.cfg:431 Eliador/utils/eliador-deaths.cfg:4
+#: Eliador/utils/eliador-anwar.cfg:232 Eliador/utils/eliador-treasure.cfg:136
+#: Eliador/utils/eliador-balas.cfg:689 Eliador/utils/eliador-sinon.cfg:335
+#: Eliador/utils/eliador-battle.cfg:530
+msgid "Zeke!"
+msgstr ""
+
+#: Eliador/utils/eliador-balas.cfg:3
+msgid "Balas"
+msgstr ""
+
+#. [objectives]
+#: Eliador/utils/eliador-balas.cfg:75
+msgid ""
+"The fencers will leave after all elves have\n"
+"been killed or captured"
+msgstr ""
+
+#. [objective]: condition=win
+#: Eliador/utils/eliador-kelroth.cfg:96 Eliador/utils/eliador-balas.cfg:77
+msgid "Kill all enemies"
+msgstr ""
+
+#. [objective]: condition=lose
+#. [objective]: condition=win
+#: Eliador/utils/eliador-kelroth.cfg:112 Eliador/utils/eliador-varad.cfg:68
+#: Eliador/utils/eliador-illien.cfg:62 Eliador/utils/eliador-treasure.cfg:70
+#: Eliador/utils/eliador-balas.cfg:93 Eliador/utils/eliador-battle.cfg:57
+#: Eliador/utils/eliador-glorienda.cfg:56
+msgid "Turns run out"
+msgstr ""
+
+#. [unit]: type=Elvish Archer, description=Eledril
+#: Eliador/utils/eliador-balas.cfg:143
+msgid "Eledril"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-balas.cfg:175
+msgid "Saenvan"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-balas.cfg:176
+msgid "Caryn"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-balas.cfg:177
+msgid "Gleran"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-balas.cfg:178
+msgid "Aethunry"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-balas.cfg:179
+msgid "Owidry"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-balas.cfg:180
+msgid "Lurraent"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-balas.cfg:181
+msgid "Yranvan"
+msgstr ""
+
+#. [event]: (description=Bill) 11 9}, (description=Ardella) 8 37}
+#: Eliador/utils/eliador-balas.cfg:232
+msgid "Momma, that's the bad man who took papa!"
+msgstr ""
+
+#. [event]: (description=Bill) 11 9}, (description=Ardella) 8 37}
+#: Eliador/utils/eliador-balas.cfg:233
+msgid "Bill!"
+msgstr ""
+
+#. [event]: (description=Bill) 11 9}, (description=Ardella) 8 37}
+#: Eliador/utils/eliador-balas.cfg:234
+msgid "Ardella has arrived. You know what to do."
+msgstr ""
+
+#. [event]: (description=Bill) 11 9}, (description=Ardella) 8 37}
+#: Eliador/utils/eliador-balas.cfg:241
+msgid "Wait here."
+msgstr ""
+
+#. [event]: (description=Bill) 11 9}, (description=Ardella) 8 37}
+#. [then]: (description=Balthor) yes}, (description=Zeke) yes}, (description=Anna) yes}, (description=Balthor) movement_costs.shallow_water 20}
+#: Eliador/utils/eliador-balas.cfg:270 Eliador/utils/eliador-balas.cfg:387
+#: Eliador/utils/eliador-balas.cfg:399
+msgid "Balthor"
+msgstr ""
+
+#. [event]: (description=Bill) 11 9}, (description=Ardella) 8 37}
+#: Eliador/utils/eliador-balas.cfg:280
+msgid "Did you see that? There's something in the bay."
+msgstr ""
+
+#. [event]: (description=Bill) 11 9}, (description=Ardella) 8 37}
+#: Eliador/utils/eliador-balas.cfg:281
+msgid "Let's check it out."
+msgstr ""
+
+#. [then]
+#: Eliador/utils/eliador-balas.cfg:301
+msgid "Anna! Zeke!"
+msgstr ""
+
+#. [event]: (description=Brella) yes}, (description=Ardella) yes}, (description=Brella) movement_costs.shallow_water 20}
+#. [then]
+#: Eliador/utils/eliador-balas.cfg:302 Eliador/utils/eliador-balas.cfg:321
+#: Eliador/utils/eliador-balas.cfg:326
+msgid "Brella"
+msgstr ""
+
+#. [event]: (description=Brella) yes}, (description=Ardella) yes}, (description=Brella) movement_costs.shallow_water 20}
+#: Eliador/utils/eliador-balas.cfg:322
+msgid "Hop on. I'll take you to your children."
+msgstr ""
+
+#. [then]: (description=Balthor) yes}, (description=Zeke) yes}, (description=Anna) yes}, (description=Balthor) movement_costs.shallow_water 20}
+#: Eliador/utils/eliador-balas.cfg:388
+msgid "Wow, a sea serpent!"
+msgstr ""
+
+#. [then]: (description=Balthor) yes}, (description=Zeke) yes}, (description=Anna) yes}, (description=Balthor) movement_costs.shallow_water 20}
+#: Eliador/utils/eliador-balas.cfg:389
+msgid "What are human children doing in my water?"
+msgstr ""
+
+#. [then]: (description=Balthor) yes}, (description=Zeke) yes}, (description=Anna) yes}, (description=Balthor) movement_costs.shallow_water 20}
+#: Eliador/utils/eliador-balas.cfg:390
+msgid "We our looking for our father..."
+msgstr ""
+
+#. [then]: (description=Balthor) yes}, (description=Zeke) yes}, (description=Anna) yes}, (description=Balthor) movement_costs.shallow_water 20}
+#: Eliador/utils/eliador-balas.cfg:391
+msgid "He was taken by the man in that galleon."
+msgstr ""
+
+#. [then]: (description=Balthor) yes}, (description=Zeke) yes}, (description=Anna) yes}, (description=Balthor) movement_costs.shallow_water 20}
+#: Eliador/utils/eliador-balas.cfg:392
+msgid "There are captives on a nearby isle. Perhaps your father is among them."
+msgstr ""
+
+#. [then]: (description=Balthor) yes}, (description=Zeke) yes}, (description=Anna) yes}, (description=Balthor) movement_costs.shallow_water 20}
+#: Eliador/utils/eliador-balas.cfg:393
+msgid "Will you please take us there?"
+msgstr ""
+
+#. [then]: (description=Balthor) yes}, (description=Zeke) yes}, (description=Anna) yes}, (description=Balthor) movement_costs.shallow_water 20}
+#: Eliador/utils/eliador-balas.cfg:394
+msgid "Hop on."
+msgstr ""
+
+#. [then]: (description=Balthor) yes}, (description=Zeke) yes}, (description=Anna) yes}, (description=Balthor) movement_costs.shallow_water 20}
+#: Eliador/utils/eliador-balas.cfg:404
+msgid "Hold on tight!"
+msgstr ""
+
+#. [else]: (description=Balthor) 22 7}, (description=Brella) 23 8}
+#: Eliador/utils/eliador-balas.cfg:562
+msgid "Thank you..."
+msgstr ""
+
+#. [else]: (description=Balthor) 22 7}, (description=Brella) 23 8}
+#: Eliador/utils/eliador-balas.cfg:563
+msgid ""
+"These children are looking for their father. His name is Zilead. Have you "
+"seen him?"
+msgstr ""
+
+#. [else]: (description=Balthor) 22 7}, (description=Brella) 23 8}
+#: Eliador/utils/eliador-balas.cfg:564
+msgid "Zilead was taken southward... towards Varad."
+msgstr ""
+
+#. [else]: (description=Balthor) 22 7}, (description=Brella) 23 8}
+#: Eliador/utils/eliador-balas.cfg:565
+msgid ""
+"Can you take them there? I must help the sea creatures of Eliador battle the "
+"incoming galleons."
+msgstr ""
+
+#. [else]: (description=Balthor) 22 7}, (description=Brella) 23 8}
+#: Eliador/utils/eliador-balas.cfg:566
+msgid "Of course. Good luck, Balthor!"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-balas.cfg:654
+msgid "What have I done? Zilead's children are dead!"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-balas.cfg:668 Eliador/utils/eliador-balas.cfg:682
+msgid "What have I done? Ardella is dead!"
+msgstr ""
+
+#. [objective]: condition=win
+#: Eliador/utils/eliador-battle.cfg:41
+msgid "Kill Ursula"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-battle.cfg:95
+msgid "Virag"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-battle.cfg:96
+msgid "Balgor"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-battle.cfg:97
+msgid "Flak"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-battle.cfg:98
+msgid "Malash"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-battle.cfg:99
+msgid "Kruk"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-battle.cfg:100
+msgid "Kruol"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-battle.cfg:102
+msgid ""
+"I can't believe my orcs were outsmarted by a human and her two brats. How "
+"dare you interfere with my master's plan! Tonight, we shall feast upon your "
+"flesh!"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-battle.cfg:207
+msgid "Glomlin"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-battle.cfg:208
+msgid "Duldril"
+msgstr ""
+
+#. [then]: (description=Urian) 42 3}, race=dwarf) side 1}
+#: Eliador/utils/eliador-battle.cfg:224
+msgid "Urian, is that you old friend? Get over here!"
+msgstr ""
+
+#. [then]: (description=Urian) 42 3}, race=dwarf) side 1}
+#: Eliador/utils/eliador-battle.cfg:226
+msgid ""
+"Glomlin, you're a sight for sore eyes. Please tell me you haven't aligned "
+"yourself with these beasts?"
+msgstr ""
+
+#. [then]: (description=Urian) 42 3}, race=dwarf) side 1}
+#: Eliador/utils/eliador-battle.cfg:227
+msgid "Actually..."
+msgstr ""
+
+#. [then]: (description=Urian) 42 3}, race=dwarf) side 1}
+#: Eliador/utils/eliador-battle.cfg:228
+msgid "No! Of course not! You know me better than that!"
+msgstr ""
+
+#. [then]: (description=Urian) 42 3}, race=dwarf) side 1}
+#: Eliador/utils/eliador-battle.cfg:229
+msgid "I am sorry..."
+msgstr ""
+
+#. [then]: (description=Urian) 42 3}, race=dwarf) side 1}
+#: Eliador/utils/eliador-battle.cfg:230
+msgid "Save the apologies for later. We've got vermin to exterminate!"
+msgstr ""
+
+#. [else]
+#: Eliador/utils/eliador-battle.cfg:236
+msgid "Dwarves? How can such noble beings fight alongside orcs?"
+msgstr ""
+
+#. [else]
+#: Eliador/utils/eliador-battle.cfg:237
+msgid ""
+"If you must know, we were banished from our homes in Wesnoth. Our new master "
+"promised us land and wealth if we fight alongside these vermin."
+msgstr ""
+
+#. [else]
+#: Eliador/utils/eliador-battle.cfg:238
+msgid "We'll offer the same deal if you fight with us."
+msgstr ""
+
+#. [else]
+#: Eliador/utils/eliador-battle.cfg:239
+msgid ""
+"Ha! We dwarves are a brave bunch, but we would not stand a chance against "
+"our master. I'm sorry, but you must all die!"
+msgstr ""
+
+#. [event]: description=Randalf facing sw}
+#. [event]
+#: Eliador/utils/eliador-varad.cfg:81 Eliador/utils/eliador-battle.cfg:248
+msgid "Randalf"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-battle.cfg:249
+msgid ""
+"You cannot win this battle, Ardella! Surrender now, and my master will "
+"arrange safe passage for you and your children to Wesnoth. Zilead is "
+"awaiting your arrival."
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-battle.cfg:250
+msgid "I will not abandon the people of Eliador!"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-battle.cfg:257
+msgid "Ursula"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-battle.cfg:260
+msgid ""
+"Remember our agreement, master. Ardella and her children must not be harmed."
+msgstr ""
+
+#. [then]
+#: Eliador/utils/eliador-battle.cfg:275
+msgid "Mother, look! Randalf's statues have escaped! They will kill the witch!"
+msgstr ""
+
+#. [then]
+#: Eliador/utils/eliador-battle.cfg:287
+msgid "They are bewitched... They will not help us."
+msgstr ""
+
+#. [then]: (description=Othello) 2 27}, (description=Othello) yes}
+#: Eliador/utils/eliador-battle.cfg:334
+msgid "Othello, you scaredy-cat!"
+msgstr ""
+
+#. [then]: (description=Othello) 2 27}, (description=Othello) yes}
+#: Eliador/utils/eliador-battle.cfg:362
+msgid ""
+"The time has come for me to abolish the law of Illien. Slaves of Illien, I "
+"release you!"
+msgstr ""
+
+#. [then]
+#. [event]
+#: Eliador/utils/eliador-battle.cfg:385 Eliador/utils/eliador-battle.cfg:394
+#: Eliador/utils/eliador-battle.cfg:395 Eliador/utils/eliador-battle.cfg:396
+#: Eliador/utils/eliador-battle.cfg:397 Eliador/utils/eliador-battle.cfg:398
+#: Eliador/utils/eliador-battle.cfg:399 Eliador/utils/eliador-battle.cfg:400
+#: Eliador/utils/eliador-battle.cfg:401 Eliador/utils/eliador-battle.cfg:402
+#: Eliador/utils/eliador-battle.cfg:403
+msgid "Kinowyn"
+msgstr ""
+
+#. [then]
+#: Eliador/utils/eliador-battle.cfg:407
+msgid "Kinowyn!"
+msgstr ""
+
+#. [then]
+#: Eliador/utils/eliador-battle.cfg:408
+msgid "Lucien sent us to help the elves of Glorienda."
+msgstr ""
+
+#. [then]
+#: Eliador/utils/eliador-battle.cfg:411
+msgid "You could not have come at a better time!"
+msgstr ""
+
+#. [else]
+#: Eliador/utils/eliador-battle.cfg:414
+msgid "I come from Angalas. Where are the elves of Glorienda?"
+msgstr ""
+
+#. [else]
+#: Eliador/utils/eliador-battle.cfg:415
+msgid "I am sorry, but they fell in battle."
+msgstr ""
+
+#. [else]
+#: Eliador/utils/eliador-battle.cfg:416
+msgid "Then I am too late..."
+msgstr ""
+
+#. [then]: (description=Randalf) side 1}, (type=Bill Fencer) side 1}, (type=Fencer) side 1}, (type=Duelist) side 1}, (type=Master at Arms) side 1}
+#: Eliador/utils/eliador-battle.cfg:456
+msgid "Master! I had your word..."
+msgstr ""
+
+#. [then]: (description=Randalf) side 1}, (type=Bill Fencer) side 1}, (type=Fencer) side 1}, (type=Duelist) side 1}, (type=Master at Arms) side 1}
+#: Eliador/utils/eliador-battle.cfg:457
+msgid "I have no mercy for my enemies!"
+msgstr ""
+
+#. [then]: (description=Randalf) side 1}, (type=Bill Fencer) side 1}, (type=Fencer) side 1}, (type=Duelist) side 1}, (type=Master at Arms) side 1}
+#: Eliador/utils/eliador-battle.cfg:458
+msgid "Nor do I! You will not harm them!"
+msgstr ""
+
+#. [then]: (description=Randalf) side 1}, (type=Bill Fencer) side 1}, (type=Fencer) side 1}, (type=Duelist) side 1}, (type=Master at Arms) side 1}
+#: Eliador/utils/eliador-battle.cfg:459
+msgid "You would not dare betray me, Randalf!"
+msgstr ""
+
+#. [then]: (description=Randalf) side 1}, (type=Bill Fencer) side 1}, (type=Fencer) side 1}, (type=Duelist) side 1}, (type=Master at Arms) side 1}
+#: Eliador/utils/eliador-battle.cfg:460
+msgid "Watch me!"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-battle.cfg:508
+msgid "Othello!"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-battle.cfg:517
+msgid "I shall return..."
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-battle.cfg:526
+msgid "Urian is dead!"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-battle.cfg:539
+msgid "The witch is dead!"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-battle.cfg:540
+msgid "Look! They're running away!"
+msgstr ""
+
+#: Eliador/utils/eliador-glorienda.cfg:3
+msgid "Glorienda"
+msgstr ""
+
+#. [objectives]
+#: Eliador/utils/eliador-glorienda.cfg:53
+msgid "Persuade the Elves of Glorienda to remain in Eliador."
+msgstr ""
+
+#. [objectives]
+#: Eliador/utils/eliador-glorienda.cfg:54
+msgid ""
+"To persuade an elf, visit her village more times than Lucien's side does"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-glorienda.cfg:73
+msgid "Nowen"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-glorienda.cfg:74
+msgid "Vodia"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-glorienda.cfg:75
+msgid "Glithiel"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-glorienda.cfg:76
+msgid "Belaraviel"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-glorienda.cfg:77
+msgid "Celilith"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-glorienda.cfg:78
+msgid "Fathien"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-glorienda.cfg:79
+msgid "Elvowien"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-glorienda.cfg:80
+msgid "Isithradien"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-glorienda.cfg:83
+msgid "Elagriel"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-glorienda.cfg:84
+msgid "Ilalya"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-glorienda.cfg:85
+msgid "Delydien"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-glorienda.cfg:86
+msgid "Tinil-Gawiel"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-glorienda.cfg:87
+msgid "Uniode"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-glorienda.cfg:88
+msgid "Unorfiwen"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-glorienda.cfg:89
+msgid "Unil-Gadia"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-glorienda.cfg:90
+msgid "Elviondra"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-glorienda.cfg:91
+msgid "Amethia"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-glorienda.cfg:92
+msgid "Uruthien"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-glorienda.cfg:93
+msgid "Githraniel"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-glorienda.cfg:94
+msgid "Narania"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-glorienda.cfg:95
+msgid "Legondra"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-glorienda.cfg:104
+msgid "Gerwen"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-glorienda.cfg:105
+msgid "Elwin"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-glorienda.cfg:124
+msgid "Lucien"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-glorienda.cfg:127
+msgid "What brings you to Eliador, Lucien?"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-glorienda.cfg:128
+msgid ""
+"Orcs have stormed the beaches of Angalas. We are vastly outnumbered. I have "
+"come to ask the elves of Glorienda for help."
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-glorienda.cfg:129
+msgid "You can count on us."
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-glorienda.cfg:131
+msgid "The elves of Glorienda will help us."
+msgstr ""
+
+#: Eliador/utils/eliador-heldurin1.cfg:3 Eliador/utils/eliador-heldurin2.cfg:3
+msgid "Heldurin"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-heldurin1.cfg:50
+msgid "Glillyn"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-heldurin1.cfg:51
+msgid "Addribryn"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-heldurin1.cfg:52
+msgid "Rhugwyn"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-heldurin1.cfg:58
+msgid ""
+"I am sorry, Ardella. We would very much like to help you fight off the "
+"invaders, but we must get our families off this island."
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-heldurin1.cfg:59
+msgid "I cannot persuade you to stay?"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-heldurin1.cfg:60
+msgid "Perhaps. Your husband is rumored to have a vast treasure..."
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-heldurin1.cfg:61
+msgid "How much do you want?"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-heldurin2.cfg:43
+msgid "Thank you, Ardella."
+msgstr ""
+
+#. [objective]: condition=win
+#: Eliador/utils/eliador-home.cfg:130
+msgid "Move Ardella to a scenario label"
+msgstr ""
+
+#. [objective]: condition=win
+#: Eliador/utils/eliador-home.cfg:134
+msgid "Or, press 'End Turn' to have one chosen for you"
+msgstr ""
+
+#: Eliador/utils/eliador-illien.cfg:3
+msgid "Illien"
+msgstr ""
+
+#. [objectives]
+#: Eliador/utils/eliador-illien.cfg:52
+msgid ""
+"\n"
+"A move is valid if Othello's units will be between two of yours. To place a "
+"unit on the board:\n"
+"  (1) Move Ardella to select the column\n"
+"  (2) Move Ardella to select the row\n"
+"  (3) Press 'End Turn'"
+msgstr ""
+
+#. [objective]: condition=win
+#: Eliador/utils/eliador-illien.cfg:54
+msgid "You don't lose Anna or Zeke"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Eliador/utils/eliador-illien.cfg:58
+msgid "You lose Anna or Zeke"
+msgstr ""
+
+#. [event]: (description=Ardella) yes}, (description=Anna) yes}, (description=Zeke) yes}
+#. [event]
+#: Eliador/utils/eliador-varad.cfg:235 Eliador/utils/eliador-illien.cfg:83
+msgid "Othello"
+msgstr ""
+
+#. [event]: (description=Anna) yes}, (description=Zeke) yes}, (description=Ardella) no}, (description=Ardella) yes}, (description=Othello) no}
+#: Eliador/utils/eliador-illien.cfg:96
+msgid "Ardella, I'm sure you're aware of the law of Illien. Are you prepared?"
+msgstr ""
+
+#. [event]: (description=Anna) yes}, (description=Zeke) yes}, (description=Ardella) no}, (description=Ardella) yes}, (description=Othello) no}
+#: Eliador/utils/eliador-illien.cfg:97
+msgid ""
+"You must know that we are about to be invaded. We don't have time for your "
+"games. Will you help us repel the invasion?"
+msgstr ""
+
+#. [event]: (description=Anna) yes}, (description=Zeke) yes}, (description=Ardella) no}, (description=Ardella) yes}, (description=Othello) no}
+#: Eliador/utils/eliador-illien.cfg:98
+msgid ""
+"If you do not obey the law of Illien, my undead will annihilate your "
+"pathetic army. Now, let's begin, shall we?"
+msgstr ""
+
+#. [event]: (description=Anna) yes}, (description=Zeke) yes}, (description=Ardella) no}, (description=Ardella) yes}, (description=Othello) no}
+#: Eliador/utils/eliador-illien.cfg:105
+msgid "Momma, what's happening? I can't move!"
+msgstr ""
+
+#. [event]: (description=Anna) yes}, (description=Zeke) yes}, (description=Ardella) no}, (description=Ardella) yes}, (description=Othello) no}
+#: Eliador/utils/eliador-illien.cfg:114
+msgid "Ahh!"
+msgstr ""
+
+#. [then]
+#: Eliador/utils/eliador-illien.cfg:543
+msgid "No cheating!"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-illien.cfg:645
+msgid ""
+"You've sacrificed your children in an attempt to save your soldiers. Your "
+"heart is even colder than mine."
+msgstr ""
+
+#. [event]: (description=Zeke) no}, (description=Anna) no}, race=monster) no}
+#: Eliador/utils/eliador-illien.cfg:679
+msgid ""
+"Well done, Ardella, you've protected your children. You can keep the "
+"skeletons that you've won, and I'll keep any man or creature that you've "
+"lost. Goodbye."
+msgstr ""
+
+#: Eliador/utils/eliador-kelroth.cfg:3
+msgid "Dol Kelroth"
+msgstr ""
+
+#. [event]
+#. [event]: (description=Ardella) no}, (description=Anna) no}, (description=Zeke) no}, (description=Urian) no}
+#: Eliador/utils/eliador-kelroth.cfg:127 Eliador/utils/eliador-kelroth.cfg:420
+msgid "Urian"
+msgstr ""
+
+#. [event]: type=Goblin Knight) 4 6}, type=Goblin Knight) 5 6}, type=Goblin Knight) 6 6}
+#: Eliador/utils/eliador-kelroth.cfg:158
+msgid "Where is everyone?"
+msgstr ""
+
+#. [event]: type=Goblin Knight) 4 6}, type=Goblin Knight) 5 6}, type=Goblin Knight) 6 6}
+#: Eliador/utils/eliador-kelroth.cfg:179
+msgid ""
+"Urian! Please, if you are still alive, you must get my children away from "
+"these beasts!"
+msgstr ""
+
+#. [event]: type=Goblin Knight) 4 6}, type=Goblin Knight) 5 6}, type=Goblin Knight) 6 6}
+#: Eliador/utils/eliador-kelroth.cfg:180
+msgid ""
+"Ardella, there are orcs everywhere! I have sent two gryphons for your kids. "
+"If you help me defeat the orcs, my birds and I will forever be at your "
+"service."
+msgstr ""
+
+#. [event]: type=Goblin Knight) 4 6}, type=Goblin Knight) 5 6}, type=Goblin Knight) 6 6}
+#: Eliador/utils/eliador-kelroth.cfg:185
+msgid "Hurry, children! Get on the gryphons and fly somewhere safe!"
+msgstr ""
+
+#. [event]: type=Goblin Knight) 4 6}, type=Goblin Knight) 5 6}, type=Goblin Knight) 6 6}
+#: Eliador/utils/eliador-kelroth.cfg:187
+msgid ""
+"Ardella, the residents of Dol Kelroth have been killed and their bodies "
+"dumped in the sea."
+msgstr ""
+
+#. [event]: type=Goblin Knight) 4 6}, type=Goblin Knight) 5 6}, type=Goblin Knight) 6 6}
+#: Eliador/utils/eliador-kelroth.cfg:188
+msgid "Are you certain everyone is dead?"
+msgstr ""
+
+#. [event]: type=Goblin Knight) 4 6}, type=Goblin Knight) 5 6}, type=Goblin Knight) 6 6}
+#: Eliador/utils/eliador-kelroth.cfg:189
+msgid ""
+"I have tried to search the sea for survivors, but neither I nor my birds can "
+"see through the dense fog."
+msgstr ""
+
+#. [event]: type=Goblin Knight) 4 6}, type=Goblin Knight) 5 6}, type=Goblin Knight) 6 6}
+#: Eliador/utils/eliador-kelroth.cfg:191
+msgid "Momma, you kill all the orcs and we'll find the survivors."
+msgstr ""
+
+#. [event]: type=Goblin Knight) 4 6}, type=Goblin Knight) 5 6}, type=Goblin Knight) 6 6}
+#: Eliador/utils/eliador-kelroth.cfg:193
+msgid "Sounds like a plan... Let's go, Zeke!"
+msgstr ""
+
+#. [message]: description=Ardella
+#: Eliador/utils/eliador-kelroth.cfg:385
+msgid "The invaders of Dol Kelroth are vanquished."
+msgstr ""
+
+#. [message]: description=Ardella
+#: Eliador/utils/eliador-kelroth.cfg:397
+msgid "We are overrun by these loathesome creatures!"
+msgstr ""
+
+#: Eliador/utils/eliador-sinon.cfg:3
+msgid "Mount Sinon"
+msgstr ""
+
+#. [objectives]
+#: Eliador/utils/eliador-sinon.cfg:39
+msgid "Move horses to high ground"
+msgstr ""
+
+#. [objectives]
+#: Eliador/utils/eliador-sinon.cfg:42
+msgid ""
+"\n"
+"(1) Move next to a horse to mount it\n"
+"(2) Horses and children can move onto hills but not mountains"
+msgstr ""
+
+#. [objective]: condition=win
+#: Eliador/utils/eliador-sinon.cfg:44
+msgid "Survive until end of turns"
+msgstr ""
+
+#. [then]
+#: Eliador/utils/eliador-sinon.cfg:112
+msgid "Why did the beasts leave?"
+msgstr ""
+
+#. [then]
+#: Eliador/utils/eliador-sinon.cfg:113
+msgid "I do not know."
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-sinon.cfg:123
+msgid "Momma, my ears! What was that noise?"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-sinon.cfg:124
+msgid "It sounded like a..."
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-sinon.cfg:125
+msgid "It couldn't be... Mount Sinon has been dormant for three centuries..."
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-sinon.cfg:126
+msgid "Look over there, momma!"
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-sinon.cfg:127
+msgid "Quickly, get to the mountains!"
+msgstr ""
+
+#. [then]
+#: Eliador/utils/eliador-sinon.cfg:361
+msgid "You have risked your lives to save our steeds. Why?"
+msgstr ""
+
+#. [then]
+#: Eliador/utils/eliador-sinon.cfg:362
+msgid ""
+"Because we need every man and beast on this island to fight the enemies "
+"approaching Eliador."
+msgstr ""
+
+#. [then]
+#: Eliador/utils/eliador-sinon.cfg:363
+msgid ""
+"We have never backed down from a fight, so we will help you. But we have "
+"seen the number of galleons. Why don't you take your children off this "
+"island?"
+msgstr ""
+
+#. [then]
+#: Eliador/utils/eliador-sinon.cfg:364
+msgid "Because they took my papa!"
+msgstr ""
+
+#: Eliador/utils/eliador-treasure.cfg:3
+msgid "Zilead's Treasure"
+msgstr ""
+
+#. [objective]: condition=win
+#: Eliador/utils/eliador-treasure.cfg:54
+msgid "Move Ardella to the treasure chest and then back to the entrance"
+msgstr ""
+
+#: Eliador/utils/eliador-varad.cfg:2
+msgid "Varad"
+msgstr ""
+
+#. [objectives]
+#: Eliador/utils/eliador-varad.cfg:58
+msgid "Othello is the only one who can kill Randalf"
+msgstr ""
+
+#. [objective]: condition=win
+#: Eliador/utils/eliador-varad.cfg:60
+msgid "Death of Randalf"
+msgstr ""
+
+#. [objective]: condition=win
+#: Eliador/utils/eliador-varad.cfg:64
+msgid "Death of Othello"
+msgstr ""
+
+#. [event]: description=Randalf facing sw}
+#: Eliador/utils/eliador-varad.cfg:149
+msgid "Bellamy"
+msgstr ""
+
+#. [event]: description=Randalf facing sw}
+#: Eliador/utils/eliador-varad.cfg:150
+msgid "Arlong"
+msgstr ""
+
+#. [event]: description=Randalf facing sw}
+#: Eliador/utils/eliador-varad.cfg:151
+msgid "Heldor"
+msgstr ""
+
+#. [event]: description=Randalf facing sw}
+#: Eliador/utils/eliador-varad.cfg:152
+msgid "Flint"
+msgstr ""
+
+#. [event]: description=Randalf facing sw}
+#: Eliador/utils/eliador-varad.cfg:153
+msgid "Garrett"
+msgstr ""
+
+#. [event]: (description=Ardella) yes}, (description=Anna) yes}, (description=Zeke) yes}
+#: Eliador/utils/eliador-varad.cfg:229
+msgid "Randalf? What have you done?"
+msgstr ""
+
+#. [event]: (description=Ardella) yes}, (description=Anna) yes}, (description=Zeke) yes}
+#: Eliador/utils/eliador-varad.cfg:230
+msgid "My master is taking over Eliador. I must..."
+msgstr ""
+
+#. [event]: (description=Ardella) yes}, (description=Anna) yes}, (description=Zeke) yes}
+#: Eliador/utils/eliador-varad.cfg:231
+msgid "Where is my papa? Speak, wizard!"
+msgstr ""
+
+#. [event]: (description=Ardella) yes}, (description=Anna) yes}, (description=Zeke) yes}
+#: Eliador/utils/eliador-varad.cfg:232
+msgid "Fear not, young Zeke. Your father..."
+msgstr ""
+
+#. [event]: (description=Ardella) yes}, (description=Anna) yes}, (description=Zeke) yes}
+#: Eliador/utils/eliador-varad.cfg:239
+msgid "Randalf! Did you think I would sit idly by while my land is invaded?"
+msgstr ""
+
+#. [event]: (description=Ardella) yes}, (description=Anna) yes}, (description=Zeke) yes}
+#: Eliador/utils/eliador-varad.cfg:240
+msgid ""
+"Oh, how I've waited for this moment. Come forth, Othello of Illien! Let's "
+"see what you are made of!"
+msgstr ""
+
+#. [event]: (description=Ardella) yes}, (description=Anna) yes}, (description=Zeke) yes}
+#: Eliador/utils/eliador-varad.cfg:241
+msgid ""
+"Get your children out of harms way, Ardella! You are no match for the wizard."
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-varad.cfg:266
+msgid "You haven't seen the last of me..."
+msgstr ""
+
+#. [event]
+#: Eliador/utils/eliador-varad.cfg:274
+msgid "Look! The wizard's spell has been broken!"
+msgstr ""
+
+#: Eliador/utils/eliador-varad.cfg:297
+msgid "Othello has been slain! Retreat!"
+msgstr ""
+
+#: Eliador/utils/randalf-powers.cfg:5
+msgid "Zara! Baringa! Echla!"
+msgstr ""
