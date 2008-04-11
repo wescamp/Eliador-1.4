@@ -3,14 +3,12 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-04-11 17:45+0200\n"
-"PO-Revision-Date: 2008-04-11 17:45+0200\n"
+"PO-Revision-Date: 2005-10-12 19:44+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
-"20)) ? 1 : 2;\n"
 
 #. [scenario]
 #. [campaign]
@@ -1562,3 +1560,6 @@ msgstr ""
 #: Eliador/utils/randalf-powers.cfg:5
 msgid "Zara! Baringa! Echla!"
 msgstr ""
+
+#~ msgid "Skeleton"
+#~ msgstr "schelet"

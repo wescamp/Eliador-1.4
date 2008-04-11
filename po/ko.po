@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-04-11 17:45+0200\n"
-"PO-Revision-Date: 2008-04-11 17:45+0200\n"
+"PO-Revision-Date: 2006-03-12 18:38+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -1561,3 +1561,9 @@ msgstr ""
 #: Eliador/utils/randalf-powers.cfg:5
 msgid "Zara! Baringa! Echla!"
 msgstr ""
+
+#~ msgid "Skeleton"
+#~ msgstr "스켈레톤"
+
+#~ msgid "Skeleton Archer"
+#~ msgstr "스켈레톤 아쳐"

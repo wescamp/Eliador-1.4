@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-04-11 17:45+0200\n"
-"PO-Revision-Date: 2008-04-11 17:45+0200\n"
+"PO-Revision-Date: 2005-07-25 14:58+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -578,7 +578,7 @@ msgstr ""
 #: Eliador/utils/eliador-balas.cfg:93 Eliador/utils/eliador-battle.cfg:57
 #: Eliador/utils/eliador-glorienda.cfg:56
 msgid "Turns run out"
-msgstr ""
+msgstr "Poteze se iztečejo"
 
 #. [unit]: type=Elvish Archer, description=Eledril
 #: Eliador/utils/eliador-balas.cfg:143
@@ -1562,3 +1562,9 @@ msgstr ""
 #: Eliador/utils/randalf-powers.cfg:5
 msgid "Zara! Baringa! Echla!"
 msgstr ""
+
+#~ msgid "Skeleton"
+#~ msgstr "Okostnjak"
+
+#~ msgid "Skeleton Archer"
+#~ msgstr "Okostnjak lokostrelec"

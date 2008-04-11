@@ -1,22 +1,25 @@
+# translation of cs.po to Czech
+# Oto 'tapik' Buchta <tapik@buchtovi.cz>, 2006.
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-04-11 17:45+0200\n"
-"PO-Revision-Date: 2008-04-11 17:45+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2006-10-23 14:39+0200\n"
+"Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
+"Language-Team: Czech <wesnoth-cs-l@buchtovi.cz>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: KBabel 1.11.2\n"
 
 #. [scenario]
 #. [campaign]
 #: Eliador/scenarios/eliador-home-intro.cfg:5 Eliador/utils/eliador-home.cfg:2
 #: Eliador/utils/eliador-battle.cfg:2 Eliador/_main.cfg:8
 msgid "Invasion of Eliador"
-msgstr ""
+msgstr "Invaze Eliadoru"
 
 #. [campaign]
 #: Eliador/_main.cfg:9
@@ -26,7 +29,7 @@ msgstr ""
 #. [campaign]
 #: Eliador/_main.cfg:10
 msgid " (Version"
-msgstr ""
+msgstr " (Verze"
 
 #. [campaign]
 #: Eliador/_main.cfg:10
@@ -35,6 +38,9 @@ msgid ""
 "the eastern shore. It is up to a family of outlaws to warn the island's "
 "inhabitants before it's too late."
 msgstr ""
+"Zdá se, že mírumilovný ostrov je napadán z východního pobřeží neznámými "
+"nepřáteli. Jedině rodina uprchlíků může varovat obyvatele ostrova dříve, než "
+"bude příliš pozdě."
 
 #. [campaign]
 #: Eliador/_main.cfg:14
@@ -463,22 +469,25 @@ msgstr ""
 #: Eliador/utils/eliador-kelroth.cfg:100 Eliador/utils/eliador-anwar.cfg:83
 #: Eliador/utils/eliador-treasure.cfg:58 Eliador/utils/eliador-balas.cfg:81
 #: Eliador/utils/eliador-sinon.cfg:48 Eliador/utils/eliador-battle.cfg:45
+#, fuzzy
 msgid "Death of Ardella"
-msgstr ""
+msgstr "Zemře Ardella, Anna nebo Zeke"
 
 #. [objective]: condition=lose
 #: Eliador/utils/eliador-kelroth.cfg:104 Eliador/utils/eliador-anwar.cfg:87
 #: Eliador/utils/eliador-treasure.cfg:62 Eliador/utils/eliador-balas.cfg:85
 #: Eliador/utils/eliador-sinon.cfg:52 Eliador/utils/eliador-battle.cfg:49
+#, fuzzy
 msgid "Death of Anna"
-msgstr ""
+msgstr "Zemře Ardella, Anna nebo Zeke"
 
 #. [objective]: condition=lose
 #: Eliador/utils/eliador-kelroth.cfg:108 Eliador/utils/eliador-anwar.cfg:91
 #: Eliador/utils/eliador-treasure.cfg:66 Eliador/utils/eliador-balas.cfg:89
 #: Eliador/utils/eliador-sinon.cfg:56 Eliador/utils/eliador-battle.cfg:53
+#, fuzzy
 msgid "Death of Zeke"
-msgstr ""
+msgstr "Zemře Ardella, Anna nebo Zeke"
 
 #. [event]
 #: Eliador/utils/eliador-anwar.cfg:103
@@ -532,8 +541,9 @@ msgstr ""
 
 #. [else]
 #: Eliador/utils/eliador-anwar.cfg:163
+#, fuzzy
 msgid "Stay out of the cave!"
-msgstr ""
+msgstr "Nepřibližujte se k vodě! Ani se nehněte z místa!"
 
 #. [event]
 #: Eliador/utils/eliador-anwar.cfg:188
@@ -577,7 +587,7 @@ msgstr ""
 #: Eliador/utils/eliador-balas.cfg:93 Eliador/utils/eliador-battle.cfg:57
 #: Eliador/utils/eliador-glorienda.cfg:56
 msgid "Turns run out"
-msgstr ""
+msgstr "Počet kol vypršel."
 
 #. [unit]: type=Elvish Archer, description=Eledril
 #: Eliador/utils/eliador-balas.cfg:143
@@ -622,7 +632,7 @@ msgstr ""
 #. [event]: (description=Bill) 11 9}, (description=Ardella) 8 37}
 #: Eliador/utils/eliador-balas.cfg:232
 msgid "Momma, that's the bad man who took papa!"
-msgstr ""
+msgstr "Mami, to je ten ničema, který unesl tátu!"
 
 #. [event]: (description=Bill) 11 9}, (description=Ardella) 8 37}
 #: Eliador/utils/eliador-balas.cfg:233
@@ -675,13 +685,14 @@ msgstr ""
 
 #. [then]: (description=Balthor) yes}, (description=Zeke) yes}, (description=Anna) yes}, (description=Balthor) movement_costs.shallow_water 20}
 #: Eliador/utils/eliador-balas.cfg:388
+#, fuzzy
 msgid "Wow, a sea serpent!"
-msgstr ""
+msgstr "Hezky! Mořský had!"
 
 #. [then]: (description=Balthor) yes}, (description=Zeke) yes}, (description=Anna) yes}, (description=Balthor) movement_costs.shallow_water 20}
 #: Eliador/utils/eliador-balas.cfg:389
 msgid "What are human children doing in my water?"
-msgstr ""
+msgstr "Co dělají lidská mláďata v mojich vodách?"
 
 #. [then]: (description=Balthor) yes}, (description=Zeke) yes}, (description=Anna) yes}, (description=Balthor) movement_costs.shallow_water 20}
 #: Eliador/utils/eliador-balas.cfg:390
@@ -981,8 +992,9 @@ msgstr ""
 
 #. [event]
 #: Eliador/utils/eliador-battle.cfg:508
+#, fuzzy
 msgid "Othello!"
-msgstr ""
+msgstr "Do pekel s tebou!"
 
 #. [event]
 #: Eliador/utils/eliador-battle.cfg:517
@@ -1561,3 +1573,125 @@ msgstr ""
 #: Eliador/utils/randalf-powers.cfg:5
 msgid "Zara! Baringa! Echla!"
 msgstr ""
+
+#~ msgid ""
+#~ "&footpad-toddler.png=Easy;*&outlaw-princess-kid.png=Medium;&neutral-"
+#~ "outlaw-queen.png=Hard"
+#~ msgstr ""
+#~ "&footpad-toddler.png=Jednoduchý;*&outlaw-princess-kid.png=Normální;"
+#~ "&neutral-outlaw-queen.png=Těžký"
+
+#~ msgid "Caves of Anwar"
+#~ msgstr "Jeskyně Anwaru"
+
+#~ msgid "Get kids close to monsters to recruit them"
+#~ msgstr "Abys děti mohl naverbovat, musíš je přiblížit k příšerám"
+
+#~ msgid ""
+#~ "We will now enter the caves of Anwar. There are powerful beasts here that "
+#~ "can prove useful to us. We must find a way to earn their trust."
+#~ msgstr ""
+#~ "Nyní jsou před námi jeskyně Anwaru. Žijí v nich mocné příšery, které nám "
+#~ "mohou být užitečné. Jen musíme najít způsob, jak získat jejich důvěru."
+
+#~ msgid "But, mother, I'm scared! They'll kill us!"
+#~ msgstr "Matko, bojím se! Oni nás zabijí!"
+
+#~ msgid ""
+#~ "As long as we keep a safe distance, they will not harm us. However, I "
+#~ "fear that since I am armed, they might instinctively attack me."
+#~ msgstr ""
+#~ "Dokud budeme udržovat důstojný odstup, neublíží nám. Trochu se ale bojím, "
+#~ "že na mě instinktivně zaútočí, když jsem ozbrojen."
+
+#~ msgid "Then drop your weapon."
+#~ msgstr "Pak odhoď svou zbraň."
+
+#~ msgid "I cannot. The caves are too perilous."
+#~ msgstr "Nemohu. Jeskyně jsou příliš nebezpečné."
+
+#~ msgid "Then we will help you, momma!"
+#~ msgstr "Tak ti pomůžem, mami!"
+
+#~ msgid "Prisoners of Balas"
+#~ msgstr "Vězni z Balas"
+
+#~ msgid "Hint: Don't listen to your mother"
+#~ msgstr "Tip: Neposlouchej svou matku"
+
+#~ msgid "Kill all enemies on the northeastern isle to free the prisoners."
+#~ msgstr "Zabij všechny nepřátele na severovýchodě ostrova a osvoboď vězně."
+
+#~ msgid "Who are these fools trespassing on my master's island?"
+#~ msgstr "Kdo jsou ti hlupáci, kteří sužují ostrov mého pána?"
+
+#~ msgid ""
+#~ "Kids, you wait here and stay out of trouble. I'll find out where your "
+#~ "father is."
+#~ msgstr "Děcka, počkejte tady v bezpečí, půjdu hledat vašeho otce."
+
+#~ msgid "Hey, Zeke, do you wanna go swimming?"
+#~ msgstr "Hej, Zeku, chceš si zaplavat?"
+
+#~ msgid ""
+#~ "We're looking for our papa. When we find him, we're going to kill all the "
+#~ "bad guys!"
+#~ msgstr "Hledáme našeho otce. Až ho najdeme, zabijeme všechny ničemy!"
+
+#~ msgid ""
+#~ "You're a brave little boy. Rest assured, the sea creatures of Eliador are "
+#~ "doing everything we can to stop the approaching galleons."
+#~ msgstr ""
+#~ "Jsi udatný mládenec. Můžeš si být jistý, že eliadorské mořské nestvůry "
+#~ "udělají všechno pro to, abychom nemohli zabránit vylodění galeon."
+
+#~ msgid ""
+#~ "If you wish to fight them when they reach the shore, then you must free "
+#~ "the warriors being held captive. Come with me and I will help you free "
+#~ "them."
+#~ msgstr ""
+#~ "Jestliže chceš s nimi bojovat, až připlují k pobřeží, pak musíš osvobodit "
+#~ "uvězněné bojovníky. Pojď se mnou, pomohu ti je osvobodit."
+
+#~ msgid "Bill, where is Zilead?"
+#~ msgstr "Bille, kde je Zilead?"
+
+#~ msgid ""
+#~ "The islanders have amassed a great army. Our master should not have "
+#~ "underestimated them. We must join them. Together, we can end our master's "
+#~ "evil crusade."
+#~ msgstr ""
+#~ "Ostrované shromáždili velkou armádu. Náš pán by je neměl podceňovat. "
+#~ "Musíme se k nim připojit. Společně pak dotáhneme křížovou výpravu našeho "
+#~ "pána do vítězného konce."
+
+#~ msgid "Are you mad? If we betray our master, we will meet certain death."
+#~ msgstr "Zešílel jsi? Když zradíme našeho pána, čeká nás jistá smrt."
+
+#~ msgid ""
+#~ "Aye, but we are defeated. Our master will most certainly slay us if we "
+#~ "surrender to the islanders. If I am to die, then I choose to die with "
+#~ "honor!"
+#~ msgstr ""
+#~ "Ano, jsme poraženi. Náš pán by nás určitě zabil, kdybychom se vzdali "
+#~ "ostrovanům. Mám-li zemřít, pak tedy se ctí!"
+
+#~ msgid ""
+#~ "We will not surrender! All islanders and turncoats will die by my sword!"
+#~ msgstr "Nevzdáme se! Všichni ostrované a přeběhlíci zemřou mým mečem!"
+
+#~ msgid ""
+#~ "Now, that these warriors are free, I shall head east to try to stop those "
+#~ "galleons. Good luck, children!"
+#~ msgstr ""
+#~ "Teď jsou bojovníci volní. Já půjdu na východ a zkusím zastavit ty "
+#~ "galeony. Hodně štěstí, děti."
+
+#~ msgid "Bye!"
+#~ msgstr "Nashledanou!"
+
+#~ msgid "Skeleton"
+#~ msgstr "Kostlivec"
+
+#~ msgid "Skeleton Archer"
+#~ msgstr "Kostlivec lučištník"
