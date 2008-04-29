@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-04-11 17:45+0200\n"
-"PO-Revision-Date: 2008-04-25 19:28+0100\n"
+"PO-Revision-Date: 2008-04-29 09:04+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -89,12 +89,12 @@ msgstr "Anna"
 #. [message]: type=Pirate Galleon
 #: Eliador/scenarios/eliador-end.cfg:53
 msgid "How much further is Wesnoth?"
-msgstr ""
+msgstr "Quanto è lontano Wesnoth?"
 
 #. [message]: type=Pirate Galleon
 #: Eliador/scenarios/eliador-end.cfg:58
 msgid "We will arrive in two days time."
-msgstr ""
+msgstr "Ci arriveremo tra due giorni."
 
 #. [unit]: type=Outlaw Kid, description=Zeke
 #. [message]: type=Pirate Galleon
@@ -107,7 +107,7 @@ msgstr "Zeke"
 #. [message]: type=Pirate Galleon
 #: Eliador/scenarios/eliador-end.cfg:63
 msgid "I can't wait that long! I miss papa!"
-msgstr ""
+msgstr "Non resisterò così a lungo! Papà mi manca!"
 
 #. [event]: (description=Agatha) moves 0}, (description=Glenda) moves 0}
 #: Eliador/scenarios/eliador-end.cfg:71
@@ -136,7 +136,7 @@ msgstr "Zilead"
 #. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
 #: Eliador/scenarios/eliador-home-intro.cfg:93
 msgid "Why do you look so sad, papa?"
-msgstr ""
+msgstr "Perché sei così triste, papà?"
 
 #. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
 #: Eliador/scenarios/eliador-home-intro.cfg:94
@@ -144,11 +144,13 @@ msgid ""
 "I am just feeling a little nostalgic, my son. It has been exactly six years "
 "since your mother and I came to Eliador."
 msgstr ""
+"È solo un po' di nostalgia, figliolo. Sono trascorsi esattamente sei anni da "
+"quando io e tua madre siamo venuti a Eliador."
 
 #. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
 #: Eliador/scenarios/eliador-home-intro.cfg:95
 msgid "If you liked Wesnoth so much, then why did you leave?"
-msgstr ""
+msgstr "Se Wesnoth ti piaceva, perché te ne sei andato?"
 
 #. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
 #: Eliador/scenarios/eliador-home-intro.cfg:96
@@ -157,14 +159,13 @@ msgstr "È una lunga...."
 
 #. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
 #: Eliador/scenarios/eliador-home-intro.cfg:103
-#, fuzzy
 msgid "What is it, papa? What are you looking at?"
-msgstr "Perché?... Cosa stai guardando?"
+msgstr "Cos'è, papà? Cosa stai guardando?"
 
 #. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
 #: Eliador/scenarios/eliador-home-intro.cfg:104
 msgid "Galleons on the horizon. Dozens of them!"
-msgstr ""
+msgstr "Galeoni all'orizzonte. A decine!"
 
 #. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
 #. [event]: description=Randalf facing sw}
@@ -211,9 +212,8 @@ msgstr "Elfo vendicatore  prigioniero"
 
 #. [unit]: race=elf
 #: Eliador/units/Captured_Marksman.cfg:4
-#, fuzzy
 msgid "Captured Elvish Marksman"
-msgstr "Tiratrice scelta"
+msgstr "Elfa tiratrice scelta prigioniera"
 
 #. [unit]: race=elf
 #: Eliador/units/Captured_Ranger.cfg:4
@@ -222,9 +222,8 @@ msgstr "Elfo ranger prigioniero"
 
 #. [unit]: race=elf
 #: Eliador/units/Captured_Sharpshooter.cfg:4
-#, fuzzy
 msgid "Captured Elvish Sharpshooter"
-msgstr "Campionessa di tiro del deserto"
+msgstr "Elfa campionessa di tiro prigioniera"
 
 #. [unit]: race=monster
 #: Eliador/units/Cockatrice.cfg:4
@@ -298,7 +297,6 @@ msgstr "Mago anziano"
 
 #. [unit]: race=human
 #: Eliador/units/Elder_Mage.cfg:24
-#, fuzzy
 msgid ""
 "Once great, Elder Magi have seen their power a little diminished from "
 "wearying years of battle. Nevertheless they remain feared on the battlefield "
@@ -412,7 +410,6 @@ msgstr "Regina fuorilegge"
 
 #. [unit]: race=human
 #: Eliador/units/Outlaw_Queen.cfg:26
-#, fuzzy
 msgid ""
 "A noble by birth, the Outlaw Queen has learnt swordplay with the greatest "
 "generals and battle tactics with the greatest sages, making her both a great "
@@ -422,11 +419,11 @@ msgid ""
 "that goal."
 msgstr ""
 "La regina fuorilegge è nobile di nascita e ha imparato a utilizzare la spada "
-"dai migliori generali, mentre i più saggi del regno le insegnavano le "
-"tattiche migliori rendendola una micidiale combattente e un'ottima "
-"condottiera. È il prodotto di una aristocrazia fallita e ha preferito vivere "
-"come fuorilegge. Sogna di fondare un proprio regno con l'aiuto degli amici "
-"incontrati lungo la strada e il suo obiettivo è sempre più vicino."
+"dai migliori generali e le tattiche di battaglia dai più grandi saggi, "
+"divenendo una micidiale combattente e un'ottima condottiera. Comunque è il "
+"prodotto di una aristocrazia fallita che ha preferito vivere come "
+"fuorilegge. Sogna di fondare un proprio regno con l'aiuto degli amici "
+"incontrati lungo la strada e non è mai stata così vicina al suo obiettivo."
 
 #. [attack]: type=impact
 #: Eliador/units/Outlaw_Queen.cfg:104 Eliador/units/Queen_Seaserpent.cfg:39
@@ -435,9 +432,8 @@ msgstr "fionda"
 
 #. [unit]: race=monster
 #: Eliador/units/Queen_Seaserpent.cfg:4
-#, fuzzy
 msgid "female^Queen Sea Serpent"
-msgstr "Serpente marino con i bambini"
+msgstr "Regina serpente di mare"
 
 #. [unit]: race=monster
 #: Eliador/units/Shark.cfg:4
@@ -452,7 +448,7 @@ msgstr "Strega"
 #. [attack]: type=blade
 #: Eliador/units/Witch.cfg:66
 msgid "broom poke"
-msgstr ""
+msgstr "colpo di scopa"
 
 #. [attack]: type=pierce
 #: Eliador/units/Witch.cfg:75
@@ -520,7 +516,7 @@ msgstr "Nuba"
 #. [event]
 #: Eliador/utils/eliador-anwar.cfg:110
 msgid "The beasts of Anwar can prove useful to us."
-msgstr ""
+msgstr "Gli animali di Anwar ci si potranno dimostrare utili."
 
 #. [event]
 #: Eliador/utils/eliador-anwar.cfg:111
@@ -530,7 +526,7 @@ msgstr "Cosa dobbiamo fare?"
 #. [event]
 #: Eliador/utils/eliador-anwar.cfg:112
 msgid "Do you remember the magic words your father taught you?"
-msgstr ""
+msgstr "Ti ricordi le parole magiche che tuo padre ti ha insegnato?"
 
 #. [event]
 #: Eliador/utils/eliador-anwar.cfg:113
@@ -541,12 +537,12 @@ msgstr "Iumento, pareah."
 #: Eliador/utils/eliador-anwar.cfg:114
 msgid "Good. Approach a beast, look into its eyes and recite those words."
 msgstr ""
+"Bene. Avvicinati a una animale, guardalo negli occhi e recita quelle parole."
 
 #. [event]
 #: Eliador/utils/eliador-anwar.cfg:147
-#, fuzzy
 msgid "Momma, what was that flapping noise?"
-msgstr "Mamma, cos'è questo rumore?"
+msgstr "Mamma, cos'è questo rumore di roba che sbatte?"
 
 #. [then]
 #: Eliador/utils/eliador-anwar.cfg:160
@@ -655,7 +651,7 @@ msgstr "Bill!"
 #. [event]: (description=Bill) 11 9}, (description=Ardella) 8 37}
 #: Eliador/utils/eliador-balas.cfg:234
 msgid "Ardella has arrived. You know what to do."
-msgstr ""
+msgstr "Ardella è arrivata. Voglio sapere cosa fare."
 
 #. [event]: (description=Bill) 11 9}, (description=Ardella) 8 37}
 #: Eliador/utils/eliador-balas.cfg:241
@@ -676,9 +672,8 @@ msgstr ""
 
 #. [event]: (description=Bill) 11 9}, (description=Ardella) 8 37}
 #: Eliador/utils/eliador-balas.cfg:281
-#, fuzzy
 msgid "Let's check it out."
-msgstr "Usciamo di qua!"
+msgstr "Andiamo a vedere."
 
 #. [then]
 #: Eliador/utils/eliador-balas.cfg:301
@@ -695,7 +690,7 @@ msgstr "Brella"
 #. [event]: (description=Brella) yes}, (description=Ardella) yes}, (description=Brella) movement_costs.shallow_water 20}
 #: Eliador/utils/eliador-balas.cfg:322
 msgid "Hop on. I'll take you to your children."
-msgstr ""
+msgstr "Salta su. Mi prenderò cura io dei tuoi bambini."
 
 #. [then]: (description=Balthor) yes}, (description=Zeke) yes}, (description=Anna) yes}, (description=Balthor) movement_costs.shallow_water 20}
 #: Eliador/utils/eliador-balas.cfg:388
@@ -715,27 +710,29 @@ msgstr "Stiamo cercando nostro padre..."
 #. [then]: (description=Balthor) yes}, (description=Zeke) yes}, (description=Anna) yes}, (description=Balthor) movement_costs.shallow_water 20}
 #: Eliador/utils/eliador-balas.cfg:391
 msgid "He was taken by the man in that galleon."
-msgstr ""
+msgstr "È stato catturato dagli uomini di quel galeone."
 
 #. [then]: (description=Balthor) yes}, (description=Zeke) yes}, (description=Anna) yes}, (description=Balthor) movement_costs.shallow_water 20}
 #: Eliador/utils/eliador-balas.cfg:392
 msgid "There are captives on a nearby isle. Perhaps your father is among them."
 msgstr ""
+"Ci sono dei prigionieri su un'isola qui vicino. Forse tuo padre è tra di "
+"loro."
 
 #. [then]: (description=Balthor) yes}, (description=Zeke) yes}, (description=Anna) yes}, (description=Balthor) movement_costs.shallow_water 20}
 #: Eliador/utils/eliador-balas.cfg:393
 msgid "Will you please take us there?"
-msgstr ""
+msgstr "Potresti portarci laggiù?"
 
 #. [then]: (description=Balthor) yes}, (description=Zeke) yes}, (description=Anna) yes}, (description=Balthor) movement_costs.shallow_water 20}
 #: Eliador/utils/eliador-balas.cfg:394
 msgid "Hop on."
-msgstr "Salta su."
+msgstr "Saltate su."
 
 #. [then]: (description=Balthor) yes}, (description=Zeke) yes}, (description=Anna) yes}, (description=Balthor) movement_costs.shallow_water 20}
 #: Eliador/utils/eliador-balas.cfg:404
 msgid "Hold on tight!"
-msgstr "Tienti stretta!"
+msgstr "Tenetevi stetti!"
 
 #. [else]: (description=Balthor) 22 7}, (description=Brella) 23 8}
 #: Eliador/utils/eliador-balas.cfg:562
@@ -752,17 +749,16 @@ msgstr ""
 #. [else]: (description=Balthor) 22 7}, (description=Brella) 23 8}
 #: Eliador/utils/eliador-balas.cfg:564
 msgid "Zilead was taken southward... towards Varad."
-msgstr ""
+msgstr "Zilead è diretto a sud... verso Varad."
 
 #. [else]: (description=Balthor) 22 7}, (description=Brella) 23 8}
 #: Eliador/utils/eliador-balas.cfg:565
-#, fuzzy
 msgid ""
 "Can you take them there? I must help the sea creatures of Eliador battle the "
 "incoming galleons."
 msgstr ""
-"Drago di Anwar, non sei il benvenuto qua. Ti ordino di unirti alle creature "
-"del mare nella battaglia contro i galeoni. Vattene ora!"
+"Mi puoi portare laggiuù? Devo aiutare le creture marine di Eliador a "
+"combattere contro i galeoni in arrivo."
 
 #. [else]: (description=Balthor) 22 7}, (description=Brella) 23 8}
 #: Eliador/utils/eliador-balas.cfg:566
@@ -772,7 +768,7 @@ msgstr "Naturalmente. Buona fortuna, Balthor!"
 #. [event]
 #: Eliador/utils/eliador-balas.cfg:654
 msgid "What have I done? Zilead's children are dead!"
-msgstr ""
+msgstr "Cosa ho fatto? I figli di Zilead sono morti!"
 
 #. [event]
 #: Eliador/utils/eliador-balas.cfg:668 Eliador/utils/eliador-balas.cfg:682
@@ -850,7 +846,7 @@ msgstr ""
 #. [then]: (description=Urian) 42 3}, race=dwarf) side 1}
 #: Eliador/utils/eliador-battle.cfg:227
 msgid "Actually..."
-msgstr ""
+msgstr "In realtà..."
 
 #. [then]: (description=Urian) 42 3}, race=dwarf) side 1}
 #: Eliador/utils/eliador-battle.cfg:228
@@ -876,14 +872,13 @@ msgstr ""
 
 #. [else]
 #: Eliador/utils/eliador-battle.cfg:237
-#, fuzzy
 msgid ""
 "If you must know, we were banished from our homes in Wesnoth. Our new master "
 "promised us land and wealth if we fight alongside these vermin."
 msgstr ""
-"Se lo vuoi sapere, siamo diventati poveri da quando ci hanno banditi dalle "
-"nostre case a Wesnoth. Il nostro nuovo padrone ci ha promesso terra e "
-"ricchezza se combattiamo al fianco di questi parassiti."
+"Se lo vuoi sapere, siamo stati banditi dalle nostre case a Wesnoth. Il "
+"nostro nuovo padrone ci ha promesso terra e ricchezza se combattiamo al "
+"fianco di questi parassiti."
 
 #. [else]
 #: Eliador/utils/eliador-battle.cfg:238
@@ -907,20 +902,19 @@ msgstr "Randalf"
 
 #. [event]
 #: Eliador/utils/eliador-battle.cfg:249
-#, fuzzy
 msgid ""
 "You cannot win this battle, Ardella! Surrender now, and my master will "
 "arrange safe passage for you and your children to Wesnoth. Zilead is "
 "awaiting your arrival."
 msgstr ""
-"Ardella! Non puoi vincere questa battaglia! Arrendeti ora e il mio maestro "
-"ti garantirà un passaggio sicuro per te e i tuoi figli a Wesnoth."
+"Non puoi vincere questa battaglia, Ardella! Arrenditi ora e il mio padrone "
+"ti garantirà un passaggio sicuro per te e i tuoi figli a Wesnoth. Zilead sta "
+"aspettando il tuo arrivo."
 
 #. [event]
 #: Eliador/utils/eliador-battle.cfg:250
-#, fuzzy
 msgid "I will not abandon the people of Eliador!"
-msgstr "Cosa accadrà agli abitanti di Eliador?"
+msgstr "Non abbandonerò la gente di Eliador!"
 
 #. [event]
 #: Eliador/utils/eliador-battle.cfg:257
@@ -946,7 +940,7 @@ msgstr ""
 #. [then]: (description=Othello) 2 27}, (description=Othello) yes}
 #: Eliador/utils/eliador-battle.cfg:334
 msgid "Othello, you scaredy-cat!"
-msgstr "Othello, sei più pauroso di un gatto!"
+msgstr "Otello, sei più pauroso di un gatto!"
 
 #. [then]: (description=Othello) 2 27}, (description=Othello) yes}
 #: Eliador/utils/eliador-battle.cfg:362
@@ -976,23 +970,22 @@ msgstr "Kinowyn!"
 #. [then]
 #: Eliador/utils/eliador-battle.cfg:408
 msgid "Lucien sent us to help the elves of Glorienda."
-msgstr ""
+msgstr "Lucien ci ha mandato in aiuto gli elfi di Glorienda."
 
 #. [then]
 #: Eliador/utils/eliador-battle.cfg:411
-#, fuzzy
 msgid "You could not have come at a better time!"
-msgstr "Non avresti dovuto lasciare Wesnoth, Kinowyn!"
+msgstr "Non avresti potuto arrivare in un momento migliore!"
 
 #. [else]
 #: Eliador/utils/eliador-battle.cfg:414
 msgid "I come from Angalas. Where are the elves of Glorienda?"
-msgstr ""
+msgstr "Io vengo da Angalas. Dove sono gli elfi di Glorienda?"
 
 #. [else]
 #: Eliador/utils/eliador-battle.cfg:415
 msgid "I am sorry, but they fell in battle."
-msgstr ""
+msgstr "Mi spiace, ma sono caduti in battaglia."
 
 #. [else]
 #: Eliador/utils/eliador-battle.cfg:416
@@ -1007,7 +1000,7 @@ msgstr "Padrone! Mi avete dato al vostra parola..."
 #. [then]: (description=Randalf) side 1}, (type=Bill Fencer) side 1}, (type=Fencer) side 1}, (type=Duelist) side 1}, (type=Master at Arms) side 1}
 #: Eliador/utils/eliador-battle.cfg:457
 msgid "I have no mercy for my enemies!"
-msgstr ""
+msgstr "Nessuna pietà per i miei nemici!"
 
 #. [then]: (description=Randalf) side 1}, (type=Bill Fencer) side 1}, (type=Fencer) side 1}, (type=Duelist) side 1}, (type=Master at Arms) side 1}
 #: Eliador/utils/eliador-battle.cfg:458
@@ -1046,9 +1039,8 @@ msgstr "La strega è morta!"
 
 #. [event]
 #: Eliador/utils/eliador-battle.cfg:540
-#, fuzzy
 msgid "Look! They're running away!"
-msgstr "No! Stanno scappando!"
+msgstr "Guardate! Stanno scappando!"
 
 #: Eliador/utils/eliador-glorienda.cfg:3
 msgid "Glorienda"
@@ -1057,7 +1049,7 @@ msgstr "Glorienda"
 #. [objectives]
 #: Eliador/utils/eliador-glorienda.cfg:53
 msgid "Persuade the Elves of Glorienda to remain in Eliador."
-msgstr ""
+msgstr "Convinci gli elfi di Glorienda a rimanere a Eliador."
 
 #. [objectives]
 #: Eliador/utils/eliador-glorienda.cfg:54
@@ -1188,7 +1180,7 @@ msgstr "Lucien"
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:127
 msgid "What brings you to Eliador, Lucien?"
-msgstr ""
+msgstr "Cosa ti porta a Eliador, Lucien?"
 
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:128
@@ -1200,7 +1192,7 @@ msgstr ""
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:129
 msgid "You can count on us."
-msgstr ""
+msgstr "Puoi contare su di noi."
 
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:131
@@ -1228,29 +1220,27 @@ msgstr "Rhugwyn"
 
 #. [event]
 #: Eliador/utils/eliador-heldurin1.cfg:58
-#, fuzzy
 msgid ""
 "I am sorry, Ardella. We would very much like to help you fight off the "
 "invaders, but we must get our families off this island."
 msgstr ""
-"Saluti, Ardella. Ci piacerebbe molto aiutarti a combattere gli invasori, ma "
-"abbiamo deciso che dobbiamo portare via dall'isola le nostre famiglie."
+"Mi spiace, Ardella. Ci piacerebbe molto aiutarti a combattere gli invasori, "
+"ma dobbiamo portare via dall'isola le nostre famiglie."
 
 #. [event]
 #: Eliador/utils/eliador-heldurin1.cfg:59
 msgid "I cannot persuade you to stay?"
-msgstr ""
+msgstr "Non posso convincervi a rimanere?"
 
 #. [event]
 #: Eliador/utils/eliador-heldurin1.cfg:60
 msgid "Perhaps. Your husband is rumored to have a vast treasure..."
-msgstr ""
+msgstr "Forse. Si dice che tuo marito avesse un grande tesoro..."
 
 #. [event]
 #: Eliador/utils/eliador-heldurin1.cfg:61
-#, fuzzy
 msgid "How much do you want?"
-msgstr "Fa' quello che devi."
+msgstr "Quanto vuoi?"
 
 #. [event]
 #: Eliador/utils/eliador-heldurin2.cfg:43
@@ -1296,7 +1286,7 @@ msgstr "Perdi Anna o Zeke"
 #. [event]
 #: Eliador/utils/eliador-varad.cfg:235 Eliador/utils/eliador-illien.cfg:83
 msgid "Othello"
-msgstr "Othello"
+msgstr "Otello"
 
 #. [event]: (description=Anna) yes}, (description=Zeke) yes}, (description=Ardella) no}, (description=Ardella) yes}, (description=Othello) no}
 #: Eliador/utils/eliador-illien.cfg:96
@@ -1305,13 +1295,12 @@ msgstr "Ardella, sono sicuro che tu conosci la legge di Ilien. Sei pronta?"
 
 #. [event]: (description=Anna) yes}, (description=Zeke) yes}, (description=Ardella) no}, (description=Ardella) yes}, (description=Othello) no}
 #: Eliador/utils/eliador-illien.cfg:97
-#, fuzzy
 msgid ""
 "You must know that we are about to be invaded. We don't have time for your "
 "games. Will you help us repel the invasion?"
 msgstr ""
-"Dovresti sapere che proprio adesso stiamo per essere invasi. Non abbiamo "
-"tempo per i tuoi giochetti. Ci aiuterai a respingere l'invasione?"
+"Dovresti sapere che stiamo per essere invasi. Non abbiamo tempo per i tuoi "
+"giochetti. Ci aiuterai a respingere l'invasione?"
 
 #. [event]: (description=Anna) yes}, (description=Zeke) yes}, (description=Ardella) no}, (description=Ardella) yes}, (description=Othello) no}
 #: Eliador/utils/eliador-illien.cfg:98
@@ -1334,9 +1323,8 @@ msgstr "Ahh!"
 
 #. [then]
 #: Eliador/utils/eliador-illien.cfg:543
-#, fuzzy
 msgid "No cheating!"
-msgstr "Hai trassato, eh?"
+msgstr "Non barare!"
 
 #. [event]
 #: Eliador/utils/eliador-illien.cfg:645
@@ -1438,9 +1426,8 @@ msgstr "Gli invasori di Dol Kelroth sono stati sconfitti."
 
 #. [message]: description=Ardella
 #: Eliador/utils/eliador-kelroth.cfg:397
-#, fuzzy
 msgid "We are overrun by these loathesome creatures!"
-msgstr "Queste schifose creature ci stanno travolgendo! Dobbiamo arrenderci!"
+msgstr "Queste schifose creature ci hanno travolto!"
 
 #: Eliador/utils/eliador-sinon.cfg:3
 msgid "Mount Sinon"
@@ -1467,7 +1454,7 @@ msgstr "Sopravvivi fino alla fine dei turni"
 #. [then]
 #: Eliador/utils/eliador-sinon.cfg:112
 msgid "Why did the beasts leave?"
-msgstr ""
+msgstr "Perché gli animali se ne vanno?"
 
 #. [then]
 #: Eliador/utils/eliador-sinon.cfg:113
@@ -1546,7 +1533,7 @@ msgstr "Varad"
 #. [objectives]
 #: Eliador/utils/eliador-varad.cfg:58
 msgid "Othello is the only one who can kill Randalf"
-msgstr ""
+msgstr "Otello è l'unico che può uccidere Randalf"
 
 #. [objective]: condition=win
 #: Eliador/utils/eliador-varad.cfg:60
@@ -1591,44 +1578,40 @@ msgstr "Randalf? Cosa hai fatto?"
 #. [event]: (description=Ardella) yes}, (description=Anna) yes}, (description=Zeke) yes}
 #: Eliador/utils/eliador-varad.cfg:230
 msgid "My master is taking over Eliador. I must..."
-msgstr ""
+msgstr "Il mi padrone sta conquistando Eliador. Io devo..."
 
 #. [event]: (description=Ardella) yes}, (description=Anna) yes}, (description=Zeke) yes}
 #: Eliador/utils/eliador-varad.cfg:231
 msgid "Where is my papa? Speak, wizard!"
-msgstr ""
+msgstr "Dov'è il mio papà? Parla, mago!"
 
 #. [event]: (description=Ardella) yes}, (description=Anna) yes}, (description=Zeke) yes}
 #: Eliador/utils/eliador-varad.cfg:232
 msgid "Fear not, young Zeke. Your father..."
-msgstr ""
+msgstr "Non temere, giovane Zeke. Tuo padre..."
 
 #. [event]: (description=Ardella) yes}, (description=Anna) yes}, (description=Zeke) yes}
 #: Eliador/utils/eliador-varad.cfg:239
-#, fuzzy
 msgid "Randalf! Did you think I would sit idly by while my land is invaded?"
 msgstr ""
-"Sapevo che non mi potevo fidare, Randalf. Pensavi forse che sarei rimasto "
-"seduta a far nulla mentre la mia terra viene invasa?"
+"Randalf! Pensavi forse che sarei rimasto seduta a far nulla mentre la mia "
+"terra viene invasa?"
 
 #. [event]: (description=Ardella) yes}, (description=Anna) yes}, (description=Zeke) yes}
 #: Eliador/utils/eliador-varad.cfg:240
-#, fuzzy
 msgid ""
 "Oh, how I've waited for this moment. Come forth, Othello of Illien! Let's "
 "see what you are made of!"
 msgstr ""
-"Oh, come aspettavo questo momento. Fatti sotto, Othello di Ilien! Vediamo di "
+"Oh, come aspettavo questo momento. Fatti sotto, Otello di Ilien! Vediamo di "
 "che tempra sei fatto!"
 
 #. [event]: (description=Ardella) yes}, (description=Anna) yes}, (description=Zeke) yes}
 #: Eliador/utils/eliador-varad.cfg:241
-#, fuzzy
 msgid ""
 "Get your children out of harms way, Ardella! You are no match for the wizard."
 msgstr ""
-"Fai meglio a fare come dice, Ardella. Non hai possibilità contro un mago. Ce "
-"la dobbiamo vedere noi."
+"Porta i tuoi figli in salvo, Ardella! Non hai possibilità contro un mago."
 
 #. [event]
 #: Eliador/utils/eliador-varad.cfg:266
@@ -1638,11 +1621,11 @@ msgstr ""
 #. [event]
 #: Eliador/utils/eliador-varad.cfg:274
 msgid "Look! The wizard's spell has been broken!"
-msgstr ""
+msgstr "Guardate! L'incantesimo del mago è spezzato!"
 
 #: Eliador/utils/eliador-varad.cfg:297
 msgid "Othello has been slain! Retreat!"
-msgstr ""
+msgstr "Otello è stato ucciso! Ritirata!"
 
 #: Eliador/utils/randalf-powers.cfg:5
 msgid "Zara! Baringa! Echla!"
