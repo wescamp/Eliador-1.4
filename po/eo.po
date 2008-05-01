@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-04-11 17:45+0200\n"
+"POT-Creation-Date: 2008-05-01 16:40+0200\n"
 "PO-Revision-Date: 2006-01-01 19:17+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -120,7 +120,7 @@ msgstr ""
 #: Eliador/scenarios/eliador-end.cfg:127 Eliador/utils/eliador-kelroth.cfg:178
 #: Eliador/utils/eliador-kelroth.cfg:429 Eliador/utils/eliador-deaths.cfg:2
 #: Eliador/utils/eliador-anwar.cfg:230 Eliador/utils/eliador-treasure.cfg:134
-#: Eliador/utils/eliador-sinon.cfg:333 Eliador/utils/eliador-battle.cfg:531
+#: Eliador/utils/eliador-sinon.cfg:333 Eliador/utils/eliador-battle.cfg:536
 msgid "Momma!"
 msgstr ""
 
@@ -543,14 +543,14 @@ msgstr ""
 #: Eliador/utils/eliador-kelroth.cfg:430 Eliador/utils/eliador-deaths.cfg:3
 #: Eliador/utils/eliador-anwar.cfg:231 Eliador/utils/eliador-treasure.cfg:135
 #: Eliador/utils/eliador-balas.cfg:688 Eliador/utils/eliador-sinon.cfg:334
-#: Eliador/utils/eliador-battle.cfg:529
+#: Eliador/utils/eliador-battle.cfg:534
 msgid "Anna!"
 msgstr ""
 
 #: Eliador/utils/eliador-kelroth.cfg:431 Eliador/utils/eliador-deaths.cfg:4
 #: Eliador/utils/eliador-anwar.cfg:232 Eliador/utils/eliador-treasure.cfg:136
 #: Eliador/utils/eliador-balas.cfg:689 Eliador/utils/eliador-sinon.cfg:335
-#: Eliador/utils/eliador-battle.cfg:530
+#: Eliador/utils/eliador-battle.cfg:535
 msgid "Zeke!"
 msgstr ""
 
@@ -758,37 +758,37 @@ msgid "Kill Ursula"
 msgstr ""
 
 #. [event]
-#: Eliador/utils/eliador-battle.cfg:95
+#: Eliador/utils/eliador-battle.cfg:97
 msgid "Virag"
 msgstr ""
 
 #. [event]
-#: Eliador/utils/eliador-battle.cfg:96
+#: Eliador/utils/eliador-battle.cfg:98
 msgid "Balgor"
 msgstr ""
 
 #. [event]
-#: Eliador/utils/eliador-battle.cfg:97
+#: Eliador/utils/eliador-battle.cfg:99
 msgid "Flak"
 msgstr ""
 
 #. [event]
-#: Eliador/utils/eliador-battle.cfg:98
+#: Eliador/utils/eliador-battle.cfg:100
 msgid "Malash"
 msgstr ""
 
 #. [event]
-#: Eliador/utils/eliador-battle.cfg:99
+#: Eliador/utils/eliador-battle.cfg:101
 msgid "Kruk"
 msgstr ""
 
 #. [event]
-#: Eliador/utils/eliador-battle.cfg:100
+#: Eliador/utils/eliador-battle.cfg:102
 msgid "Kruol"
 msgstr ""
 
 #. [event]
-#: Eliador/utils/eliador-battle.cfg:102
+#: Eliador/utils/eliador-battle.cfg:104
 msgid ""
 "I can't believe my orcs were outsmarted by a human and her two brats. How "
 "dare you interfere with my master's plan! Tonight, we shall feast upon your "
@@ -796,66 +796,66 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: Eliador/utils/eliador-battle.cfg:207
+#: Eliador/utils/eliador-battle.cfg:209
 msgid "Glomlin"
 msgstr ""
 
 #. [event]
-#: Eliador/utils/eliador-battle.cfg:208
+#: Eliador/utils/eliador-battle.cfg:210
 msgid "Duldril"
 msgstr ""
 
 #. [then]: (description=Urian) 42 3}, race=dwarf) side 1}
-#: Eliador/utils/eliador-battle.cfg:224
+#: Eliador/utils/eliador-battle.cfg:226
 msgid "Urian, is that you old friend? Get over here!"
 msgstr ""
 
 #. [then]: (description=Urian) 42 3}, race=dwarf) side 1}
-#: Eliador/utils/eliador-battle.cfg:226
+#: Eliador/utils/eliador-battle.cfg:228
 msgid ""
 "Glomlin, you're a sight for sore eyes. Please tell me you haven't aligned "
 "yourself with these beasts?"
 msgstr ""
 
 #. [then]: (description=Urian) 42 3}, race=dwarf) side 1}
-#: Eliador/utils/eliador-battle.cfg:227
+#: Eliador/utils/eliador-battle.cfg:229
 msgid "Actually..."
 msgstr ""
 
 #. [then]: (description=Urian) 42 3}, race=dwarf) side 1}
-#: Eliador/utils/eliador-battle.cfg:228
+#: Eliador/utils/eliador-battle.cfg:230
 msgid "No! Of course not! You know me better than that!"
 msgstr ""
 
 #. [then]: (description=Urian) 42 3}, race=dwarf) side 1}
-#: Eliador/utils/eliador-battle.cfg:229
+#: Eliador/utils/eliador-battle.cfg:231
 msgid "I am sorry..."
 msgstr ""
 
 #. [then]: (description=Urian) 42 3}, race=dwarf) side 1}
-#: Eliador/utils/eliador-battle.cfg:230
+#: Eliador/utils/eliador-battle.cfg:232
 msgid "Save the apologies for later. We've got vermin to exterminate!"
 msgstr ""
 
 #. [else]
-#: Eliador/utils/eliador-battle.cfg:236
+#: Eliador/utils/eliador-battle.cfg:238
 msgid "Dwarves? How can such noble beings fight alongside orcs?"
 msgstr ""
 
 #. [else]
-#: Eliador/utils/eliador-battle.cfg:237
+#: Eliador/utils/eliador-battle.cfg:239
 msgid ""
 "If you must know, we were banished from our homes in Wesnoth. Our new master "
 "promised us land and wealth if we fight alongside these vermin."
 msgstr ""
 
 #. [else]
-#: Eliador/utils/eliador-battle.cfg:238
+#: Eliador/utils/eliador-battle.cfg:240
 msgid "We'll offer the same deal if you fight with us."
 msgstr ""
 
 #. [else]
-#: Eliador/utils/eliador-battle.cfg:239
+#: Eliador/utils/eliador-battle.cfg:241
 msgid ""
 "Ha! We dwarves are a brave bunch, but we would not stand a chance against "
 "our master. I'm sorry, but you must all die!"
@@ -863,12 +863,12 @@ msgstr ""
 
 #. [event]: description=Randalf facing sw}
 #. [event]
-#: Eliador/utils/eliador-varad.cfg:81 Eliador/utils/eliador-battle.cfg:248
+#: Eliador/utils/eliador-varad.cfg:81 Eliador/utils/eliador-battle.cfg:250
 msgid "Randalf"
 msgstr ""
 
 #. [event]
-#: Eliador/utils/eliador-battle.cfg:249
+#: Eliador/utils/eliador-battle.cfg:251
 msgid ""
 "You cannot win this battle, Ardella! Surrender now, and my master will "
 "arrange safe passage for you and your children to Wesnoth. Zilead is "
@@ -876,131 +876,176 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: Eliador/utils/eliador-battle.cfg:250
+#: Eliador/utils/eliador-battle.cfg:252
 msgid "I will not abandon the people of Eliador!"
 msgstr ""
 
 #. [event]
-#: Eliador/utils/eliador-battle.cfg:257
+#: Eliador/utils/eliador-battle.cfg:259
 msgid "Ursula"
 msgstr ""
 
 #. [event]
-#: Eliador/utils/eliador-battle.cfg:260
+#: Eliador/utils/eliador-battle.cfg:262
 msgid ""
 "Remember our agreement, master. Ardella and her children must not be harmed."
 msgstr ""
 
 #. [then]
-#: Eliador/utils/eliador-battle.cfg:275
+#: Eliador/utils/eliador-battle.cfg:277
 msgid "Mother, look! Randalf's statues have escaped! They will kill the witch!"
 msgstr ""
 
 #. [then]
-#: Eliador/utils/eliador-battle.cfg:287
+#: Eliador/utils/eliador-battle.cfg:289
 msgid "They are bewitched... They will not help us."
 msgstr ""
 
 #. [then]: (description=Othello) 2 27}, (description=Othello) yes}
-#: Eliador/utils/eliador-battle.cfg:334
+#: Eliador/utils/eliador-battle.cfg:336
 msgid "Othello, you scaredy-cat!"
 msgstr ""
 
 #. [then]: (description=Othello) 2 27}, (description=Othello) yes}
-#: Eliador/utils/eliador-battle.cfg:362
+#: Eliador/utils/eliador-battle.cfg:367
 msgid ""
 "The time has come for me to abolish the law of Illien. Slaves of Illien, I "
 "release you!"
 msgstr ""
 
-#. [then]
 #. [event]
-#: Eliador/utils/eliador-battle.cfg:385 Eliador/utils/eliador-battle.cfg:394
-#: Eliador/utils/eliador-battle.cfg:395 Eliador/utils/eliador-battle.cfg:396
-#: Eliador/utils/eliador-battle.cfg:397 Eliador/utils/eliador-battle.cfg:398
-#: Eliador/utils/eliador-battle.cfg:399 Eliador/utils/eliador-battle.cfg:400
-#: Eliador/utils/eliador-battle.cfg:401 Eliador/utils/eliador-battle.cfg:402
-#: Eliador/utils/eliador-battle.cfg:403
+#: Eliador/utils/eliador-battle.cfg:390
 msgid "Kinowyn"
 msgstr ""
 
 #. [then]
+#: Eliador/utils/eliador-battle.cfg:399
+msgid "Cithrand"
+msgstr ""
+
+#. [then]
+#: Eliador/utils/eliador-battle.cfg:400
+msgid "Unondel"
+msgstr ""
+
+#. [then]
+#: Eliador/utils/eliador-battle.cfg:401
+msgid "Fithraril"
+msgstr ""
+
+#. [then]
+#: Eliador/utils/eliador-battle.cfg:402
+msgid "Vylas"
+msgstr ""
+
+#. [then]
+#: Eliador/utils/eliador-battle.cfg:403
+msgid "Unil"
+msgstr ""
+
+#. [then]
+#: Eliador/utils/eliador-battle.cfg:404
+msgid "Hemir"
+msgstr ""
+
+#. [then]
+#. [event]
+#: Eliador/utils/eliador-battle.cfg:405 Eliador/utils/eliador-glorienda.cfg:78
+msgid "Fathien"
+msgstr ""
+
+#. [then]
+#: Eliador/utils/eliador-battle.cfg:406
+msgid "Sebrin"
+msgstr ""
+
+#. [then]
 #: Eliador/utils/eliador-battle.cfg:407
-msgid "Kinowyn!"
+msgid "Soriand"
 msgstr ""
 
 #. [then]
 #: Eliador/utils/eliador-battle.cfg:408
+msgid "Anebrin"
+msgstr ""
+
+#. [then]
+#: Eliador/utils/eliador-battle.cfg:412
+msgid "Kinowyn!"
+msgstr ""
+
+#. [then]
+#: Eliador/utils/eliador-battle.cfg:413
 msgid "Lucien sent us to help the elves of Glorienda."
 msgstr ""
 
 #. [then]
-#: Eliador/utils/eliador-battle.cfg:411
+#: Eliador/utils/eliador-battle.cfg:416
 msgid "You could not have come at a better time!"
 msgstr ""
 
 #. [else]
-#: Eliador/utils/eliador-battle.cfg:414
+#: Eliador/utils/eliador-battle.cfg:419
 msgid "I come from Angalas. Where are the elves of Glorienda?"
 msgstr ""
 
 #. [else]
-#: Eliador/utils/eliador-battle.cfg:415
+#: Eliador/utils/eliador-battle.cfg:420
 msgid "I am sorry, but they fell in battle."
 msgstr ""
 
 #. [else]
-#: Eliador/utils/eliador-battle.cfg:416
+#: Eliador/utils/eliador-battle.cfg:421
 msgid "Then I am too late..."
 msgstr ""
 
 #. [then]: (description=Randalf) side 1}, (type=Bill Fencer) side 1}, (type=Fencer) side 1}, (type=Duelist) side 1}, (type=Master at Arms) side 1}
-#: Eliador/utils/eliador-battle.cfg:456
+#: Eliador/utils/eliador-battle.cfg:461
 msgid "Master! I had your word..."
 msgstr ""
 
 #. [then]: (description=Randalf) side 1}, (type=Bill Fencer) side 1}, (type=Fencer) side 1}, (type=Duelist) side 1}, (type=Master at Arms) side 1}
-#: Eliador/utils/eliador-battle.cfg:457
+#: Eliador/utils/eliador-battle.cfg:462
 msgid "I have no mercy for my enemies!"
 msgstr ""
 
 #. [then]: (description=Randalf) side 1}, (type=Bill Fencer) side 1}, (type=Fencer) side 1}, (type=Duelist) side 1}, (type=Master at Arms) side 1}
-#: Eliador/utils/eliador-battle.cfg:458
+#: Eliador/utils/eliador-battle.cfg:463
 msgid "Nor do I! You will not harm them!"
 msgstr ""
 
 #. [then]: (description=Randalf) side 1}, (type=Bill Fencer) side 1}, (type=Fencer) side 1}, (type=Duelist) side 1}, (type=Master at Arms) side 1}
-#: Eliador/utils/eliador-battle.cfg:459
+#: Eliador/utils/eliador-battle.cfg:464
 msgid "You would not dare betray me, Randalf!"
 msgstr ""
 
 #. [then]: (description=Randalf) side 1}, (type=Bill Fencer) side 1}, (type=Fencer) side 1}, (type=Duelist) side 1}, (type=Master at Arms) side 1}
-#: Eliador/utils/eliador-battle.cfg:460
+#: Eliador/utils/eliador-battle.cfg:465
 msgid "Watch me!"
 msgstr ""
 
 #. [event]
-#: Eliador/utils/eliador-battle.cfg:508
+#: Eliador/utils/eliador-battle.cfg:513
 msgid "Othello!"
 msgstr ""
 
 #. [event]
-#: Eliador/utils/eliador-battle.cfg:517
+#: Eliador/utils/eliador-battle.cfg:522
 msgid "I shall return..."
 msgstr ""
 
 #. [event]
-#: Eliador/utils/eliador-battle.cfg:526
+#: Eliador/utils/eliador-battle.cfg:531
 msgid "Urian is dead!"
 msgstr ""
 
 #. [event]
-#: Eliador/utils/eliador-battle.cfg:539
+#: Eliador/utils/eliador-battle.cfg:544
 msgid "The witch is dead!"
 msgstr ""
 
 #. [event]
-#: Eliador/utils/eliador-battle.cfg:540
+#: Eliador/utils/eliador-battle.cfg:545
 msgid "Look! They're running away!"
 msgstr ""
 
@@ -1042,11 +1087,6 @@ msgstr ""
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:77
 msgid "Celilith"
-msgstr ""
-
-#. [event]
-#: Eliador/utils/eliador-glorienda.cfg:78
-msgid "Fathien"
 msgstr ""
 
 #. [event]
