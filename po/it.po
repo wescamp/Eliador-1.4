@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-05-01 16:40+0200\n"
-"PO-Revision-Date: 2008-04-29 09:04+0100\n"
+"PO-Revision-Date: 2008-05-05 10:27+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -283,12 +283,12 @@ msgstr "alito di fuoco"
 #. [unit]
 #: Eliador/units/Dummy_Unit.cfg:4
 msgid "Dummy Unit"
-msgstr ""
+msgstr "Unità sconosciuta"
 
 #. [unit]
 #: Eliador/units/Dummy_Unit.cfg:21
 msgid "Dummy unit"
-msgstr ""
+msgstr "Unità sconosciuta"
 
 #. [unit]: race=human
 #: Eliador/units/Elder_Mage.cfg:4
@@ -329,6 +329,10 @@ msgid ""
 "homes. However, if you're hurling peasants at your foes, you're clearly out "
 "of superior forces."
 msgstr ""
+"I contadini sono la spina dorsale dell'economia rurale e soldati in caso di "
+"necessità. Anche se sono pacifici di natura, difenderanno testardamente le "
+"loro case. Comunque, se hai bisogno di usare i contadini, vuol dire che sei "
+"a corto di forze superiori."
 
 #. [attack]: type=pierce
 #: Eliador/units/Female_Peasant.cfg:24 Eliador/units/Female_Peasant.cfg:33
@@ -745,6 +749,8 @@ msgid ""
 "These children are looking for their father. His name is Zilead. Have you "
 "seen him?"
 msgstr ""
+"Questi bambini stanno cercando il loro padre che si chiama Zilead. Lo avete "
+"visto?"
 
 #. [else]: (description=Balthor) 22 7}, (description=Brella) 23 8}
 #: Eliador/utils/eliador-balas.cfg:564
@@ -861,7 +867,7 @@ msgstr "Mi spiace..."
 #. [then]: (description=Urian) 42 3}, race=dwarf) side 1}
 #: Eliador/utils/eliador-battle.cfg:232
 msgid "Save the apologies for later. We've got vermin to exterminate!"
-msgstr ""
+msgstr "Risparmia le scuse per dopo. Abbiamo della feccia da eliminare!"
 
 #. [else]
 #: Eliador/utils/eliador-battle.cfg:238
@@ -926,11 +932,14 @@ msgstr "Ursula"
 msgid ""
 "Remember our agreement, master. Ardella and her children must not be harmed."
 msgstr ""
+"Ricorda il nostro patto, signore. Ardella e i suoi figli non devono essere "
+"feriti."
 
 #. [then]
 #: Eliador/utils/eliador-battle.cfg:277
 msgid "Mother, look! Randalf's statues have escaped! They will kill the witch!"
 msgstr ""
+"Mamma, guarda! Le statue di Randalf sono scappate! Uccideranno la strega!"
 
 #. [then]
 #: Eliador/utils/eliador-battle.cfg:289
@@ -1107,6 +1116,8 @@ msgstr "Convinci gli elfi di Glorienda a rimanere a Eliador."
 msgid ""
 "To persuade an elf, visit her village more times than Lucien's side does"
 msgstr ""
+"Per convincere un elfo, visita il suo villaggio più volte di quello che fa "
+"la parte di Lucien"
 
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:73
@@ -1317,6 +1328,12 @@ msgid ""
 "  (2) Move Ardella to select the row\n"
 "  (3) Press 'End Turn'"
 msgstr ""
+"\n"
+"Una mossa è valida se le unità di Otello saranno tra due tue unità. Per "
+"mettere una unità a bordo:\n"
+"  (1) Sposta Ardella per scegliere la colonna\n"
+"  (2) Sposta Ardella per scegliere la riga\n"
+"  (3) Clicca “Fine del turno”"
 
 #. [objective]: condition=win
 #: Eliador/utils/eliador-illien.cfg:54
@@ -1676,612 +1693,3 @@ msgstr "Otello è stato ucciso! Ritirata!"
 #: Eliador/utils/randalf-powers.cfg:5
 msgid "Zara! Baringa! Echla!"
 msgstr "Zara! Baringa! Echla!"
-
-#~ msgid ""
-#~ "&footpad-toddler.png=Easy;*&outlaw-princess-kid.png=Medium;&neutral-"
-#~ "outlaw-queen.png=Hard"
-#~ msgstr ""
-#~ "&footpad-toddler.png=facile;*&outlaw-princess-kid.png=media;&neutral-"
-#~ "outlaw-queen.png=difficile"
-
-#~ msgid "Caves of Anwar"
-#~ msgstr "Caverne di Anwar"
-
-#~ msgid "Get kids close to monsters to recruit them"
-#~ msgstr "Sposta i bambini vicino ai mostri per reclutarli"
-
-#~ msgid ""
-#~ "We will now enter the caves of Anwar. There are powerful beasts here that "
-#~ "can prove useful to us. We must find a way to earn their trust."
-#~ msgstr ""
-#~ "Entreremo nelle caverne di Anwar. Qua ci sono animali potenti che ci "
-#~ "potranno aiutare. Dobbiamo trovare il modo di guadagnare la loro fiducia."
-
-#~ msgid "But, mother, I'm scared! They'll kill us!"
-#~ msgstr "Ma, mamma, io ho paura! Ci uccideranno!"
-
-#~ msgid ""
-#~ "As long as we keep a safe distance, they will not harm us. However, I "
-#~ "fear that since I am armed, they might instinctively attack me."
-#~ msgstr ""
-#~ "Finché stiamo a distanza di sicurezza non ci faranno niente. Comunque, "
-#~ "temo che siccome sono ferita, potrebbero attaccarmi di istinto."
-
-#~ msgid "Then drop your weapon."
-#~ msgstr "Allora lascia le tue armi."
-
-#~ msgid "I cannot. The caves are too perilous."
-#~ msgstr "Non posso. Le caverne sono troppo pericolose."
-
-#~ msgid "Then we will help you, momma!"
-#~ msgstr "Allora ti aiuteremo noi, mamma!"
-
-#~ msgid "Prisoners of Balas"
-#~ msgstr "Prigionieri di Balas"
-
-#~ msgid "Hint: Don't listen to your mother"
-#~ msgstr "Suggerimento: non ascoltare tua madre"
-
-#~ msgid "Kill all enemies on the northeastern isle to free the prisoners."
-#~ msgstr ""
-#~ "Uccidi tutti i nemici sull'isola a nord-est per liberare i prigionieri."
-
-#~ msgid "Who are these fools trespassing on my master's island?"
-#~ msgstr "Chi sono questi sciocchi che attraversano l'isola del mio padrone?"
-
-#~ msgid ""
-#~ "Kids, you wait here and stay out of trouble. I'll find out where your "
-#~ "father is."
-#~ msgstr ""
-#~ "Bambini, aspettate qui e non cacciatevi nei guai. Scoprirò dove si trova "
-#~ "vostro padre."
-
-#~ msgid "Hey, Zeke, do you wanna go swimming?"
-#~ msgstr "Ehi, Zeke, "
-
-#~ msgid ""
-#~ "We're looking for our papa. When we find him, we're going to kill all the "
-#~ "bad guys!"
-#~ msgstr ""
-#~ "Stiamo cercando il nostro papà. Quando lo troveremo, uccideremo tutti i "
-#~ "cattivi!"
-
-#~ msgid ""
-#~ "You're a brave little boy. Rest assured, the sea creatures of Eliador are "
-#~ "doing everything we can to stop the approaching galleons."
-#~ msgstr ""
-#~ "Sei coraggioso, ragazzino. Sta' tranquillo, le creature del mare di "
-#~ "Eliador stanno facendo tutto il possibile per fermare i galeoni che si "
-#~ "stanno avvicinando."
-
-#~ msgid ""
-#~ "If you wish to fight them when they reach the shore, then you must free "
-#~ "the warriors being held captive. Come with me and I will help you free "
-#~ "them."
-#~ msgstr ""
-#~ "Se vuoi combatterli quando raggiungeranno la riva, allora devi liberare i "
-#~ "guerrieri che sono tenuti prigionieri Vieni con me e io ti aiuterò a "
-#~ "liberarli."
-
-#~ msgid "Bill, where is Zilead?"
-#~ msgstr "Bill, dov'è Zilead?"
-
-#~ msgid "Go to hell!"
-#~ msgstr "Va' all'inferno!"
-
-#~ msgid ""
-#~ "The islanders have amassed a great army. Our master should not have "
-#~ "underestimated them. We must join them. Together, we can end our master's "
-#~ "evil crusade."
-#~ msgstr ""
-#~ "Gli isolani hanno raccolto un grosso esercito. Il nostro padrone non "
-#~ "avrebbe dovuto sottovalutarli. Dobbiamo unirci a loro. Insieme, possiamo "
-#~ "porra fine alla malvagia crociata del nostro padrone."
-
-#~ msgid "Are you mad? If we betray our master, we will meet certain death."
-#~ msgstr ""
-#~ "Sei pazzo? Se tradisci il nostro padrone, andrai incontro a morte certa."
-
-#~ msgid ""
-#~ "Aye, but we are defeated. Our master will most certainly slay us if we "
-#~ "surrender to the islanders. If I am to die, then I choose to die with "
-#~ "honor!"
-#~ msgstr ""
-#~ "Sissignore, ma ci hanno sconfitto. Il nostro padrone ucciderà la maggior "
-#~ "parte di noi se ci arrendiamo agli isolani. Se devo morire, preferisco "
-#~ "morire con onore!"
-
-#~ msgid ""
-#~ "We will not surrender! All islanders and turncoats will die by my sword!"
-#~ msgstr ""
-#~ "Non ci arrenderemo! Tutti gli isolani e i voltagabbana morirammo sulla "
-#~ "mia spada!"
-
-#~ msgid ""
-#~ "Now, that these warriors are free, I shall head east to try to stop those "
-#~ "galleons. Good luck, children!"
-#~ msgstr ""
-#~ "Adesso che questi guerrieri sono liberi, mi dirigerò a est per fermare "
-#~ "questi galeoni. Buona fortuna, bambini!"
-
-#~ msgid "Bye!"
-#~ msgstr "Ciao!"
-
-#~ msgid ""
-#~ "Thank you for freeing us. Our people were gathered on the southeastern "
-#~ "coast before we were abducted. We had ordered them to flee the island, "
-#~ "but some loyalists might still be there. We must go to them."
-#~ msgstr ""
-#~ "Grazie per averci liberati. La nostra gente era radunata sulla costa sud-"
-#~ "est prima di essere rapita. Gli avevamo ordinato di abbandonare l'isola, "
-#~ "ma alcuni lealisti potrebbero ancora essere là. Dobbiamo andare da loro."
-
-#~ msgid "Visit villages until turns run out"
-#~ msgstr "Visita i villaggi fino alla fine dei turni"
-
-#~ msgid "Momma, the bad men didn't take papa here!"
-#~ msgstr "Mamma, i cattivi non hanno portato papà qua."
-
-#~ msgid "I know, son, but we can't get daddy back without some help."
-#~ msgstr "Lo so, figliolo, ma non possiamo liberare papà senza qualche aiuto."
-
-#~ msgid "Do you think the elves will help us?"
-#~ msgstr "Pensi che gli elfi ci aiuteranno?"
-
-#~ msgid "Of course they will."
-#~ msgstr "Certo che lo faranno."
-
-#~ msgid "The dragon can visit the villages in the mountain."
-#~ msgstr "Il drago può visitare i villaggi sulla montagna."
-
-#~ msgid "Good idea, son."
-#~ msgstr "Buona idea, figliolo."
-
-#~ msgid "Merith"
-#~ msgstr "Merith"
-
-#~ msgid "Lady Ardella, it was unwise of you to bring a dragon to my land."
-#~ msgstr ""
-#~ "Lady Ardella, non è stato saggio da parte vostra portare un drago nella "
-#~ "mia terra."
-
-#~ msgid "Please, I only..."
-#~ msgstr "Per favore, io..."
-
-#~ msgid ""
-#~ "Ardella, we have already notified the elves of Wesnoth about the coming "
-#~ "invasion. Kinowyn and his forces are on their way to Eliador, but they "
-#~ "are a few days behind the enemy galleons. I will help you and the others "
-#~ "hold them off until they arrive."
-#~ msgstr ""
-#~ "Ardella, abbiamo già avvisato gli elfi di Wesnoth dell'invasione "
-#~ "imminente. Kinowyn e le sue forze sono in marcia per Eliador, ma hanno "
-#~ "qualche giorno di ritardo sui galeoni nemici. Aiuterò te e gli altri a "
-#~ "resistere fino al loro arrivo."
-
-#~ msgid "Momma, papa told us never to come in here."
-#~ msgstr "Mamma, papà ci ha detto di non venire mai qua."
-
-#~ msgid "This is where your father keeps his treasure."
-#~ msgstr "Qui è dove papà tiene il suo tesoro."
-
-#~ msgid "Papa said that anyone who enters this cave will die!"
-#~ msgstr "Papà ha detto che chiunque entra in questa caverna morirà!"
-
-#~ msgid ""
-#~ "Nonsense. Your father was just trying to scare you. Anyway, I have the "
-#~ "key to the treasure chest, so I will get the gold myself."
-#~ msgstr ""
-#~ "Non ha senso. Vostro padre stava solo cercando di spaventarvi. Comunque "
-#~ "ho la chiave del forziere, mi prenderò l'oro da sola."
-
-#~ msgid "I hope this is enough gold."
-#~ msgstr "Spero che questo oro sia sufficiente."
-
-#~ msgid ""
-#~ "Ardella, what are you doing in this cave? I have seen countless men "
-#~ "attempt to steal Zilead's gold and I watched as the sharks feasted upon "
-#~ "their flesh. You will not make it out of here alive without my help."
-#~ msgstr ""
-#~ "Ardella, che cosa stai facendo in questa caverna? Ho visto un sacco di "
-#~ "uomini tentare di rubare l'oro di Zilead e ho visto gli squali saziarsi "
-#~ "con la loro carne. Non ce la farai a uscire viva di qua senza il mio "
-#~ "aiuto."
-
-#~ msgid "Give peasants 500 pieces of gold"
-#~ msgstr "Da' 500 pezzi d'oro ai contadini"
-
-#~ msgid ""
-#~ "However, we would be willing to fight if you can ensure that our families "
-#~ "will have enough gold to make it to Akhban."
-#~ msgstr ""
-#~ "Comunque, combatteremo se ci assicuri che le nostre famiglie avranno "
-#~ "abbastanza oro per raggiungere Akhban."
-
-#~ msgid ""
-#~ "Five hundred pieces of gold is more than enough to ensure that our "
-#~ "families reach Akhban."
-#~ msgstr ""
-#~ "Cinquecento pezzi d'oro sono più che sufficienti per assicurarti che le "
-#~ "nostre famiglie raggiungano Akhban."
-
-#~ msgid ""
-#~ "Yes, now we will help you defeat the enemy so that our families can "
-#~ "return home."
-#~ msgstr ""
-#~ "Sì, adesso ti aiuteremo a sconfiggere i nemici in modo che le nostre "
-#~ "famiglie possano tornare a casa"
-
-#~ msgid "Randalf? How is this possible? You should be dead!"
-#~ msgstr "Randalf? Come è possibile? Dovresti essere morto!"
-
-#~ msgid "I will never surrender!"
-#~ msgstr "Non mi arrenderò mai!"
-
-#~ msgid ""
-#~ "What if I told you Zilead is awaiting your arrival? It is your choice. "
-#~ "You can either start a new life in Wesnoth, or you can die here."
-#~ msgstr ""
-#~ "E se ti dicessi che Zilead ti sta aspettando? Puoi scegliere. Puoi "
-#~ "cominciare una nuova vita a Wesnoth oppure morire qua."
-
-#~ msgid "Continue fighting"
-#~ msgstr "Continua a combattere"
-
-#~ msgid "You disappoint me."
-#~ msgstr "Mi deludi."
-
-#~ msgid ""
-#~ "Master, I promised Zilead I would protect his family. You must not harm "
-#~ "Ardella or her children. Do with the others as you please."
-#~ msgstr ""
-#~ "Maestro, ho promesso a Zilead che avrei protetto la sua famiglia. Non "
-#~ "devi fare del male ad Ardella o ai suoi figli. Degli altri fanne ciò che "
-#~ "vuoi."
-
-#~ msgid "You made your offer and she refused it. Therefore, she must die!"
-#~ msgstr "Hai fatto la tua proposta e lei ha rifiutato. Dunque, deve morire!"
-
-#~ msgid ""
-#~ "Randalf! How could you participate in this genocide? Surely, you must "
-#~ "know that your old master has gone insane? And yet you still obey her?"
-#~ msgstr ""
-#~ "Randalf! Come puoi partecipare a questo genocidio? Certamente, dovresti "
-#~ "aver capito che il tuo veccio maestro è impazzito! E ancora gli obbedisci?"
-
-#~ msgid "Surrender"
-#~ msgstr "Arrenditi"
-
-#~ msgid ""
-#~ "Wise decision. I will go with you to ensure that you reach Wesnoth safely."
-#~ msgstr ""
-#~ "Saggia decisione. Verrò con te per assicurarmi che tu raggiunga sana e "
-#~ "salva Wesnoth."
-
-#~ msgid "Why didn't you inform me of Zilead's whereabouts sooner?"
-#~ msgstr "Perché non mi hai detto prima dove si trovava Zilead?"
-
-#~ msgid ""
-#~ "Because my master wanted you to expose everyone who might try to repel "
-#~ "the invasion. I'm afraid you've inadvertantly led the sheep to the "
-#~ "slaughter."
-#~ msgstr ""
-#~ "Poiché il mio maestro voleva che tu rivelassi tutti quelli che avrebbero "
-#~ "potuto respingere l'invasione. Temo che tu, senza volere, abbia mandato "
-#~ "le pecore in bocca ai lupi."
-
-#~ msgid ""
-#~ "That's no concern of yours. Now let's not keep Zilead waiting much longer."
-#~ msgstr "Non sono affari tuoi. Adesso non facciamo aspettare ancora Zilead."
-
-#~ msgid "Come on, kids. We're going to Wesnoth."
-#~ msgstr "Forza, ragazzi. Stiamo per andare a Wesnoth."
-
-#~ msgid "We cannot win this battle! There are too many of them."
-#~ msgstr "Non possiamo vincere questa battaglia! Sono troppo numerosi."
-
-#~ msgid "Now let's slay those villainous creatures!"
-#~ msgstr "Adesso massacriamo queste creature malvagie!"
-
-#~ msgid "Traverse all paths (move Ardella to signposts)"
-#~ msgstr "Attraversa tutti i sentieri (sposta Ardella sui cartelli)"
-
-#~ msgid "Papa, can you tell me about Wesnoth again?"
-#~ msgstr "Papà, raccontami ancora di Wesnoth."
-
-#~ msgid "Well, what do you want to..."
-#~ msgstr "Be', cosa vu..."
-
-#~ msgid "Papa?"
-#~ msgstr "Papà?"
-
-#~ msgid "Son, we must go home immediately."
-#~ msgstr "Figliolo, dobbiamo tornare subito a casa."
-
-#~ msgid "At least three dozen galleons headed this way!"
-#~ msgstr "Almeno tre dozzine di galeoni sono diretti qua!"
-
-#~ msgid "How did you find me?"
-#~ msgstr "Come avete fatto a trovarmi?"
-
-#~ msgid ""
-#~ "Our master is taking over this island. Our orders are to eliminate anyone "
-#~ "who might stand in her way. Finding you here was just an unexpected "
-#~ "surprise."
-#~ msgstr ""
-#~ "Il nostro padrone si sta impadronendo di questa isola. Abbiamo l'ordine "
-#~ "di eliminare chiunque possa sbarrargli la strada. Avervi trovato qua è "
-#~ "solo una sorpresa inaspettata."
-
-#~ msgid "Go there"
-#~ msgstr "Vacci"
-
-#~ msgid ""
-#~ "Glorienda is where the elves of Eliador reside. Atop a mountain, "
-#~ "reachable only by creatures of flight, you will find four elvish "
-#~ "enchantresses."
-#~ msgstr ""
-#~ "Glorienda è la patria degli elfi di Eliador. Sulla cima di una montagna, "
-#~ "raggiungibile solo dalle creature volanti, troverai quattro elfe "
-#~ "incantatrici ."
-
-#~ msgid ""
-#~ "There are three powerful but gentle beasts living in the caves of Anwar."
-#~ msgstr ""
-#~ "Ci sono tre animali potenti ma cortesi che vivono nelle caverne di Anwar."
-
-#~ msgid ""
-#~ "A group of horsemen live just south of Eliador's only volcano, Mt. Sinon."
-#~ msgstr ""
-#~ "Un gruppo di cavalieri vive immediatamente a sud dell'unico vulcano di "
-#~ "Eliador, Monte Sinon."
-
-#~ msgid "Heldurin is the poorest area of Eliador."
-#~ msgstr "Heldurin è la regione più povera di Eliador."
-
-#~ msgid ""
-#~ "Illien is ruled by Othello, a mad sorcerer who will attempt to steal the "
-#~ "soul of any trespasser."
-#~ msgstr ""
-#~ "Su Ilien regna Othello, uno stregone pazzo che tenterà di rubare l'anima "
-#~ "di ogni trapassato."
-
-#~ msgid "We need at least 18 units to defeat Othello."
-#~ msgstr "Hai bisogno di almeno 18 unità per sconfiggere Othello."
-
-#~ msgid ""
-#~ "Dol Kelroth is the most populated area of Eliador. Urian, the lord of the "
-#~ "sky, lives on a small island just south of the territory."
-#~ msgstr ""
-#~ "Dol Kelroth è la regione più popolata di Eliador. Urian, signore del "
-#~ "cielo, vive su una piccola isola subito a sud della zona."
-
-#~ msgid ""
-#~ "The residents of Dol Kelroth have mysteriously disappeared. We will visit "
-#~ "this area at a later time."
-#~ msgstr ""
-#~ "Gli abitanti di Dol Kelroth sono misteriosamente scomparsi. Visiteremo "
-#~ "questa regione più avanti."
-
-#~ msgid ""
-#~ "Bill and his men took Zilead to this territory. Balas was once home to a "
-#~ "group of powerful warriors. The fate of these warriors is unknown."
-#~ msgstr ""
-#~ "Bill e i suoi uomini hanno portato Zilead in questo territorio. Un tempo "
-#~ "Balas era la patria di potenti guerrieri. Il destino di questi guerrieri "
-#~ "è sconosciuto."
-
-#~ msgid ""
-#~ "There is a fell voice on the air. We should not venture this path at the "
-#~ "present time."
-#~ msgstr ""
-#~ "C'è come una voce che aleggia per l'aria. Non dovremmo avventurarci per "
-#~ "questa strada adesso."
-
-#~ msgid ""
-#~ "A wise and powerful wizard lives on an island southeast of this "
-#~ "unpopulated region. Othello is the only man on this island impervious to "
-#~ "his magic."
-#~ msgstr ""
-#~ "Su un'isola a sud-est di questa regione spopolata vive un mago saggio e "
-#~ "potente. Othello è l'unico uomo su quest'isola immune alla sua magia."
-
-#~ msgid ""
-#~ "Rumor has it that any man who attempts to steal Zilead's gold will not "
-#~ "make it out of the cave alive."
-#~ msgstr ""
-#~ "Si dice che tutti quelli che hanno tentano di rubare l'oro di Zilead non "
-#~ "sono più usciti vivi dalla caverna."
-
-#~ msgid ""
-#~ "Foolish wizard. I knew you would betray me! Your magic will not work "
-#~ "while I'm around!"
-#~ msgstr ""
-#~ "Stupido mago, sapevo che mi avresti tradito! La tua magia non funzionerà "
-#~ "fino a che ci sono io!"
-
-#~ msgid "How dare you attack |{DESC}|! You leave me no choice, Ursula!"
-#~ msgstr "Come osi attaccare  |{DESC}|! Non mi lasci altra scelta, Ursula!"
-
-#~ msgid "What have I done? Master, I cannot slay Zilead's family!"
-#~ msgstr ""
-#~ "Che devo fare? Maestro, io non posso uccidere la famiglia di Zilead!"
-
-#~ msgid "We have slain Randalf! Surrender now, witch, or you'll be next!"
-#~ msgstr "Abbiamo ucciso Randalf! Arrenditi ora, strega, o sarai la prossima!"
-
-#~ msgid "You will be missed, Othello of Illien."
-#~ msgstr "Mi sei mancato, Othello di Ilien."
-
-#~ msgid "Let's go to Wesnoth and bring father home."
-#~ msgstr "Forza, andiamo a Wesnoth per riportare a casa il papà."
-
-#~ msgid ""
-#~ "Yes, we will go to Wesnoth. But we shall never return to this godforsaken "
-#~ "place again."
-#~ msgstr ""
-#~ "Sì, adesso andremo a Wesnoth. Ma non torneremo mai più in questo posto "
-#~ "dimenticato dagli dei."
-
-#~ msgid "Why, momma?"
-#~ msgstr "Perché, mamma?"
-
-#~ msgid ""
-#~ "Six years ago, your father and I moved to Eliador to escape the wars of "
-#~ "Wesnoth. But this place is no longer the safe haven it once was. Ursula's "
-#~ "allies will avenge her death."
-#~ msgstr ""
-#~ "Sei anni fa, vostro padre e io ci siamo trasferiti a Eliador per fuggire "
-#~ "alle guerre di Wesnoth. Purtroppo questo posto non è più quel rifugio "
-#~ "sicuro che era un tempo. Gli alleati di Ursula vendicheranno la sua morte."
-
-#~ msgid "Yay, we're going to Wesnoth!"
-#~ msgstr "Siiiì, stiamo andando a Wesnoth!"
-
-#~ msgid "Mother, you can't die! Please don't leave us!"
-#~ msgstr "Madre, non puoi morire! Per favore, non ci lasciare!"
-
-#~ msgid "Anna! How can I go on living now that my only daughter is gone?"
-#~ msgstr ""
-#~ "Anna! Come posso continuare a vivere ora che la mia unica figlia è morta?"
-
-#~ msgid "I have failed to protect my family."
-#~ msgstr "Non sono riuscita a proteggere la mia famiglia."
-
-#~ msgid "Othello of Illien"
-#~ msgstr "Othello of Illien"
-
-#~ msgid "Dragon 1B"
-#~ msgstr "Drago 1B"
-
-#~ msgid "I am slain! Birds of Dol Kelroth, you must obey Ardella now!"
-#~ msgstr ""
-#~ "Sto morendo! Uccelli di Dol Kelroth, adesso dovrete obbedire ad Ardella!"
-
-#~ msgid "Sinon's Wrath"
-#~ msgstr "L'ira di Sinon"
-
-#~ msgid "Both of my children have perished! I have failed them!"
-#~ msgstr "I miei due figli sono morti! Non sono riuscita a salvarli!"
-
-#~ msgid ""
-#~ "I have failed to protect my family. Let's go home, Anna. We shall await "
-#~ "the coming invasion. We shall perish."
-#~ msgstr ""
-#~ "Non sono riuscito a proteggere la mia famiglia. Torniamo a casa, Anna. "
-#~ "Aspetteremo l'invasione imminente. Non ci resta che morire."
-
-#~ msgid "Randalf's Statues"
-#~ msgstr "Statue di Randalf"
-
-#~ msgid "Go home to your children, Ardella... Zara! Baringa! Echla!"
-#~ msgstr "Torna a casa dai tuoi figli, Ardella... Zara! Baringa! Echla!"
-
-#~ msgid "Kill Randalf to unstone every unit."
-#~ msgstr "Uccidi Randalf per liberare le unità pietrificate."
-
-#~ msgid "Kill cockatrices to unstone leaders."
-#~ msgstr "Uccidi i basilischi per liberare le unità pietrificate."
-
-#~ msgid "Skeleton"
-#~ msgstr "Scheletro"
-
-#~ msgid "Skeleton Archer"
-#~ msgstr "Scheletro arciere"
-
-#~ msgid ""
-#~ "Seven powerful warriors have been killed under your leadership, Ardella. "
-#~ "I suggest you and your kids leave this island before more lives are "
-#~ "wasted."
-#~ msgstr ""
-#~ "Sette valorosi guerrieri sono stati uccisi sotto il tuo comando, Ardella. "
-#~ "Ti suggerisco di lasciare questa isola assieme ai tuoi figli prima che "
-#~ "altre vite vadano sprecate."
-
-#~ msgid ""
-#~ "If you must know, my master is on her way to Eliador. The statues you see "
-#~ "before you are my gifts to her. Soon, I will acquire seven more statues."
-#~ msgstr ""
-#~ "Se proprio lo vuoi sapere, la mia padrona è in viaggio per Eliador. Le "
-#~ "statue che hai visto prima sono il mio dono per lei. Presto, avrò altre "
-#~ "sette statue."
-
-#~ msgid "We shall cut you into a thousand pieces for what you've done!"
-#~ msgstr "Ti faremo a pezzettini per quello che hai fatto!"
-
-#~ msgid ""
-#~ "Ardella, I do not wish any harm on you. Zilead is a dear friend... Zara! "
-#~ "Baringa! Echla!"
-#~ msgstr ""
-#~ "Ardella, non voglio farti del male. Zilead è un caro amico...Zara! "
-#~ "Baringa! Echla!"
-
-#~ msgid ""
-#~ "You have my word that Zilead is safe. That is all I am at liberty to "
-#~ "divulge at the present time. Now please stay out of harms way!"
-#~ msgstr ""
-#~ "Hai la mia parola che Zilead sta bene. Non posso dirti altro al momento. "
-#~ "E adesso rimani lontano dai guai!"
-
-#~ msgid ""
-#~ "You have fought well against my birds, but you will not fare so well "
-#~ "against my master's army."
-#~ msgstr ""
-#~ "Avete combattuto bene contro i miei uccelli, ma non farete altrettanto "
-#~ "contro l'esercito della mia padrona."
-
-#~ msgid "Platu! Verata! Bichtu!"
-#~ msgstr "Platu! Verata! Bichtu!"
-
-#~ msgid ""
-#~ "Now that I have freed you from the spell, go back to Zilead's territory. "
-#~ "That is where the main invasion will take place."
-#~ msgstr ""
-#~ "Adesso che vi ho liberato dall'incantesimo, tornate al territorio di "
-#~ "Zilead. È là che avrà luogo l'invasione principale."
-
-#~ msgid "These cockatrices have a melee attack."
-#~ msgstr "Questi basilischi hanno un attacco ravvicinato."
-
-#~ msgid "Eliador Horse"
-#~ msgstr "Cavallo di Eliador"
-
-#~ msgid "Horses do not have an attack."
-#~ msgstr "I cavalli non attaccano."
-
-#~ msgid "Eliador Shark"
-#~ msgstr "Squalo di Eliador"
-
-#~ msgid "Da-dum... Da-dum... Da-dum ..."
-#~ msgstr "Da-dum... Da-dum... Da-dum ..."
-
-#~ msgid "A witch! Burn her!"
-#~ msgstr "Una strega! Bruciamola!"
-
-#~ msgid "Footpad Toddler"
-#~ msgstr "Brigante bambino"
-
-#~ msgid "An outlaw princess kid riding a gryphon."
-#~ msgstr "Una principessa fuorilegge bambina a cavallo di un grifone."
-
-#~ msgid "Eliador Gryphon Queen"
-#~ msgstr "Regina dei grifoni di Eliador"
-
-#~ msgid "Outlaw Queen riding a gryphon."
-#~ msgstr "Regina fuorilegge a cavallo di un grifone."
-
-#~ msgid "Eliador Gryphon Toddler"
-#~ msgstr "Fanciullo dei grifoni di Eliador"
-
-#~ msgid "A footpad toddler riding a gryphon."
-#~ msgstr "Un brigante bambino a cavallo di un grifone."
-
-#~ msgid "A small gryphon that has no attack."
-#~ msgstr "Un piccolo grifone che non attacca."
-
-#~ msgid ""
-#~ "A sea serpent with a footpad toddler and outlaw princess kid riding on "
-#~ "its back."
-#~ msgstr ""
-#~ "Un serpente marino con un brigante bambino e una principessa fuorilegge "
-#~ "sulla sua schiena."
