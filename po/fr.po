@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-09-11 21:34+0200\n"
-"PO-Revision-Date: 2008-05-02 00:18+0100\n"
+"PO-Revision-Date: 2008-09-14 23:23+0100\n"
 "Last-Translator: Damien J <guydelatourATgloireetpouvoirPTcom>\n"
 "Language-Team: Language fr <wesnoth@ml.free.fr>\n"
 "MIME-Version: 1.0\n"
@@ -267,7 +267,7 @@ msgid ""
 "often take underlings whom they lead to victory."
 msgstr ""
 "Un dragon est une ancienne et horrible bête légendaire appartenant "
-"normalement aux contes fantastiques. Il s'écoule normalement des siècles "
+"normalement aux contes fantastiques. Il s'écoule généralement des siècles "
 "avant qu'un dragon ne soit aperçu à Wesnoth, et ce n'est alors bien souvent "
 "qu'une ombre dans le lointain. Les légendes précisent clairement les ravages "
 "commis par ces créatures extrêmement fortes, très rapides, incroyablement "
@@ -464,7 +464,7 @@ msgstr "Sorcière"
 #. [advancement]
 #: Eliador/units/Witch.cfg:20
 msgid "HP +40, Max XP +25%, Attack damage +1"
-msgstr ""
+msgstr "PV +40, Max XP +25%, Dégâts en attaque +1"
 
 #. [unit]: race=undead
 #: Eliador/units/Witch.cfg:38
@@ -487,15 +487,12 @@ msgstr "Anwar"
 
 #. [objectives]
 #: Eliador/utils/eliador-anwar.cfg:71
-#, fuzzy
 msgid ""
 "(1) A monster follows its recruiter; (2) If adjacent to its recruiter, a "
 "monster will attack an enemy within range"
 msgstr ""
-"\n"
-"(1) Un monstre suit celui qui l'a recruté.\n"
-"(2) Un monstre à côté de celui qui l'a recruté attaquera tout ennemi à "
-"portée."
+"(1) Un monstre suit celui qui l'a recruté ; (2) un monstre à côté de celui "
+"qui l'a recruté attaquera tout ennemi à portée."
 
 #. [objective]: condition=win
 #: Eliador/utils/eliador-anwar.cfg:73
@@ -511,9 +508,8 @@ msgstr "Ou survivre jusqu'à la fin des tours"
 #: Eliador/utils/eliador-kelroth.cfg:100 Eliador/utils/eliador-anwar.cfg:81
 #: Eliador/utils/eliador-treasure.cfg:58 Eliador/utils/eliador-balas.cfg:80
 #: Eliador/utils/eliador-sinon.cfg:46 Eliador/utils/eliador-battle.cfg:46
-#, fuzzy
 msgid "Death of Ardella, Anna, or Zeke"
-msgstr "Mort d'Ardella"
+msgstr "Mort d'Ardella, de Anna ou de Zeke"
 
 #. [event]
 #: Eliador/utils/eliador-anwar.cfg:93
@@ -598,11 +594,9 @@ msgstr "Balas"
 
 #. [objectives]
 #: Eliador/utils/eliador-balas.cfg:74
-#, fuzzy
 msgid "The fencers will leave after all elves have been killed or captured"
 msgstr ""
-"Les bretteurs partiront dès que tous les elfes\n"
-"auront été tués ou capturés"
+"Les bretteurs partiront dès que tous les elfes auront été tués ou capturés"
 
 #. [objective]: condition=win
 #: Eliador/utils/eliador-kelroth.cfg:96 Eliador/utils/eliador-balas.cfg:76
@@ -1336,18 +1330,15 @@ msgstr "Illien"
 
 #. [objectives]
 #: Eliador/utils/eliador-illien.cfg:48
-#, fuzzy
 msgid ""
 "A move is valid if Othello's units will be between two of yours. To place a "
 "unit on the board: (1) Move Ardella to select the column; (2) Move Ardella "
 "to select the row; (3) Press 'End Turn'"
 msgstr ""
-"\n"
 "Un déplacement est valide si les unités d'Othello se trouvent entre deux des "
-"vôtres. Pour placer une unité sur le plateau :\n"
-"  (1) déplacer Ardella pour choisir la colonne,\n"
-"  (2) déplacer Ardella pour choisir la ligne,\n"
-"  (3) appuyer sur « Fin du tour »."
+"vôtres. Pour placer une unité sur le plateau :  (1) déplacer Ardella pour "
+"choisir la colonne, (2) déplacer Ardella pour choisir la ligne, (3) appuyer "
+"sur « Fin du tour »."
 
 #. [objective]: condition=win
 #: Eliador/utils/eliador-illien.cfg:50
@@ -1520,15 +1511,12 @@ msgstr "Amener les chevaux en hauteur"
 
 #. [objectives]
 #: Eliador/utils/eliador-sinon.cfg:40
-#, fuzzy
 msgid ""
 "(1) Move next to a horse to mount it; (2) Horses and children can move onto "
 "hills but not mountains"
 msgstr ""
-"\n"
-"(1) Se déplacer près d'un cheval pour le chevaucher.\n"
-"(2) Les cheveaux et les enfants peuvent aller sur les collines mais pas sur "
-"les montagnes."
+"(1) Se déplacer près d'un cheval pour le chevaucher ; (2) les chevaux et les "
+"enfants peuvent aller sur les collines mais pas sur les montagnes."
 
 #. [objective]: condition=win
 #: Eliador/utils/eliador-sinon.cfg:42
