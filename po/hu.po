@@ -1,32 +1,36 @@
+# translation of hu-eliador_fuzzy.po to Hungarian
+# Noll Miklós <nollmiki@gmail.com>, 2008.
+# Gabor Udvari <gabor.udvari@gmail.com>, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: hu-eliador_fuzzy\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-09-11 21:34+0200\n"
-"PO-Revision-Date: 2005-07-25 14:58+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"POT-Creation-Date: 2008-10-23 22:53+0200\n"
+"PO-Revision-Date: 2008-10-14 09:24+0200\n"
+"Last-Translator: Gabor Udvari <gabor.udvari@gmail.com>\n"
+"Language-Team: Hungarian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: KBabel 1.11.4\n"
 
-#. [scenario]
 #. [campaign]
-#: Eliador/scenarios/eliador-home-intro.cfg:5 Eliador/utils/eliador-home.cfg:2
-#: Eliador/utils/eliador-battle.cfg:2 Eliador/_main.cfg:8
+#. [scenario]
+#: Eliador/utils/eliador-battle.cfg:2 Eliador/utils/eliador-home.cfg:2
+#: Eliador/_main.cfg:8 Eliador/scenarios/eliador-home-intro.cfg:5
 msgid "Invasion of Eliador"
-msgstr ""
+msgstr "Eliador Lerohanása"
 
 #. [campaign]
 #: Eliador/_main.cfg:9
 msgid "IOE"
-msgstr ""
+msgstr "EL"
 
 #. [campaign]
 #: Eliador/_main.cfg:10
 msgid " (Version"
-msgstr ""
+msgstr "(Verzió"
 
 #. [campaign]
 #: Eliador/_main.cfg:10
@@ -35,104 +39,108 @@ msgid ""
 "the eastern shore. It is up to a family of outlaws to warn the island's "
 "inhabitants before it's too late."
 msgstr ""
+"Egy békés szigetet a keleti partvonal felé tartó ismeretlen ellenfél "
+"megszállása fenyegeti. Mindössze egy törvényen kívüli családon múlik a "
+"sziget lakosainak figyelmesztetése, mielőtt túl késő lenne."
 
 #. [campaign]
 #: Eliador/_main.cfg:14
 msgid "Easy"
-msgstr ""
+msgstr "Könnyű"
 
 #. [campaign]
 #: Eliador/_main.cfg:15
 msgid "Normal"
-msgstr ""
+msgstr "Közepes"
 
 #. [campaign]
 #: Eliador/_main.cfg:16
 msgid "Hard"
-msgstr ""
+msgstr "Nehéz"
 
 #. [about]
 #: Eliador/_main.cfg:18
 msgid "Campaign Design"
-msgstr ""
+msgstr "Hadjárat tervezése"
 
 #. [scenario]
 #: Eliador/scenarios/eliador-end.cfg:5
 msgid "Journey to Wesnoth"
-msgstr ""
+msgstr "Utazás Wesnothba"
 
-#. [event]
 #. [message]: type=Pirate Galleon
-#: Eliador/scenarios/eliador-home-intro.cfg:52
+#. [event]
 #: Eliador/scenarios/eliador-end.cfg:47 Eliador/scenarios/eliador-end.cfg:57
+#: Eliador/scenarios/eliador-home-intro.cfg:52
 msgid "Ardella"
-msgstr ""
+msgstr "Ardella"
 
 #. [message]: type=Pirate Galleon
 #: Eliador/scenarios/eliador-end.cfg:48
 msgid ""
 "Hurry up and finish your breakfast, children. Your father is waiting for us."
-msgstr ""
+msgstr "Gyerünk, gyerekek, fejezzétek be a reggelit! Apátok ránk vár."
 
-#. [unit]: type=Outlaw Kid, description=Anna
-#. [message]: type=Pirate Galleon
 #. [unit]: type=Gryphon Kid, description=Anna
+#. [message]: type=Pirate Galleon
+#. [unit]: type=Outlaw Kid, description=Anna
+#: Eliador/utils/eliador-kelroth.cfg:230 Eliador/scenarios/eliador-end.cfg:52
 #: Eliador/scenarios/eliador-home-intro.cfg:59
-#: Eliador/scenarios/eliador-end.cfg:52 Eliador/utils/eliador-kelroth.cfg:230
 msgid "Anna"
-msgstr ""
+msgstr "Anna"
 
 #. [message]: type=Pirate Galleon
 #: Eliador/scenarios/eliador-end.cfg:53
 msgid "How much further is Wesnoth?"
-msgstr ""
+msgstr "Milyen messze van még Wesnoth?"
 
 #. [message]: type=Pirate Galleon
 #: Eliador/scenarios/eliador-end.cfg:58
 msgid "We will arrive in two days time."
-msgstr ""
+msgstr "Az utazás két napot vesz igénybe."
 
-#. [unit]: type=Outlaw Kid, description=Zeke
-#. [message]: type=Pirate Galleon
 #. [unit]: type=Gryphon Kid, description=Zeke
+#. [message]: type=Pirate Galleon
+#. [unit]: type=Outlaw Kid, description=Zeke
+#: Eliador/utils/eliador-kelroth.cfg:214 Eliador/scenarios/eliador-end.cfg:62
 #: Eliador/scenarios/eliador-home-intro.cfg:67
-#: Eliador/scenarios/eliador-end.cfg:62 Eliador/utils/eliador-kelroth.cfg:214
 msgid "Zeke"
-msgstr ""
+msgstr "Zeke"
 
 #. [message]: type=Pirate Galleon
 #: Eliador/scenarios/eliador-end.cfg:63
 msgid "I can't wait that long! I miss papa!"
-msgstr ""
+msgstr "Nem tudok annyit várni! Hiányzik apu!"
 
 #. [event]: (description=Agatha) moves 0}, (description=Glenda) moves 0}
 #: Eliador/scenarios/eliador-end.cfg:71
 msgid "Agatha"
-msgstr ""
+msgstr "Agatha"
 
 #. [event]: (description=Agatha) moves 0}, (description=Glenda) moves 0}
 #: Eliador/scenarios/eliador-end.cfg:79
 msgid "Glenda"
-msgstr ""
+msgstr "Glenda"
 
-#. [event]
 #. [event]: type=Goblin Knight) 4 6}, type=Goblin Knight) 5 6}, type=Goblin Knight) 6 6}
-#: Eliador/scenarios/eliador-end.cfg:127 Eliador/utils/eliador-kelroth.cfg:170
-#: Eliador/utils/eliador-kelroth.cfg:421 Eliador/utils/eliador-deaths.cfg:2
-#: Eliador/utils/eliador-anwar.cfg:220 Eliador/utils/eliador-treasure.cfg:126
-#: Eliador/utils/eliador-sinon.cfg:323 Eliador/utils/eliador-battle.cfg:549
+#. [event]
+#: Eliador/utils/eliador-battle.cfg:549 Eliador/utils/eliador-deaths.cfg:2
+#: Eliador/utils/eliador-anwar.cfg:220 Eliador/utils/eliador-kelroth.cfg:170
+#: Eliador/utils/eliador-kelroth.cfg:421
+#: Eliador/utils/eliador-treasure.cfg:126 Eliador/utils/eliador-sinon.cfg:323
+#: Eliador/scenarios/eliador-end.cfg:127
 msgid "Momma!"
-msgstr ""
+msgstr "Mami!"
 
 #. [event]
 #: Eliador/scenarios/eliador-home-intro.cfg:53
 msgid "Zilead"
-msgstr ""
+msgstr "Zilead"
 
 #. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
 #: Eliador/scenarios/eliador-home-intro.cfg:93
 msgid "Why do you look so sad, papa?"
-msgstr ""
+msgstr "Miért tűnsz ilyen bánatosnak, apu?"
 
 #. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
 #: Eliador/scenarios/eliador-home-intro.cfg:94
@@ -140,89 +148,90 @@ msgid ""
 "I am just feeling a little nostalgic, my son. It has been exactly six years "
 "since your mother and I came to Eliador."
 msgstr ""
+"Tudod fiam, egy kis nosztalgiát érzek. Pontosan hat éve, hogy anyáddal "
+"Eliadorba jöttünk."
 
 #. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
 #: Eliador/scenarios/eliador-home-intro.cfg:95
 msgid "If you liked Wesnoth so much, then why did you leave?"
-msgstr ""
+msgstr "De, ha annyira szeretted Wesnothot, miért hagytad el?"
 
 #. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
 #: Eliador/scenarios/eliador-home-intro.cfg:96
 msgid "It's a long..."
-msgstr ""
+msgstr "Ez egy hosszú tör..."
 
 #. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
 #: Eliador/scenarios/eliador-home-intro.cfg:103
 msgid "What is it, papa? What are you looking at?"
-msgstr ""
+msgstr "Mi az apu? Mit nézel?"
 
 #. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
 #: Eliador/scenarios/eliador-home-intro.cfg:104
 msgid "Galleons on the horizon. Dozens of them!"
-msgstr ""
+msgstr "Gályákat látok a horizonton. Több tucatnyi van belőlük!"
 
-#. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
 #. [event]: description=Randalf facing sw}
-#: Eliador/scenarios/eliador-home-intro.cfg:106
+#. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
 #: Eliador/utils/eliador-varad.cfg:148
+#: Eliador/scenarios/eliador-home-intro.cfg:106
 msgid "Morgan"
-msgstr ""
+msgstr "Morgan"
 
-#. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
-#. [event]: description=Randalf facing sw}
 #. [event]
+#. [event]: description=Randalf facing sw}
+#. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
+#: Eliador/utils/eliador-balas.cfg:148 Eliador/utils/eliador-varad.cfg:147
 #: Eliador/scenarios/eliador-home-intro.cfg:111
-#: Eliador/utils/eliador-varad.cfg:147 Eliador/utils/eliador-balas.cfg:148
 msgid "Bill"
-msgstr ""
+msgstr "Bill"
 
 #. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
 #: Eliador/scenarios/eliador-home-intro.cfg:114
 msgid "Well, well... It's been a long time, Zilead."
-msgstr ""
+msgstr "Nocsak, nocsak... sok idő telt el, Zilead."
 
 #. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
 #: Eliador/scenarios/eliador-home-intro.cfg:115
 msgid "Run home, son! Quickly!"
-msgstr ""
+msgstr "Rohanj haza, fiam! Ahogy csak bírsz!"
 
 #. [unit]: race=elf
 #: Eliador/units/Captured_Archer.cfg:4
 msgid "Captured Elvish Archer"
-msgstr ""
+msgstr "Elfogott Tünde íjász"
 
 #. [attack]: type=impact
-#: Eliador/units/Captured_Marksman.cfg:40
-#: Eliador/units/Captured_Avenger.cfg:40
 #: Eliador/units/Captured_Sharpshooter.cfg:40
-#: Eliador/units/Captured_Ranger.cfg:40 Eliador/units/Captured_Archer.cfg:40
+#: Eliador/units/Captured_Avenger.cfg:40 Eliador/units/Captured_Archer.cfg:40
+#: Eliador/units/Captured_Ranger.cfg:40 Eliador/units/Captured_Marksman.cfg:40
 msgid "kick"
-msgstr ""
+msgstr "rúgás"
 
 #. [unit]: race=elf
 #: Eliador/units/Captured_Avenger.cfg:4
 msgid "Captured Elvish Avenger"
-msgstr ""
+msgstr "Elfogott tünde fejvadász"
 
 #. [unit]: race=elf
 #: Eliador/units/Captured_Marksman.cfg:4
 msgid "Captured Elvish Marksman"
-msgstr ""
+msgstr "Elfogott tünde mesterlövész"
 
 #. [unit]: race=elf
 #: Eliador/units/Captured_Ranger.cfg:4
 msgid "Captured Elvish Ranger"
-msgstr ""
+msgstr "Elfogott tünde vadász"
 
 #. [unit]: race=elf
 #: Eliador/units/Captured_Sharpshooter.cfg:4
 msgid "Captured Elvish Sharpshooter"
-msgstr ""
+msgstr "Elfogott tünde elit íjász"
 
 #. [unit]: race=monster
 #: Eliador/units/Cockatrice.cfg:4
 msgid "Cockatrice"
-msgstr ""
+msgstr "Sárkánykakas"
 
 #. [unit]: race=monster
 #: Eliador/units/Cockatrice.cfg:18
@@ -231,17 +240,21 @@ msgid ""
 "to turn the living to stone. Needless to say, this makes them extremely "
 "dangerous."
 msgstr ""
+"Néha 'baziliszkusz' néven is emlegetik ezt a titokzatos élőlényt, melyről az "
+"a hír járja, hogy képes az élőket kővé dermeszteni. Talán fölösleges is "
+"ecsetelni, mennyire veszélyes."
 
 #. [attack]: type=cold
 #: Eliador/units/Cockatrice.cfg:22
 msgid "gaze"
-msgstr ""
+msgstr "szemmeresztés"
 
 #. [unit]: race=monster
 #: Eliador/units/Dragon.cfg:4
 msgid "Dragon"
-msgstr ""
+msgstr "Sárkány"
 
+# Az utolsó mondat végét nem értettem pontosan...
 #. [unit]: race=monster
 #: Eliador/units/Dragon.cfg:22
 msgid ""
@@ -255,36 +268,49 @@ msgid ""
 "ferocious bite and crushing tail. Fire dragons are cunning and cruel and "
 "often take underlings whom they lead to victory."
 msgstr ""
+"A Tűzokádó sárkány egy ősi és vérfagyasztó lény, mely főként suttogó "
+"szóbeszédekben és képzelt történetekben jelenik meg. Van, hogy évszázadok "
+"telnek el anélkül, hogy Wesnothban egyetlen sárkány észleléséről is "
+"beszámolnának, és ezek is többnyire csak egy távolban repülő árnyat írnak "
+"le. A tűzokádó sárkányok okozta pusztításról nagyon jellegzetes legendák "
+"szólnak: repülésük elképesztően sebes, bőr borította szárnyaik kiterjesztve "
+"a 30 métert is elérik, felkapják és pokoli tűzsugárral perzselik halálra "
+"áldozataikat. Mindenki, aki megmenekül a sárkány tűzokádásától, óvakodjon a "
+"kegyetlen erejű harapásoktól és a farok zúzó erejétől. A tűzokádó sárkányok "
+"fortélyosak és kegyetelenek valamint gyakran alantas erőket segítenek a "
+"győzelemhez."
 
 #. [attack]: type=blade
 #: Eliador/units/Dragon.cfg:26
 msgid "bite"
-msgstr ""
+msgstr "marcangolás"
 
 #. [attack]: type=impact
 #: Eliador/units/Dragon.cfg:35
 msgid "tail"
-msgstr ""
+msgstr "farok"
 
 #. [attack]: type=fire
 #: Eliador/units/Dragon.cfg:45
 msgid "fire breath"
-msgstr ""
+msgstr "tűzokádás"
 
+# Unit: katona vagy szolgáló esetleg egység - bár azt kicsit nyersnek éreztem...
+# udi: ez az egység nem látszik a hadjáratban, talán csak a fejlesztés miatt került bele, és utána benne is maradt
 #. [unit]
 #: Eliador/units/Dummy_Unit.cfg:4
 msgid "Dummy Unit"
-msgstr ""
+msgstr "Bábu"
 
 #. [unit]
 #: Eliador/units/Dummy_Unit.cfg:21
 msgid "Dummy unit"
-msgstr ""
+msgstr "Bábu"
 
 #. [unit]: race=human
 #: Eliador/units/Elder_Mage.cfg:4
 msgid "Elder Mage"
-msgstr ""
+msgstr "Vén mágus"
 
 #. [unit]: race=human
 #: Eliador/units/Elder_Mage.cfg:23
@@ -293,21 +319,24 @@ msgid ""
 "wearying years of battle. Nevertheless they remain feared on the battlefield "
 "on account of their powerful lightning bolts."
 msgstr ""
+"Korábban erejük teljében, a vén mágusok az évek óta tartó csatározásban "
+"vesztettek hatalmukból. Ennek ellenére erőteljes villámcsapásaik miatt ma is "
+"tartanak tőlük a csatákban."
 
 #. [attack]: type=impact
-#: Eliador/units/Elder_Mage.cfg:26 Eliador/units/Outlaw_Queen.cfg:95
+#: Eliador/units/Outlaw_Queen.cfg:95 Eliador/units/Elder_Mage.cfg:26
 msgid "staff"
-msgstr ""
+msgstr "bot"
 
 #. [attack]: type=fire
 #: Eliador/units/Elder_Mage.cfg:35
 msgid "lightning"
-msgstr ""
+msgstr "villámlás"
 
 #. [unit]: race=human
 #: Eliador/units/Female_Peasant.cfg:4
 msgid "Female Peasant"
-msgstr ""
+msgstr "Parasztasszony"
 
 #. [unit]: race=human
 #: Eliador/units/Female_Peasant.cfg:19
@@ -317,84 +346,88 @@ msgid ""
 "homes. However, if you're hurling peasants at your foes, you're clearly out "
 "of superior forces."
 msgstr ""
+"A parasztok képezik a vidéki gazdálkodás alapját és végső szükség esetén a "
+"katonaságot is. Noha természetükből adódóan nem félelmetesek, képesek "
+"szívósan védeni otthonaikat. Mindazonáltal, ha ellenségeid ellen parasztokat "
+"indítasz, nyilvánvaló, hogy kifogytál a fejlettebb egységekből."
 
 #. [attack]: type=pierce
 #: Eliador/units/Female_Peasant.cfg:24 Eliador/units/Female_Peasant.cfg:33
 msgid "pitchfork"
-msgstr ""
+msgstr "vasvilla"
 
 #. [unit]: race=human
 #: Eliador/units/Gryphon_Rider_Kid.cfg:4
 msgid "Gryphon Kid"
-msgstr ""
+msgstr "Griff fióka"
 
 #. [attack]: type=blade
 #: Eliador/units/Gryphon_Rider_Kid.cfg:32
 #: Eliador/units/Gryphon_Rider_Kid.cfg:62
 msgid "claws"
-msgstr ""
+msgstr "karmok"
 
 #. [female]
 #: Eliador/units/Gryphon_Rider_Kid.cfg:50
 msgid "female^Gryphon Kid"
-msgstr ""
+msgstr "Griff fióka"
 
 #. [unit]: race=human
 #: Eliador/units/Gryphon_Small.cfg:4
 msgid "Small Gryphon"
-msgstr ""
+msgstr "Aprógriff"
 
 #. [unit]: race=human
-#: Eliador/units/Horse.cfg:4 Eliador/units/Horsequeen.cfg:4
-#: Eliador/units/Horsekid.cfg:4
+#: Eliador/units/Horsekid.cfg:4 Eliador/units/Horsequeen.cfg:4
+#: Eliador/units/Horse.cfg:4
 msgid "Horse"
-msgstr ""
+msgstr "Ló"
 
 #. [female]
 #: Eliador/units/Horsekid.cfg:22
 msgid "female^Horse"
-msgstr ""
+msgstr "Kanca"
 
 #. [unit]: race=human
 #: Eliador/units/Human_Loyalist_Fencer.cfg:4
 msgid "Fencer"
-msgstr ""
+msgstr "Vívó"
 
 #. [attack]: type=blade
 #: Eliador/units/Human_Loyalist_Fencer.cfg:125
 msgid "sabre"
-msgstr ""
+msgstr "szablya"
 
 #. [unit]: race=monster
 #: Eliador/units/Kids_Sea_Serpent.cfg:4
 msgid "Kids Sea Serpent"
-msgstr ""
+msgstr "Gyerekek tengeri kígyón"
 
 #. [attack]: type=pierce
-#: Eliador/units/Shark.cfg:47 Eliador/units/Kids_Sea_Serpent.cfg:29
-#: Eliador/units/Queen_Seaserpent.cfg:30
+#: Eliador/units/Queen_Seaserpent.cfg:30 Eliador/units/Kids_Sea_Serpent.cfg:29
+#: Eliador/units/Shark.cfg:47
 msgid "fangs"
-msgstr ""
+msgstr "agyar"
 
 #. [unit]: race=human
 #: Eliador/units/Outlaw_Kid.cfg:4
 msgid "Outlaw Kid"
-msgstr ""
+msgstr "Törvényen kívüli suhanc"
 
 #. [attack]: type=impact
 #: Eliador/units/Outlaw_Kid.cfg:31 Eliador/units/Outlaw_Kid.cfg:63
 msgid "punch"
-msgstr ""
+msgstr "ütés"
 
 #. [female]
 #: Eliador/units/Outlaw_Kid.cfg:50
 msgid "female^Outlaw Kid"
-msgstr ""
+msgstr "Törvényen kívüli lányka"
 
 #. [unit]: race=human
 #: Eliador/units/Outlaw_Queen.cfg:4
 msgid "female^Outlaw Queen"
-msgstr ""
+msgstr "Törvényen kívüli királynő"
 
 #. [unit]: race=human
 #: Eliador/units/Outlaw_Queen.cfg:26
@@ -406,26 +439,32 @@ msgid ""
 "Queendom with the plunder she finds on the road, and she is ever so close to "
 "that goal."
 msgstr ""
+"A születését tekintve nemes származású törvényen kívüli királynőt a "
+"legnagyobb generálisok kardforgatásra, a legnagyobb bölcsek hadvezetésre "
+"tanították, ezzel téve őt nagyszerű harcossá és hadvezérré. Jóllehet, ő egy "
+"megbukott arisztokrácia örököse, aki a törvénytelenség életformáját "
+"választotta. Álma, hogy saját birodalmát hozza létre fosztogatásaival, és "
+"ilyen közel még sosem állt céljához, mint most."
 
 #. [attack]: type=impact
-#: Eliador/units/Outlaw_Queen.cfg:104 Eliador/units/Queen_Seaserpent.cfg:39
+#: Eliador/units/Queen_Seaserpent.cfg:39 Eliador/units/Outlaw_Queen.cfg:104
 msgid "sling"
-msgstr ""
+msgstr "parittya"
 
 #. [unit]: race=monster
 #: Eliador/units/Queen_Seaserpent.cfg:4
 msgid "female^Queen Sea Serpent"
-msgstr ""
+msgstr "Tengeri kígyó királynő"
 
 #. [unit]: race=monster
 #: Eliador/units/Shark.cfg:4
 msgid "Shark"
-msgstr ""
+msgstr "Cápa"
 
 #. [unit]: race=undead
 #: Eliador/units/Witch.cfg:5
 msgid "Witch"
-msgstr ""
+msgstr "Boszorka"
 
 #. [advancement]
 #: Eliador/units/Witch.cfg:20
@@ -440,288 +479,299 @@ msgstr ""
 #. [attack]: type=blade
 #: Eliador/units/Witch.cfg:87
 msgid "broom poke"
-msgstr ""
+msgstr "seprűdöfés"
 
 #. [attack]: type=pierce
 #: Eliador/units/Witch.cfg:96
 msgid "curse"
-msgstr ""
+msgstr "átok"
 
 #: Eliador/utils/eliador-anwar.cfg:3
 msgid "Anwar"
-msgstr ""
+msgstr "Anwar"
 
 #. [objectives]
 #: Eliador/utils/eliador-anwar.cfg:71
+#, fuzzy
 msgid ""
 "(1) A monster follows its recruiter; (2) If adjacent to its recruiter, a "
 "monster will attack an enemy within range"
 msgstr ""
+"\n"
+"(1) A szörny követi toborzóját.\n"
+"(2) Ha toborzója mellett áll, megtámadja a számára elérhető ellenséges "
+"lényeket."
 
 #. [objective]: condition=win
 #: Eliador/utils/eliador-anwar.cfg:73
 msgid "Recruit all monsters"
-msgstr ""
+msgstr "Minden szörny toborzása"
 
 #. [objective]: condition=win
 #: Eliador/utils/eliador-anwar.cfg:77
 msgid "Or, survive until end of turns"
-msgstr ""
+msgstr "vagy kitartasz a körök végéig"
 
 #. [objective]: condition=lose
-#: Eliador/utils/eliador-kelroth.cfg:100 Eliador/utils/eliador-anwar.cfg:81
-#: Eliador/utils/eliador-treasure.cfg:58 Eliador/utils/eliador-balas.cfg:80
-#: Eliador/utils/eliador-sinon.cfg:46 Eliador/utils/eliador-battle.cfg:46
+#: Eliador/utils/eliador-balas.cfg:80 Eliador/utils/eliador-battle.cfg:46
+#: Eliador/utils/eliador-anwar.cfg:81 Eliador/utils/eliador-kelroth.cfg:100
+#: Eliador/utils/eliador-treasure.cfg:58 Eliador/utils/eliador-sinon.cfg:46
+#, fuzzy
 msgid "Death of Ardella, Anna, or Zeke"
-msgstr ""
+msgstr "Ardella halála"
 
 #. [event]
 #: Eliador/utils/eliador-anwar.cfg:93
 msgid "Gwaraug"
-msgstr ""
+msgstr "Gwaraug"
 
 #. [event]
 #: Eliador/utils/eliador-anwar.cfg:94
 msgid "Shelog"
-msgstr ""
+msgstr "Shelog"
 
 #. [event]
 #: Eliador/utils/eliador-anwar.cfg:95
 msgid "Nuba"
-msgstr ""
+msgstr "Nuba"
 
 #. [event]
 #: Eliador/utils/eliador-anwar.cfg:100
 msgid "The beasts of Anwar can prove useful to us."
-msgstr ""
+msgstr "Anwar vadállatai a segítségünkre lehetnek."
 
 #. [event]
 #: Eliador/utils/eliador-anwar.cfg:101
 msgid "What must we do?"
-msgstr ""
+msgstr "Mitévők legyünk?"
 
 #. [event]
 #: Eliador/utils/eliador-anwar.cfg:102
 msgid "Do you remember the magic words your father taught you?"
-msgstr ""
+msgstr "Emlékszel még a mágikus szavakra, amiket az apád tanított neked?"
 
 #. [event]
 #: Eliador/utils/eliador-anwar.cfg:103
 msgid "Iumento, pareah."
-msgstr ""
+msgstr "Iumento, pareah."
 
 #. [event]
 #: Eliador/utils/eliador-anwar.cfg:104
 msgid "Good. Approach a beast, look into its eyes and recite those words."
 msgstr ""
+"Nagyszerű. Közelíts meg egy fenevadat, nézz a szemeibe, és mondogasd ezeket "
+"a szavakat."
 
 #. [event]
 #: Eliador/utils/eliador-anwar.cfg:137
 msgid "Momma, what was that flapping noise?"
-msgstr ""
+msgstr "Mami, mik ezek a csapkodó hangok?!"
 
 #. [then]
 #: Eliador/utils/eliador-anwar.cfg:150
 msgid "Exit the cave!"
-msgstr ""
+msgstr "Hagyd el a barlangot!"
 
 #. [else]
 #: Eliador/utils/eliador-anwar.cfg:153
 msgid "Stay out of the cave!"
-msgstr ""
+msgstr "Maradj kívül!"
 
 #. [event]
 #: Eliador/utils/eliador-anwar.cfg:178
 msgid "Iumento, pareah!"
-msgstr ""
+msgstr "Iumento, pareah!"
 
-#: Eliador/utils/eliador-kelroth.cfg:422 Eliador/utils/eliador-deaths.cfg:3
-#: Eliador/utils/eliador-anwar.cfg:221 Eliador/utils/eliador-treasure.cfg:127
-#: Eliador/utils/eliador-balas.cfg:679 Eliador/utils/eliador-sinon.cfg:324
-#: Eliador/utils/eliador-battle.cfg:547
+#: Eliador/utils/eliador-balas.cfg:679 Eliador/utils/eliador-battle.cfg:547
+#: Eliador/utils/eliador-deaths.cfg:3 Eliador/utils/eliador-anwar.cfg:221
+#: Eliador/utils/eliador-kelroth.cfg:422
+#: Eliador/utils/eliador-treasure.cfg:127 Eliador/utils/eliador-sinon.cfg:324
 msgid "Anna!"
-msgstr ""
+msgstr "Anna!"
 
-#: Eliador/utils/eliador-kelroth.cfg:423 Eliador/utils/eliador-deaths.cfg:4
-#: Eliador/utils/eliador-anwar.cfg:222 Eliador/utils/eliador-treasure.cfg:128
-#: Eliador/utils/eliador-balas.cfg:680 Eliador/utils/eliador-sinon.cfg:325
-#: Eliador/utils/eliador-battle.cfg:548
+#: Eliador/utils/eliador-balas.cfg:680 Eliador/utils/eliador-battle.cfg:548
+#: Eliador/utils/eliador-deaths.cfg:4 Eliador/utils/eliador-anwar.cfg:222
+#: Eliador/utils/eliador-kelroth.cfg:423
+#: Eliador/utils/eliador-treasure.cfg:128 Eliador/utils/eliador-sinon.cfg:325
 msgid "Zeke!"
-msgstr ""
+msgstr "Zeke!"
 
 #: Eliador/utils/eliador-balas.cfg:3
 msgid "Balas"
-msgstr ""
+msgstr "Balas"
 
 #. [objectives]
 #: Eliador/utils/eliador-balas.cfg:74
+#, fuzzy
 msgid "The fencers will leave after all elves have been killed or captured"
 msgstr ""
+"A vívók elmennek, ha az összes tündét\n"
+"megölték vagy elfogták"
 
 #. [objective]: condition=win
-#: Eliador/utils/eliador-kelroth.cfg:96 Eliador/utils/eliador-balas.cfg:76
+#: Eliador/utils/eliador-balas.cfg:76 Eliador/utils/eliador-kelroth.cfg:96
 msgid "Kill all enemies"
-msgstr ""
+msgstr "Megölöd az összes ellenfelet"
 
 #. [objective]: condition=lose
 #. [objective]: condition=win
-#: Eliador/utils/eliador-kelroth.cfg:104 Eliador/utils/eliador-varad.cfg:68
-#: Eliador/utils/eliador-illien.cfg:58 Eliador/utils/eliador-treasure.cfg:62
 #: Eliador/utils/eliador-balas.cfg:84 Eliador/utils/eliador-battle.cfg:50
 #: Eliador/utils/eliador-glorienda.cfg:56
+#: Eliador/utils/eliador-kelroth.cfg:104 Eliador/utils/eliador-treasure.cfg:62
+#: Eliador/utils/eliador-illien.cfg:58 Eliador/utils/eliador-varad.cfg:68
 msgid "Turns run out"
-msgstr "Túlléped a körök számát"
+msgstr "A körök száma letelik"
 
 #. [unit]: type=Elvish Archer, description=Eledril
 #: Eliador/utils/eliador-balas.cfg:134
 msgid "Eledril"
-msgstr ""
+msgstr "Eledril"
 
 #. [event]
 #: Eliador/utils/eliador-balas.cfg:166
 msgid "Saenvan"
-msgstr ""
+msgstr "Saenvan"
 
 #. [event]
 #: Eliador/utils/eliador-balas.cfg:167
 msgid "Caryn"
-msgstr ""
+msgstr "Caryn"
 
 #. [event]
 #: Eliador/utils/eliador-balas.cfg:168
 msgid "Gleran"
-msgstr ""
+msgstr "Gleran"
 
 #. [event]
 #: Eliador/utils/eliador-balas.cfg:169
 msgid "Aethunry"
-msgstr ""
+msgstr "Aethunry"
 
 #. [event]
 #: Eliador/utils/eliador-balas.cfg:170
 msgid "Owidry"
-msgstr ""
+msgstr "Owidry"
 
 #. [event]
 #: Eliador/utils/eliador-balas.cfg:171
 msgid "Lurraent"
-msgstr ""
+msgstr "Lurraent"
 
 #. [event]
 #: Eliador/utils/eliador-balas.cfg:172
 msgid "Yranvan"
-msgstr ""
+msgstr "Yranvan"
 
 #. [event]: (description=Bill) 11 9}, (description=Ardella) 8 37}
 #: Eliador/utils/eliador-balas.cfg:223
 msgid "Momma, that's the bad man who took papa!"
-msgstr ""
+msgstr "Anyu, ott van az a gonosz ember, aki elfogta a papát!"
 
 #. [event]: (description=Bill) 11 9}, (description=Ardella) 8 37}
 #: Eliador/utils/eliador-balas.cfg:224
 msgid "Bill!"
-msgstr ""
+msgstr "Bill!"
 
 #. [event]: (description=Bill) 11 9}, (description=Ardella) 8 37}
 #: Eliador/utils/eliador-balas.cfg:225
 msgid "Ardella has arrived. You know what to do."
-msgstr ""
+msgstr "Ardella megérkezett. Tudod, mi a dolgod."
 
 #. [event]: (description=Bill) 11 9}, (description=Ardella) 8 37}
 #: Eliador/utils/eliador-balas.cfg:232
 msgid "Wait here."
-msgstr ""
+msgstr "Várj itt."
 
 #. [event]: (description=Bill) 11 9}, (description=Ardella) 8 37}
 #. [then]: (description=Balthor) yes}, (description=Zeke) yes}, (description=Anna) yes}, (description=Balthor) movement_costs.shallow_water 20}
 #: Eliador/utils/eliador-balas.cfg:261 Eliador/utils/eliador-balas.cfg:378
 #: Eliador/utils/eliador-balas.cfg:390
 msgid "Balthor"
-msgstr ""
+msgstr "Balthor"
 
 #. [event]: (description=Bill) 11 9}, (description=Ardella) 8 37}
 #: Eliador/utils/eliador-balas.cfg:271
 msgid "Did you see that? There's something in the bay."
-msgstr ""
+msgstr "Láttad? Van valami az öbölben."
 
 #. [event]: (description=Bill) 11 9}, (description=Ardella) 8 37}
 #: Eliador/utils/eliador-balas.cfg:272
 msgid "Let's check it out."
-msgstr ""
+msgstr "Nézzük meg."
 
 #. [then]
 #: Eliador/utils/eliador-balas.cfg:292
 msgid "Anna! Zeke!"
-msgstr ""
+msgstr "Anna! Zeke!"
 
 #. [event]: (description=Brella) yes}, (description=Ardella) yes}, (description=Brella) movement_costs.shallow_water 20}
 #. [then]
 #: Eliador/utils/eliador-balas.cfg:293 Eliador/utils/eliador-balas.cfg:312
 #: Eliador/utils/eliador-balas.cfg:317
 msgid "Brella"
-msgstr ""
+msgstr "Brella"
 
 #. [event]: (description=Brella) yes}, (description=Ardella) yes}, (description=Brella) movement_costs.shallow_water 20}
 #: Eliador/utils/eliador-balas.cfg:313
 msgid "Hop on. I'll take you to your children."
-msgstr ""
+msgstr "Ugorj fel. Elviszlek a gyermekeidhez."
 
 #. [then]: (description=Balthor) yes}, (description=Zeke) yes}, (description=Anna) yes}, (description=Balthor) movement_costs.shallow_water 20}
 #: Eliador/utils/eliador-balas.cfg:379
 msgid "Wow, a sea serpent!"
-msgstr ""
+msgstr "Azta, egy tengeri kígyó!"
 
 #. [then]: (description=Balthor) yes}, (description=Zeke) yes}, (description=Anna) yes}, (description=Balthor) movement_costs.shallow_water 20}
 #: Eliador/utils/eliador-balas.cfg:380
 msgid "What are human children doing in my water?"
-msgstr ""
+msgstr "Mit keresnek embergyerekek az én vizeimben?"
 
 #. [then]: (description=Balthor) yes}, (description=Zeke) yes}, (description=Anna) yes}, (description=Balthor) movement_costs.shallow_water 20}
 #: Eliador/utils/eliador-balas.cfg:381
 msgid "We our looking for our father..."
-msgstr ""
+msgstr "Édesapánkat keressük..."
 
 #. [then]: (description=Balthor) yes}, (description=Zeke) yes}, (description=Anna) yes}, (description=Balthor) movement_costs.shallow_water 20}
 #: Eliador/utils/eliador-balas.cfg:382
 msgid "He was taken by the man in that galleon."
-msgstr ""
+msgstr "Elvitte egy ember aki azon a gályán van."
 
 #. [then]: (description=Balthor) yes}, (description=Zeke) yes}, (description=Anna) yes}, (description=Balthor) movement_costs.shallow_water 20}
 #: Eliador/utils/eliador-balas.cfg:383
 msgid "There are captives on a nearby isle. Perhaps your father is among them."
-msgstr ""
+msgstr "Foglyok vannak a szomszédos szigeten. Talán az apátok is köztük van."
 
 #. [then]: (description=Balthor) yes}, (description=Zeke) yes}, (description=Anna) yes}, (description=Balthor) movement_costs.shallow_water 20}
 #: Eliador/utils/eliador-balas.cfg:384
 msgid "Will you please take us there?"
-msgstr ""
+msgstr "Megtennéd, hogy elviszel minket oda?"
 
 #. [then]: (description=Balthor) yes}, (description=Zeke) yes}, (description=Anna) yes}, (description=Balthor) movement_costs.shallow_water 20}
 #: Eliador/utils/eliador-balas.cfg:385
 msgid "Hop on."
-msgstr ""
+msgstr "Pattanjatok föl!"
 
 #. [then]: (description=Balthor) yes}, (description=Zeke) yes}, (description=Anna) yes}, (description=Balthor) movement_costs.shallow_water 20}
 #: Eliador/utils/eliador-balas.cfg:395
 msgid "Hold on tight!"
-msgstr ""
+msgstr "Kapaszkodjatok erősen!"
 
 #. [else]: (description=Balthor) 22 7}, (description=Brella) 23 8}
 #: Eliador/utils/eliador-balas.cfg:553
 msgid "Thank you..."
-msgstr ""
+msgstr "Köszönjük szépen..."
 
 #. [else]: (description=Balthor) 22 7}, (description=Brella) 23 8}
 #: Eliador/utils/eliador-balas.cfg:554
 msgid ""
 "These children are looking for their father. His name is Zilead. Have you "
 "seen him?"
-msgstr ""
+msgstr "Ezek a gyerekek az apjukat keresik. A neve Zilead. Nem láttad őt?"
 
 #. [else]: (description=Balthor) 22 7}, (description=Brella) 23 8}
 #: Eliador/utils/eliador-balas.cfg:555
 msgid "Zilead was taken southward... towards Varad."
-msgstr ""
+msgstr "Zileadot délre vitték... Varad felé."
 
 #. [else]: (description=Balthor) 22 7}, (description=Brella) 23 8}
 #: Eliador/utils/eliador-balas.cfg:556
@@ -729,56 +779,58 @@ msgid ""
 "Can you take them there? I must help the sea creatures of Eliador battle the "
 "incoming galleons."
 msgstr ""
+"El tudod őket vinni oda? Nekem segítenem kell Eliador tengeri lényeinek a "
+"közelgő gályák elleni csatában."
 
 #. [else]: (description=Balthor) 22 7}, (description=Brella) 23 8}
 #: Eliador/utils/eliador-balas.cfg:557
 msgid "Of course. Good luck, Balthor!"
-msgstr ""
+msgstr "Természetesen. Sok szerencsét, Balthor!"
 
 #. [event]
 #: Eliador/utils/eliador-balas.cfg:645
 msgid "What have I done? Zilead's children are dead!"
-msgstr ""
+msgstr "Mit tettem?! Zilead gyermekei meghaltak!"
 
 #. [event]
 #: Eliador/utils/eliador-balas.cfg:659 Eliador/utils/eliador-balas.cfg:673
 msgid "What have I done? Ardella is dead!"
-msgstr ""
+msgstr "Mit tettem?! Ardella meghalt!"
 
 #. [objective]: condition=win
 #: Eliador/utils/eliador-battle.cfg:42
 msgid "Kill Ursula"
-msgstr ""
+msgstr "Megölöd Ursulát"
 
 #. [event]
 #: Eliador/utils/eliador-battle.cfg:90
 msgid "Virag"
-msgstr ""
+msgstr "Virag"
 
 #. [event]
 #: Eliador/utils/eliador-battle.cfg:91
 msgid "Balgor"
-msgstr ""
+msgstr "Balgor"
 
 #. [event]
 #: Eliador/utils/eliador-battle.cfg:92
 msgid "Flak"
-msgstr ""
+msgstr "Flak"
 
 #. [event]
 #: Eliador/utils/eliador-battle.cfg:93
 msgid "Malash"
-msgstr ""
+msgstr "Malash"
 
 #. [event]
 #: Eliador/utils/eliador-battle.cfg:94
 msgid "Kruk"
-msgstr ""
+msgstr "Kruk"
 
 #. [event]
 #: Eliador/utils/eliador-battle.cfg:95
 msgid "Kruol"
-msgstr ""
+msgstr "Kruol"
 
 #. [event]
 #: Eliador/utils/eliador-battle.cfg:97
@@ -787,21 +839,24 @@ msgid ""
 "dare you interfere with my master's plan! Tonight, we shall feast upon your "
 "flesh!"
 msgstr ""
+"Nem hiszem el, hogy az orkjaimat kicselezte egy ember és a két kölke. Hogy "
+"merészeltek szembeszegülni a mesterem terveivel? Ma este a húsotokból fogunk "
+"lakomázni."
 
 #. [event]
 #: Eliador/utils/eliador-battle.cfg:202
 msgid "Glomlin"
-msgstr ""
+msgstr "Glomlin"
 
 #. [event]
 #: Eliador/utils/eliador-battle.cfg:203
 msgid "Duldril"
-msgstr ""
+msgstr "Duldril"
 
 #. [then]: (description=Urian) 42 3}, race=dwarf) side 1}
 #: Eliador/utils/eliador-battle.cfg:219
 msgid "Urian, is that you old friend? Get over here!"
-msgstr ""
+msgstr "Urian, te vagy az, öreg barátom? Gyere át ide!"
 
 #. [then]: (description=Urian) 42 3}, race=dwarf) side 1}
 #: Eliador/utils/eliador-battle.cfg:221
@@ -809,31 +864,36 @@ msgid ""
 "Glomlin, you're a sight for sore eyes. Please tell me you haven't aligned "
 "yourself with these beasts?"
 msgstr ""
+"Glomlin, milyen kellemes meglepetés! Ugye nem szövetkeztél ezekkel a "
+"bestiákkal?"
 
 #. [then]: (description=Urian) 42 3}, race=dwarf) side 1}
 #: Eliador/utils/eliador-battle.cfg:222
 msgid "Actually..."
-msgstr ""
+msgstr "Valójában..."
 
 #. [then]: (description=Urian) 42 3}, race=dwarf) side 1}
 #: Eliador/utils/eliador-battle.cfg:223
 msgid "No! Of course not! You know me better than that!"
-msgstr ""
+msgstr "Nem! Természetesen nem! Hisz ismersz!"
 
 #. [then]: (description=Urian) 42 3}, race=dwarf) side 1}
 #: Eliador/utils/eliador-battle.cfg:224
 msgid "I am sorry..."
-msgstr ""
+msgstr "Sajnálom..."
 
 #. [then]: (description=Urian) 42 3}, race=dwarf) side 1}
 #: Eliador/utils/eliador-battle.cfg:225
 msgid "Save the apologies for later. We've got vermin to exterminate!"
 msgstr ""
+"Tartogassuk későbbre a bocsánatkéréseket! Egyelőre van néhány kiirtásra váró "
+"férgünk!"
 
 #. [else]
 #: Eliador/utils/eliador-battle.cfg:231
 msgid "Dwarves? How can such noble beings fight alongside orcs?"
 msgstr ""
+"Törpök? Hogy lehet, hogy ilyen nemes lelkek az orkok oldalán harcolnak?"
 
 #. [else]
 #: Eliador/utils/eliador-battle.cfg:232
@@ -841,24 +901,29 @@ msgid ""
 "If you must know, we were banished from our homes in Wesnoth. Our new master "
 "promised us land and wealth if we fight alongside these vermin."
 msgstr ""
+"Ha tudni akarod, száműztek minket wesnothi otthonainkból. Új vezetőnk földet "
+"és gazdagságot ígért nekünk, ha ilyen férgek oldalán vonulunk csatába."
 
 #. [else]
 #: Eliador/utils/eliador-battle.cfg:233
 msgid "We'll offer the same deal if you fight with us."
-msgstr ""
+msgstr "Mi ugyanezt ajánljuk, ha velünk tartotok."
 
+# to stand a chance - ez mi lehet?
 #. [else]
 #: Eliador/utils/eliador-battle.cfg:234
 msgid ""
 "Ha! We dwarves are a brave bunch, but we would not stand a chance against "
 "our master. I'm sorry, but you must all die!"
 msgstr ""
+"Ha! Mi törpök bátor társaság vagyunk, de nem állnánk meg a sarat vezetőnk "
+"ellen. Sajnálom, de meg kell halnotok."
 
-#. [event]: description=Randalf facing sw}
 #. [event]: description=Ardella description=Randalf}, (type=Fencer)}, (type=Duelist)}, (type=Master at Arms)}
-#: Eliador/utils/eliador-varad.cfg:81 Eliador/utils/eliador-battle.cfg:243
+#. [event]: description=Randalf facing sw}
+#: Eliador/utils/eliador-battle.cfg:243 Eliador/utils/eliador-varad.cfg:81
 msgid "Randalf"
-msgstr ""
+msgstr "Randalf"
 
 #. [event]: description=Ardella description=Randalf}, (type=Fencer)}, (type=Duelist)}, (type=Master at Arms)}
 #: Eliador/utils/eliador-battle.cfg:246
@@ -867,37 +932,42 @@ msgid ""
 "arrange safe passage for you and your children to Wesnoth. Zilead is "
 "awaiting your arrival."
 msgstr ""
+"Ardella, ezt a csatát nem nyerheted meg! Add meg magad, és a vezetőnk "
+"garantálja, hogy biztonságban eljuthatsz Wesnothba a gyermekeiddel együtt. "
+"Zilead már vár rád."
 
 #. [event]: description=Ardella description=Randalf}, (type=Fencer)}, (type=Duelist)}, (type=Master at Arms)}
 #: Eliador/utils/eliador-battle.cfg:247
 msgid "I will not abandon the people of Eliador!"
-msgstr ""
+msgstr "Nem hagyom el Eliador népét!"
 
 #. [event]: description=Ardella description=Randalf}, (type=Fencer)}, (type=Duelist)}, (type=Master at Arms)}
 #: Eliador/utils/eliador-battle.cfg:254
 msgid "Ursula"
-msgstr ""
+msgstr "Ursula"
 
 #. [event]: description=Ardella description=Randalf}, (type=Fencer)}, (type=Duelist)}, (type=Master at Arms)}
 #: Eliador/utils/eliador-battle.cfg:262
 msgid ""
 "Remember our agreement, master. Ardella and her children must not be harmed."
 msgstr ""
+"Emlékezz a megállapodásunkra, mester! Ardellának és gyermekeinek nem eshet "
+"bántódása!"
 
 #. [then]
 #: Eliador/utils/eliador-battle.cfg:277
 msgid "Mother, look! Randalf's statues have escaped! They will kill the witch!"
-msgstr ""
+msgstr "Anya, nézd! Randalf szobrai megléptek! Meg fogják ölni a boszorkányt!"
 
 #. [then]
 #: Eliador/utils/eliador-battle.cfg:289
 msgid "They are bewitched... They will not help us."
-msgstr ""
+msgstr "El vannak bűvölve... Nem fognak nekünk segíteni."
 
 #. [then]: (description=Othello) 2 27}, (description=Othello) yes}, description=Gwaraug) side 2}, description=Shelog) side 2}, description=Nuba) side 2}
 #: Eliador/utils/eliador-battle.cfg:336
 msgid "Othello, you scaredy-cat!"
-msgstr ""
+msgstr "Othelló, te ijedt kutya!"
 
 #. [then]: (description=Othello) 2 27}, (description=Othello) yes}, description=Gwaraug) side 2}, description=Shelog) side 2}, description=Nuba) side 2}
 #: Eliador/utils/eliador-battle.cfg:380
@@ -905,277 +975,282 @@ msgid ""
 "The time has come for me to abolish the law of Illien. Slaves of Illien, I "
 "release you!"
 msgstr ""
+"Eljött az én időm, hogy eltöröljem Illien törvényeit. Illien szolgái, "
+"szabadok vagytok!"
 
 #. [event]
 #: Eliador/utils/eliador-battle.cfg:403
 msgid "Kinowyn"
-msgstr ""
+msgstr "Kinowyn"
 
 #. [then]
 #: Eliador/utils/eliador-battle.cfg:412
 msgid "Cithrand"
-msgstr ""
+msgstr "Cithrand"
 
 #. [then]
 #: Eliador/utils/eliador-battle.cfg:413
 msgid "Unondel"
-msgstr ""
+msgstr "Unondel"
 
 #. [then]
 #: Eliador/utils/eliador-battle.cfg:414
 msgid "Fithraril"
-msgstr ""
+msgstr "Fithraril"
 
 #. [then]
 #: Eliador/utils/eliador-battle.cfg:415
 msgid "Vylas"
-msgstr ""
+msgstr "Vylas"
 
 #. [then]
 #: Eliador/utils/eliador-battle.cfg:416
 msgid "Unil"
-msgstr ""
+msgstr "Unil"
 
 #. [then]
 #: Eliador/utils/eliador-battle.cfg:417
 msgid "Hemir"
-msgstr ""
+msgstr "Hemir"
 
 #. [then]
 #. [event]
 #: Eliador/utils/eliador-battle.cfg:418 Eliador/utils/eliador-glorienda.cfg:78
 msgid "Fathien"
-msgstr ""
+msgstr "Fathien"
 
 #. [then]
 #: Eliador/utils/eliador-battle.cfg:419
 msgid "Sebrin"
-msgstr ""
+msgstr "Sebrin"
 
 #. [then]
 #: Eliador/utils/eliador-battle.cfg:420
 msgid "Soriand"
-msgstr ""
+msgstr "Soriand"
 
 #. [then]
 #: Eliador/utils/eliador-battle.cfg:421
 msgid "Anebrin"
-msgstr ""
+msgstr "Anebrin"
 
 #. [then]
 #: Eliador/utils/eliador-battle.cfg:425
 msgid "Kinowyn!"
-msgstr ""
+msgstr "Kinowyn!"
 
 #. [then]
 #: Eliador/utils/eliador-battle.cfg:426
 msgid "Lucien sent us to help the elves of Glorienda."
-msgstr ""
+msgstr "Lucien küldött minket, hogy segítsük Glorienda tündéit!"
 
 #. [then]
 #: Eliador/utils/eliador-battle.cfg:429
 msgid "You could not have come at a better time!"
-msgstr ""
+msgstr "Nem is érkezhettetek volna jobbkor!"
 
 #. [else]
 #: Eliador/utils/eliador-battle.cfg:432
 msgid "I come from Angalas. Where are the elves of Glorienda?"
-msgstr ""
+msgstr "Angalastól jövök. Hol vannak Glorienda tündéi?"
 
 #. [else]
 #: Eliador/utils/eliador-battle.cfg:433
 msgid "I am sorry, but they fell in battle."
-msgstr ""
+msgstr "Elestek a csatában. Sajnálom."
 
 #. [else]
 #: Eliador/utils/eliador-battle.cfg:434
 msgid "Then I am too late..."
-msgstr ""
+msgstr "Ezek szerint elkéstem..."
 
+# Ezt nem értettem...
 #. [then]: (description=Randalf) side 1}, (type=Bill Fencer) side 1}, (type=Fencer) side 1}, (type=Duelist) side 1}, (type=Master at Arms) side 1}
 #: Eliador/utils/eliador-battle.cfg:474
 msgid "Master! I had your word..."
-msgstr ""
+msgstr "Mester! Megígérted nekem..."
 
 #. [then]: (description=Randalf) side 1}, (type=Bill Fencer) side 1}, (type=Fencer) side 1}, (type=Duelist) side 1}, (type=Master at Arms) side 1}
 #: Eliador/utils/eliador-battle.cfg:475
 msgid "I have no mercy for my enemies!"
-msgstr ""
+msgstr "Nem kegyelmezek az ellenségeimnek!"
 
 #. [then]: (description=Randalf) side 1}, (type=Bill Fencer) side 1}, (type=Fencer) side 1}, (type=Duelist) side 1}, (type=Master at Arms) side 1}
 #: Eliador/utils/eliador-battle.cfg:476
 msgid "Nor do I! You will not harm them!"
-msgstr ""
+msgstr "Én sem! Nem fogod bántani őket!"
 
 #. [then]: (description=Randalf) side 1}, (type=Bill Fencer) side 1}, (type=Fencer) side 1}, (type=Duelist) side 1}, (type=Master at Arms) side 1}
 #: Eliador/utils/eliador-battle.cfg:477
 msgid "You would not dare betray me, Randalf!"
-msgstr ""
+msgstr "Nem mernél elárulni engem, Randalf!"
 
 #. [then]: (description=Randalf) side 1}, (type=Bill Fencer) side 1}, (type=Fencer) side 1}, (type=Duelist) side 1}, (type=Master at Arms) side 1}
 #: Eliador/utils/eliador-battle.cfg:478
 msgid "Watch me!"
-msgstr ""
+msgstr "Csak figyelj!"
 
 #. [event]
 #: Eliador/utils/eliador-battle.cfg:526
 msgid "Othello!"
-msgstr ""
+msgstr "Othelló!"
 
 #. [event]
 #: Eliador/utils/eliador-battle.cfg:535
 msgid "I shall return..."
-msgstr ""
+msgstr "Még visszatérek..."
 
 #. [event]
 #: Eliador/utils/eliador-battle.cfg:544
 msgid "Urian is dead!"
-msgstr ""
+msgstr "Urian halott!"
 
 #. [event]
 #: Eliador/utils/eliador-battle.cfg:557
 msgid "The witch is dead!"
-msgstr ""
+msgstr "A boszorka halott!"
 
 #. [event]
 #: Eliador/utils/eliador-battle.cfg:558
 msgid "Look! They're running away!"
-msgstr ""
+msgstr "Nézzétek! Futásnak eredtek!"
 
 #: Eliador/utils/eliador-glorienda.cfg:3
 msgid "Glorienda"
-msgstr ""
+msgstr "Glorienda"
 
 #. [objectives]
 #: Eliador/utils/eliador-glorienda.cfg:53
 msgid "Persuade the Elves of Glorienda to remain in Eliador."
-msgstr ""
+msgstr "Vedd rá Glorienda tündéit, hogy Eliadorban maradjanak!"
 
 #. [objectives]
 #: Eliador/utils/eliador-glorienda.cfg:54
 msgid ""
 "To persuade an elf, visit her village more times than Lucien's side does"
 msgstr ""
+"Hogy meggyőzz egy tündét, látogass el a városába többször, mint ahogy a "
+"Lucien oldalán állók tették!"
 
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:73
 msgid "Nowen"
-msgstr ""
+msgstr "Nowen"
 
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:74
 msgid "Vodia"
-msgstr ""
+msgstr "Vodia"
 
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:75
 msgid "Glithiel"
-msgstr ""
+msgstr "Glithiel"
 
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:76
 msgid "Belaraviel"
-msgstr ""
+msgstr "Belaraviel"
 
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:77
 msgid "Celilith"
-msgstr ""
+msgstr "Celilith"
 
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:79
 msgid "Elvowien"
-msgstr ""
+msgstr "Elvowien"
 
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:80
 msgid "Isithradien"
-msgstr ""
+msgstr "Isithradien"
 
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:83
 msgid "Elagriel"
-msgstr ""
+msgstr "Elagriel"
 
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:84
 msgid "Ilalya"
-msgstr ""
+msgstr "Ilalya"
 
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:85
 msgid "Delydien"
-msgstr ""
+msgstr "Delydien"
 
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:86
 msgid "Tinil-Gawiel"
-msgstr ""
+msgstr "Tinil-Gawiel"
 
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:87
 msgid "Uniode"
-msgstr ""
+msgstr "Uniode"
 
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:88
 msgid "Unorfiwen"
-msgstr ""
+msgstr "Unorfiwen"
 
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:89
 msgid "Unil-Gadia"
-msgstr ""
+msgstr "Unil-Gadia"
 
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:90
 msgid "Elviondra"
-msgstr ""
+msgstr "Elviondra"
 
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:91
 msgid "Amethia"
-msgstr ""
+msgstr "Amethia"
 
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:92
 msgid "Uruthien"
-msgstr ""
+msgstr "Uruthien"
 
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:93
 msgid "Githraniel"
-msgstr ""
+msgstr "Githraniel"
 
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:94
 msgid "Narania"
-msgstr ""
+msgstr "Narania"
 
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:95
 msgid "Legondra"
-msgstr ""
+msgstr "Legondra"
 
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:104
 msgid "Gerwen"
-msgstr ""
+msgstr "Gerwen"
 
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:105
 msgid "Elwin"
-msgstr ""
+msgstr "Elwin"
 
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:124
 msgid "Lucien"
-msgstr ""
+msgstr "Lucien"
 
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:127
 msgid "What brings you to Eliador, Lucien?"
-msgstr ""
+msgstr "Mi szél hozott Eliadorba, Lucien?"
 
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:128
@@ -1183,35 +1258,37 @@ msgid ""
 "Orcs have stormed the beaches of Angalas. We are vastly outnumbered. I have "
 "come to ask the elves of Glorienda for help."
 msgstr ""
+"Az orkok lerohanták Angalas partjait. Mérhetetlen túlerőben vannak velünk "
+"szemben! Azért jöttem, hogy Glorienda tündéinek segítségét kérjem."
 
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:129
 msgid "You can count on us."
-msgstr ""
+msgstr "Számíthatsz ránk."
 
 #. [event]
 #: Eliador/utils/eliador-glorienda.cfg:131
 msgid "The elves of Glorienda will help us."
-msgstr ""
+msgstr "Glorienda tündéi a segítségünkre lesznek."
 
 #: Eliador/utils/eliador-heldurin1.cfg:3 Eliador/utils/eliador-heldurin2.cfg:3
 msgid "Heldurin"
-msgstr ""
+msgstr "Heldurin"
 
 #. [event]
 #: Eliador/utils/eliador-heldurin1.cfg:50
 msgid "Glillyn"
-msgstr ""
+msgstr "Glillyn"
 
 #. [event]
 #: Eliador/utils/eliador-heldurin1.cfg:51
 msgid "Addribryn"
-msgstr ""
+msgstr "Addribryn"
 
 #. [event]
 #: Eliador/utils/eliador-heldurin1.cfg:52
 msgid "Rhugwyn"
-msgstr ""
+msgstr "Rhugwyn"
 
 #. [event]
 #: Eliador/utils/eliador-heldurin1.cfg:58
@@ -1219,69 +1296,80 @@ msgid ""
 "I am sorry, Ardella. We would very much like to help you fight off the "
 "invaders, but we must get our families off this island."
 msgstr ""
+"Sajnálom Ardella. Szívesen segítenénk legyőzni a megszállóitokat, de most ki "
+"kell menekítenünk a családjainkat a szigetről."
 
 #. [event]
 #: Eliador/utils/eliador-heldurin1.cfg:59
 msgid "I cannot persuade you to stay?"
-msgstr ""
+msgstr "Sehogy nem tudnálak rávenni, hogy maradj?"
 
 #. [event]
 #: Eliador/utils/eliador-heldurin1.cfg:60
 msgid "Perhaps. Your husband is rumored to have a vast treasure..."
-msgstr ""
+msgstr "Esetleg. A férjedről azt beszélik, hogy dúsgazdag..."
 
 #. [event]
 #: Eliador/utils/eliador-heldurin1.cfg:61
 msgid "How much do you want?"
-msgstr ""
+msgstr "Mennyit kérsz?"
 
 #. [event]
 #: Eliador/utils/eliador-heldurin2.cfg:43
 msgid "Thank you, Ardella."
-msgstr ""
+msgstr "Köszönöm, Ardella."
 
 #. [objective]: condition=win
 #: Eliador/utils/eliador-home.cfg:130
 msgid "Move Ardella to a scenario label"
-msgstr ""
+msgstr "Vezesd Ardellát egy küldetés felirathoz!"
 
+# ez szövegkörnyezetfüggő...
 #. [objective]: condition=win
 #: Eliador/utils/eliador-home.cfg:134
 msgid "Or, press 'End Turn' to have one chosen for you"
-msgstr ""
+msgstr "Vagy, válaszd a 'Kör Vége' gombot, hogy kapj egyet."
 
 #: Eliador/utils/eliador-illien.cfg:3
 msgid "Illien"
-msgstr ""
+msgstr "Illien"
 
+# board: lehet fedélzet is
 #. [objectives]
 #: Eliador/utils/eliador-illien.cfg:48
+#, fuzzy
 msgid ""
 "A move is valid if Othello's units will be between two of yours. To place a "
 "unit on the board: (1) Move Ardella to select the column; (2) Move Ardella "
 "to select the row; (3) Press 'End Turn'"
 msgstr ""
+"\n"
+"A lépés akkor érvényes, ha Othelló egységei a te két egységed közé állnak. "
+"Egy egység elhelyezéséhez:\n"
+" (1) Haladj Ardellával, hogy kijelöld az oszlopot\n"
+" (2) Haladj Ardellával, hogy kijelöld a sort\n"
+" (3) Válaszd a 'Kör Vége' gombot"
 
 #. [objective]: condition=win
 #: Eliador/utils/eliador-illien.cfg:50
 msgid "You don't lose Anna or Zeke"
-msgstr ""
+msgstr "Nem veszted el Annát és Zekét"
 
 #. [objective]: condition=lose
 #: Eliador/utils/eliador-illien.cfg:54
 msgid "You lose Anna or Zeke"
-msgstr ""
+msgstr "Elveszted Annát vagy Zekét."
 
-#. [event]: (description=Ardella) yes}, (description=Anna) yes}, (description=Zeke) yes}
 #. [event]
-#: Eliador/utils/eliador-varad.cfg:235 Eliador/utils/eliador-illien.cfg:79
+#. [event]: (description=Ardella) yes}, (description=Anna) yes}, (description=Zeke) yes}
+#: Eliador/utils/eliador-illien.cfg:79 Eliador/utils/eliador-varad.cfg:235
 msgid "Othello"
-msgstr ""
+msgstr "Othelló"
 
 #. [event]: (description=Anna) yes}, (description=Zeke) yes}, (description=Ardella) no}, (description=Ardella) yes}, (description=Othello) no}
 #: Eliador/utils/eliador-illien.cfg:92
 msgid "Ardella, I'm sure you're aware of the law of Illien. Are you prepared?"
-msgstr ""
+msgstr "Ardella, bizonyára tisztában vagy Illien törvényeivel. Felkészültél?"
 
 #. [event]: (description=Anna) yes}, (description=Zeke) yes}, (description=Ardella) no}, (description=Ardella) yes}, (description=Othello) no}
 #: Eliador/utils/eliador-illien.cfg:93
@@ -1289,28 +1377,33 @@ msgid ""
 "You must know that we are about to be invaded. We don't have time for your "
 "games. Will you help us repel the invasion?"
 msgstr ""
+"Tudnod kell, hogy épp megszállnak minket. Nincs időnk a játékaidra. "
+"Segítessz nekünk visszaverni az inváziót?"
 
+# my undead?
 #. [event]: (description=Anna) yes}, (description=Zeke) yes}, (description=Ardella) no}, (description=Ardella) yes}, (description=Othello) no}
 #: Eliador/utils/eliador-illien.cfg:94
 msgid ""
 "If you do not obey the law of Illien, my undead will annihilate your "
 "pathetic army. Now, let's begin, shall we?"
 msgstr ""
+"Ha Illien törvényeit nem tartod be, az élőholtjaim megsemmisítik szánalmas "
+"kis seregedet. Most pedig, elkezdhetjük végre?"
 
 #. [event]: (description=Anna) yes}, (description=Zeke) yes}, (description=Ardella) no}, (description=Ardella) yes}, (description=Othello) no}
 #: Eliador/utils/eliador-illien.cfg:101
 msgid "Momma, what's happening? I can't move!"
-msgstr ""
+msgstr "Mami, mi történik? Nem tudok mozogni!"
 
 #. [event]: (description=Anna) yes}, (description=Zeke) yes}, (description=Ardella) no}, (description=Ardella) yes}, (description=Othello) no}
 #: Eliador/utils/eliador-illien.cfg:110
 msgid "Ahh!"
-msgstr ""
+msgstr "Ahh!"
 
 #. [then]
 #: Eliador/utils/eliador-illien.cfg:539
 msgid "No cheating!"
-msgstr ""
+msgstr "Ne csalj!"
 
 #. [event]
 #: Eliador/utils/eliador-illien.cfg:641
@@ -1318,6 +1411,8 @@ msgid ""
 "You've sacrificed your children in an attempt to save your soldiers. Your "
 "heart is even colder than mine."
 msgstr ""
+"Feláldoztad a gyermekeidet, hogy megpróbáld menteni a katonáid. A szíved még "
+"az enyémnél is hidegebb."
 
 #. [event]: (description=Zeke) no}, (description=Anna) no}, race=monster) no}
 #: Eliador/utils/eliador-illien.cfg:675
@@ -1326,21 +1421,24 @@ msgid ""
 "skeletons that you've won, and I'll keep any man or creature that you've "
 "lost. Goodbye."
 msgstr ""
+"Bravó, Ardella, megvédted a gyermekeidet. Megtarthatod a csontvázakat, "
+"amiket nyertél, én pedig megtartok minden embert és lényt, amit "
+"elvesztettél. Viszlát."
 
 #: Eliador/utils/eliador-kelroth.cfg:3
 msgid "Dol Kelroth"
-msgstr ""
+msgstr "Dol Kelroth"
 
 #. [event]
 #. [event]: (description=Ardella) no}, (description=Anna) no}, (description=Zeke) no}, (description=Urian) no}
 #: Eliador/utils/eliador-kelroth.cfg:119 Eliador/utils/eliador-kelroth.cfg:412
 msgid "Urian"
-msgstr ""
+msgstr "Urian"
 
 #. [event]: type=Goblin Knight) 4 6}, type=Goblin Knight) 5 6}, type=Goblin Knight) 6 6}
 #: Eliador/utils/eliador-kelroth.cfg:150
 msgid "Where is everyone?"
-msgstr ""
+msgstr "Hova tűnt mindenki?"
 
 #. [event]: type=Goblin Knight) 4 6}, type=Goblin Knight) 5 6}, type=Goblin Knight) 6 6}
 #: Eliador/utils/eliador-kelroth.cfg:171
@@ -1348,6 +1446,8 @@ msgid ""
 "Urian! Please, if you are still alive, you must get my children away from "
 "these beasts!"
 msgstr ""
+"Urian! Kérlek, ha még életben vagy, menekítsd el a gyermekeimet ezektől a "
+"szörnyetegektől!"
 
 #. [event]: type=Goblin Knight) 4 6}, type=Goblin Knight) 5 6}, type=Goblin Knight) 6 6}
 #: Eliador/utils/eliador-kelroth.cfg:172
@@ -1356,11 +1456,15 @@ msgid ""
 "If you help me defeat the orcs, my birds and I will forever be at your "
 "service."
 msgstr ""
+"Ardella, mindenütt orkok vannak! Két griffet küldtem a gyerekekért. Ha "
+"segítesz legyőzni az orkokat, én és a madaraim örökre szolgálni fogunk."
 
 #. [event]: type=Goblin Knight) 4 6}, type=Goblin Knight) 5 6}, type=Goblin Knight) 6 6}
 #: Eliador/utils/eliador-kelroth.cfg:177
 msgid "Hurry, children! Get on the gryphons and fly somewhere safe!"
 msgstr ""
+"Siessetek, gyerekek! Ugorjatok a griffekre, és repüljetek valami biztonságos "
+"helyre!"
 
 #. [event]: type=Goblin Knight) 4 6}, type=Goblin Knight) 5 6}, type=Goblin Knight) 6 6}
 #: Eliador/utils/eliador-kelroth.cfg:179
@@ -1368,11 +1472,13 @@ msgid ""
 "Ardella, the residents of Dol Kelroth have been killed and their bodies "
 "dumped in the sea."
 msgstr ""
+"Ardella, Dol Kelroth lakóit lemészárolták, és a tetemeiket a tengerbe "
+"hányták."
 
 #. [event]: type=Goblin Knight) 4 6}, type=Goblin Knight) 5 6}, type=Goblin Knight) 6 6}
 #: Eliador/utils/eliador-kelroth.cfg:180
 msgid "Are you certain everyone is dead?"
-msgstr ""
+msgstr "Biztos vagy benne, hogy mind meghaltak?"
 
 #. [event]: type=Goblin Knight) 4 6}, type=Goblin Knight) 5 6}, type=Goblin Knight) 6 6}
 #: Eliador/utils/eliador-kelroth.cfg:181
@@ -1380,87 +1486,94 @@ msgid ""
 "I have tried to search the sea for survivors, but neither I nor my birds can "
 "see through the dense fog."
 msgstr ""
+"Próbáltuk átkutatni a tengert túlélőket keresve, de sem én sem a madaraim "
+"nem látnak ebben a sűrű ködben."
 
 #. [event]: type=Goblin Knight) 4 6}, type=Goblin Knight) 5 6}, type=Goblin Knight) 6 6}
 #: Eliador/utils/eliador-kelroth.cfg:183
 msgid "Momma, you kill all the orcs and we'll find the survivors."
-msgstr ""
+msgstr "Mami, megölsz minden orkot, és meg fogjuk találni a túlélőket."
 
 #. [event]: type=Goblin Knight) 4 6}, type=Goblin Knight) 5 6}, type=Goblin Knight) 6 6}
 #: Eliador/utils/eliador-kelroth.cfg:185
 msgid "Sounds like a plan... Let's go, Zeke!"
-msgstr ""
+msgstr "Úgy hangzik, mint egy terv... Induljunk, Zeke!"
 
 #. [message]: description=Ardella
 #: Eliador/utils/eliador-kelroth.cfg:377
 msgid "The invaders of Dol Kelroth are vanquished."
-msgstr ""
+msgstr "Legyőzték Dol Kelroth megszállóit."
 
+# loathsome?, mert itt nem azt írták... akkor elírás van az angolban...
 #. [message]: description=Ardella
 #: Eliador/utils/eliador-kelroth.cfg:389
 msgid "We are overrun by these loathesome creatures!"
-msgstr ""
+msgstr "Elárasztottak minket ezek a gyűlöletes lények!"
 
 #: Eliador/utils/eliador-sinon.cfg:3
 msgid "Mount Sinon"
-msgstr ""
+msgstr "Sinon hegye"
 
 #. [objectives]
 #: Eliador/utils/eliador-sinon.cfg:39
 msgid "Move horses to high ground"
-msgstr ""
+msgstr "Vidd a lovakat magaslatra"
 
 #. [objectives]
 #: Eliador/utils/eliador-sinon.cfg:40
+#, fuzzy
 msgid ""
 "(1) Move next to a horse to mount it; (2) Horses and children can move onto "
 "hills but not mountains"
 msgstr ""
+"\n"
+"(1) Állj egy ló mellé, hogy felülhess rá\n"
+"(2) A lovak és gyermekek dombokra mehetnek, de hegyekre nem"
 
 #. [objective]: condition=win
 #: Eliador/utils/eliador-sinon.cfg:42
 msgid "Survive until end of turns"
-msgstr ""
+msgstr "Kitartasz a körök végéig"
 
 #. [then]
 #: Eliador/utils/eliador-sinon.cfg:102
 msgid "Why did the beasts leave?"
-msgstr ""
+msgstr "Miért mentek el a szörnyetegek?"
 
 #. [then]
 #: Eliador/utils/eliador-sinon.cfg:103
 msgid "I do not know."
-msgstr ""
+msgstr "Nem tudom."
 
 #. [event]
 #: Eliador/utils/eliador-sinon.cfg:113
 msgid "Momma, my ears! What was that noise?"
-msgstr ""
+msgstr "Mami, a fülem! Mi volt ez a zaj?"
 
 #. [event]
 #: Eliador/utils/eliador-sinon.cfg:114
 msgid "It sounded like a..."
-msgstr ""
+msgstr "Úgy hangzott, mint egy..."
 
 #. [event]
 #: Eliador/utils/eliador-sinon.cfg:115
 msgid "It couldn't be... Mount Sinon has been dormant for three centuries..."
-msgstr ""
+msgstr "Nem, az lehetetlen, Sinon hegye már három évszázada alussza álmát..."
 
 #. [event]
 #: Eliador/utils/eliador-sinon.cfg:116
 msgid "Look over there, momma!"
-msgstr ""
+msgstr "Oda nézz, mami!"
 
 #. [event]
 #: Eliador/utils/eliador-sinon.cfg:117
 msgid "Quickly, get to the mountains!"
-msgstr ""
+msgstr "Gyorsan, gyorsan a hegyekbe!"
 
 #. [then]
 #: Eliador/utils/eliador-sinon.cfg:351
 msgid "You have risked your lives to save our steeds. Why?"
-msgstr ""
+msgstr "Kockáztattátok az életeteket, hogy megmentsétek a paripáinkat. Miért?"
 
 #. [then]
 #: Eliador/utils/eliador-sinon.cfg:352
@@ -1468,6 +1581,8 @@ msgid ""
 "Because we need every man and beast on this island to fight the enemies "
 "approaching Eliador."
 msgstr ""
+"Mert szükségünk van minden itt élő állatra és emberre, az Eliador felé tartó "
+"ellenség ellen."
 
 #. [then]
 #: Eliador/utils/eliador-sinon.cfg:353
@@ -1476,89 +1591,93 @@ msgid ""
 "seen the number of galleons. Why don't you take your children off this "
 "island?"
 msgstr ""
+"Sosem hátráltunk meg a harctól, ezért számíthattok ránk. De láttuk, mennyi "
+"gálya közeleg. Miért nem menekíted ki a gyermekeidet a szigetről?"
 
 #. [then]
 #: Eliador/utils/eliador-sinon.cfg:354
 msgid "Because they took my papa!"
-msgstr ""
+msgstr "Mert elfogták az apukámat!"
 
 #: Eliador/utils/eliador-treasure.cfg:3
 msgid "Zilead's Treasure"
-msgstr ""
+msgstr "Zilead kincse"
 
 #. [objective]: condition=win
 #: Eliador/utils/eliador-treasure.cfg:54
 msgid "Move Ardella to the treasure chest and then back to the entrance"
-msgstr ""
+msgstr "Elmész Ardellával a kincsesládáig, majd visszajutsz a bejárathoz"
 
 #: Eliador/utils/eliador-varad.cfg:2
 msgid "Varad"
-msgstr ""
+msgstr "Varad"
 
 #. [objectives]
 #: Eliador/utils/eliador-varad.cfg:58
 msgid "Othello is the only one who can kill Randalf"
-msgstr ""
+msgstr "Othelló az egyetlen, aki képes megölni Randalfot."
 
 #. [objective]: condition=win
 #: Eliador/utils/eliador-varad.cfg:60
 msgid "Death of Randalf"
-msgstr ""
+msgstr "Randalf elesik"
 
 #. [objective]: condition=win
 #: Eliador/utils/eliador-varad.cfg:64
 msgid "Death of Othello"
-msgstr ""
+msgstr "Othelló elesik"
 
 #. [event]: description=Randalf facing sw}
 #: Eliador/utils/eliador-varad.cfg:149
 msgid "Bellamy"
-msgstr ""
+msgstr "Bellamy"
 
 #. [event]: description=Randalf facing sw}
 #: Eliador/utils/eliador-varad.cfg:150
 msgid "Arlong"
-msgstr ""
+msgstr "Arlong"
 
 #. [event]: description=Randalf facing sw}
 #: Eliador/utils/eliador-varad.cfg:151
 msgid "Heldor"
-msgstr ""
+msgstr "Heldor"
 
 #. [event]: description=Randalf facing sw}
 #: Eliador/utils/eliador-varad.cfg:152
 msgid "Flint"
-msgstr ""
+msgstr "Flint"
 
 #. [event]: description=Randalf facing sw}
 #: Eliador/utils/eliador-varad.cfg:153
 msgid "Garrett"
-msgstr ""
+msgstr "Garrett"
 
 #. [event]: (description=Ardella) yes}, (description=Anna) yes}, (description=Zeke) yes}
 #: Eliador/utils/eliador-varad.cfg:229
 msgid "Randalf? What have you done?"
-msgstr ""
+msgstr "Randalf? Mit tettél?"
 
 #. [event]: (description=Ardella) yes}, (description=Anna) yes}, (description=Zeke) yes}
 #: Eliador/utils/eliador-varad.cfg:230
 msgid "My master is taking over Eliador. I must..."
-msgstr ""
+msgstr "A mesterem Eliador uralkodójává válik. Nekem most meg kell..."
 
 #. [event]: (description=Ardella) yes}, (description=Anna) yes}, (description=Zeke) yes}
 #: Eliador/utils/eliador-varad.cfg:231
 msgid "Where is my papa? Speak, wizard!"
-msgstr ""
+msgstr "Hol van az apukám? Beszélj, varázsló!"
 
 #. [event]: (description=Ardella) yes}, (description=Anna) yes}, (description=Zeke) yes}
 #: Eliador/utils/eliador-varad.cfg:232
 msgid "Fear not, young Zeke. Your father..."
-msgstr ""
+msgstr "Ne aggódj, fiatal Zeke! Az apád..."
 
 #. [event]: (description=Ardella) yes}, (description=Anna) yes}, (description=Zeke) yes}
 #: Eliador/utils/eliador-varad.cfg:239
 msgid "Randalf! Did you think I would sit idly by while my land is invaded?"
 msgstr ""
+"Randalf! Azt gondoltad tán, hogy békésen végignézem, ahogy a földemet "
+"megszállod?"
 
 #. [event]: (description=Ardella) yes}, (description=Anna) yes}, (description=Zeke) yes}
 #: Eliador/utils/eliador-varad.cfg:240
@@ -1566,36 +1685,37 @@ msgid ""
 "Oh, how I've waited for this moment. Come forth, Othello of Illien! Let's "
 "see what you are made of!"
 msgstr ""
+"Oh, milyen rég vártam ezt a percet. Lépj elő, illieni Othelló! Nézzük milyen "
+"fából faragtak!"
 
 #. [event]: (description=Ardella) yes}, (description=Anna) yes}, (description=Zeke) yes}
 #: Eliador/utils/eliador-varad.cfg:241
 msgid ""
 "Get your children out of harms way, Ardella! You are no match for the wizard."
 msgstr ""
+"Vidd el a veszély útjából a gyerekeket, Ardella! Te nem vagy méltó ellenfele "
+"ennek a varázslónak."
 
 #. [event]
 #: Eliador/utils/eliador-varad.cfg:266
 msgid "You haven't seen the last of me..."
-msgstr ""
+msgstr "Nem én vagyok az utolsó, akit látsz..."
 
 #. [event]
 #: Eliador/utils/eliador-varad.cfg:274
 msgid "Look! The wizard's spell has been broken!"
-msgstr ""
+msgstr "Nézzétek! A varázsló bűbája megtört!"
 
 #: Eliador/utils/eliador-varad.cfg:297
 msgid "Othello has been slain! Retreat!"
-msgstr ""
+msgstr "Othelló halott! Visszavonulás!"
 
 #: Eliador/utils/randalf-powers.cfg:5
 msgid "Zara! Baringa! Echla!"
-msgstr ""
+msgstr "Zara! Baringa! Echla!"
 
-#~ msgid "Bye!"
-#~ msgstr "Viszlát!"
+#~ msgid "Death of Anna"
+#~ msgstr "Anna halála"
 
-#~ msgid "Skeleton"
-#~ msgstr "Csontváz"
-
-#~ msgid "Skeleton Archer"
-#~ msgstr "Csont-íjász"
+#~ msgid "Death of Zeke"
+#~ msgstr "Zeke halála"
