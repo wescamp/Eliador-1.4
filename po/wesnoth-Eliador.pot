@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-09-11 21:34+0200\n"
+"POT-Creation-Date: 2008-10-23 22:53+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. [scenario]
 #. [campaign]
-#: ./Eliador/scenarios/eliador-home-intro.cfg:5 ./Eliador/utils/eliador-home.cfg:2 ./Eliador/utils/eliador-battle.cfg:2 ./Eliador/_main.cfg:8
+#. [scenario]
+#: ./Eliador/utils/eliador-battle.cfg:2 ./Eliador/utils/eliador-home.cfg:2 ./Eliador/_main.cfg:8 ./Eliador/scenarios/eliador-home-intro.cfg:5
 msgid "Invasion of Eliador"
 msgstr ""
 
@@ -56,9 +56,9 @@ msgstr ""
 msgid "Journey to Wesnoth"
 msgstr ""
 
-#. [event]
 #. [message]: type=Pirate Galleon
-#: ./Eliador/scenarios/eliador-home-intro.cfg:52 ./Eliador/scenarios/eliador-end.cfg:47 ./Eliador/scenarios/eliador-end.cfg:57
+#. [event]
+#: ./Eliador/scenarios/eliador-end.cfg:47 ./Eliador/scenarios/eliador-end.cfg:57 ./Eliador/scenarios/eliador-home-intro.cfg:52
 msgid "Ardella"
 msgstr ""
 
@@ -67,10 +67,10 @@ msgstr ""
 msgid "Hurry up and finish your breakfast, children. Your father is waiting for us."
 msgstr ""
 
-#. [unit]: type=Outlaw Kid, description=Anna
-#. [message]: type=Pirate Galleon
 #. [unit]: type=Gryphon Kid, description=Anna
-#: ./Eliador/scenarios/eliador-home-intro.cfg:59 ./Eliador/scenarios/eliador-end.cfg:52 ./Eliador/utils/eliador-kelroth.cfg:230
+#. [message]: type=Pirate Galleon
+#. [unit]: type=Outlaw Kid, description=Anna
+#: ./Eliador/utils/eliador-kelroth.cfg:230 ./Eliador/scenarios/eliador-end.cfg:52 ./Eliador/scenarios/eliador-home-intro.cfg:59
 msgid "Anna"
 msgstr ""
 
@@ -84,10 +84,10 @@ msgstr ""
 msgid "We will arrive in two days time."
 msgstr ""
 
-#. [unit]: type=Outlaw Kid, description=Zeke
-#. [message]: type=Pirate Galleon
 #. [unit]: type=Gryphon Kid, description=Zeke
-#: ./Eliador/scenarios/eliador-home-intro.cfg:67 ./Eliador/scenarios/eliador-end.cfg:62 ./Eliador/utils/eliador-kelroth.cfg:214
+#. [message]: type=Pirate Galleon
+#. [unit]: type=Outlaw Kid, description=Zeke
+#: ./Eliador/utils/eliador-kelroth.cfg:214 ./Eliador/scenarios/eliador-end.cfg:62 ./Eliador/scenarios/eliador-home-intro.cfg:67
 msgid "Zeke"
 msgstr ""
 
@@ -106,9 +106,9 @@ msgstr ""
 msgid "Glenda"
 msgstr ""
 
-#. [event]
 #. [event]: type=Goblin Knight) 4 6}, type=Goblin Knight) 5 6}, type=Goblin Knight) 6 6}
-#: ./Eliador/scenarios/eliador-end.cfg:127 ./Eliador/utils/eliador-kelroth.cfg:170 ./Eliador/utils/eliador-kelroth.cfg:421 ./Eliador/utils/eliador-deaths.cfg:2 ./Eliador/utils/eliador-anwar.cfg:220 ./Eliador/utils/eliador-treasure.cfg:126 ./Eliador/utils/eliador-sinon.cfg:323 ./Eliador/utils/eliador-battle.cfg:549
+#. [event]
+#: ./Eliador/utils/eliador-battle.cfg:549 ./Eliador/utils/eliador-deaths.cfg:2 ./Eliador/utils/eliador-anwar.cfg:220 ./Eliador/utils/eliador-kelroth.cfg:170 ./Eliador/utils/eliador-kelroth.cfg:421 ./Eliador/utils/eliador-treasure.cfg:126 ./Eliador/utils/eliador-sinon.cfg:323 ./Eliador/scenarios/eliador-end.cfg:127
 msgid "Momma!"
 msgstr ""
 
@@ -147,16 +147,16 @@ msgstr ""
 msgid "Galleons on the horizon. Dozens of them!"
 msgstr ""
 
-#. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
 #. [event]: description=Randalf facing sw}
-#: ./Eliador/scenarios/eliador-home-intro.cfg:106 ./Eliador/utils/eliador-varad.cfg:148
+#. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
+#: ./Eliador/utils/eliador-varad.cfg:148 ./Eliador/scenarios/eliador-home-intro.cfg:106
 msgid "Morgan"
 msgstr ""
 
-#. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
-#. [event]: description=Randalf facing sw}
 #. [event]
-#: ./Eliador/scenarios/eliador-home-intro.cfg:111 ./Eliador/utils/eliador-varad.cfg:147 ./Eliador/utils/eliador-balas.cfg:148
+#. [event]: description=Randalf facing sw}
+#. [event]: (description=Morgan) 46 8}, (description=Zilead) facing sw}, (description=Zeke) facing sw}, (description=Bill) 45 9}, (description=Zeke) 7 14}
+#: ./Eliador/utils/eliador-balas.cfg:148 ./Eliador/utils/eliador-varad.cfg:147 ./Eliador/scenarios/eliador-home-intro.cfg:111
 msgid "Bill"
 msgstr ""
 
@@ -176,7 +176,7 @@ msgid "Captured Elvish Archer"
 msgstr ""
 
 #. [attack]: type=impact
-#: ./Eliador/units/Captured_Marksman.cfg:40 ./Eliador/units/Captured_Avenger.cfg:40 ./Eliador/units/Captured_Sharpshooter.cfg:40 ./Eliador/units/Captured_Ranger.cfg:40 ./Eliador/units/Captured_Archer.cfg:40
+#: ./Eliador/units/Captured_Sharpshooter.cfg:40 ./Eliador/units/Captured_Avenger.cfg:40 ./Eliador/units/Captured_Archer.cfg:40 ./Eliador/units/Captured_Ranger.cfg:40 ./Eliador/units/Captured_Marksman.cfg:40
 msgid "kick"
 msgstr ""
 
@@ -261,7 +261,7 @@ msgid "Once great, Elder Magi have seen their power a little diminished from wea
 msgstr ""
 
 #. [attack]: type=impact
-#: ./Eliador/units/Elder_Mage.cfg:26 ./Eliador/units/Outlaw_Queen.cfg:95
+#: ./Eliador/units/Outlaw_Queen.cfg:95 ./Eliador/units/Elder_Mage.cfg:26
 msgid "staff"
 msgstr ""
 
@@ -306,7 +306,7 @@ msgid "Small Gryphon"
 msgstr ""
 
 #. [unit]: race=human
-#: ./Eliador/units/Horse.cfg:4 ./Eliador/units/Horsequeen.cfg:4 ./Eliador/units/Horsekid.cfg:4
+#: ./Eliador/units/Horsekid.cfg:4 ./Eliador/units/Horsequeen.cfg:4 ./Eliador/units/Horse.cfg:4
 msgid "Horse"
 msgstr ""
 
@@ -331,7 +331,7 @@ msgid "Kids Sea Serpent"
 msgstr ""
 
 #. [attack]: type=pierce
-#: ./Eliador/units/Shark.cfg:47 ./Eliador/units/Kids_Sea_Serpent.cfg:29 ./Eliador/units/Queen_Seaserpent.cfg:30
+#: ./Eliador/units/Queen_Seaserpent.cfg:30 ./Eliador/units/Kids_Sea_Serpent.cfg:29 ./Eliador/units/Shark.cfg:47
 msgid "fangs"
 msgstr ""
 
@@ -361,7 +361,7 @@ msgid "A noble by birth, the Outlaw Queen has learnt swordplay with the greatest
 msgstr ""
 
 #. [attack]: type=impact
-#: ./Eliador/units/Outlaw_Queen.cfg:104 ./Eliador/units/Queen_Seaserpent.cfg:39
+#: ./Eliador/units/Queen_Seaserpent.cfg:39 ./Eliador/units/Outlaw_Queen.cfg:104
 msgid "sling"
 msgstr ""
 
@@ -420,7 +420,7 @@ msgid "Or, survive until end of turns"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Eliador/utils/eliador-kelroth.cfg:100 ./Eliador/utils/eliador-anwar.cfg:81 ./Eliador/utils/eliador-treasure.cfg:58 ./Eliador/utils/eliador-balas.cfg:80 ./Eliador/utils/eliador-sinon.cfg:46 ./Eliador/utils/eliador-battle.cfg:46
+#: ./Eliador/utils/eliador-balas.cfg:80 ./Eliador/utils/eliador-battle.cfg:46 ./Eliador/utils/eliador-anwar.cfg:81 ./Eliador/utils/eliador-kelroth.cfg:100 ./Eliador/utils/eliador-treasure.cfg:58 ./Eliador/utils/eliador-sinon.cfg:46
 msgid "Death of Ardella, Anna, or Zeke"
 msgstr ""
 
@@ -484,11 +484,11 @@ msgstr ""
 msgid "Iumento, pareah!"
 msgstr ""
 
-#: ./Eliador/utils/eliador-kelroth.cfg:422 ./Eliador/utils/eliador-deaths.cfg:3 ./Eliador/utils/eliador-anwar.cfg:221 ./Eliador/utils/eliador-treasure.cfg:127 ./Eliador/utils/eliador-balas.cfg:679 ./Eliador/utils/eliador-sinon.cfg:324 ./Eliador/utils/eliador-battle.cfg:547
+#: ./Eliador/utils/eliador-balas.cfg:679 ./Eliador/utils/eliador-battle.cfg:547 ./Eliador/utils/eliador-deaths.cfg:3 ./Eliador/utils/eliador-anwar.cfg:221 ./Eliador/utils/eliador-kelroth.cfg:422 ./Eliador/utils/eliador-treasure.cfg:127 ./Eliador/utils/eliador-sinon.cfg:324
 msgid "Anna!"
 msgstr ""
 
-#: ./Eliador/utils/eliador-kelroth.cfg:423 ./Eliador/utils/eliador-deaths.cfg:4 ./Eliador/utils/eliador-anwar.cfg:222 ./Eliador/utils/eliador-treasure.cfg:128 ./Eliador/utils/eliador-balas.cfg:680 ./Eliador/utils/eliador-sinon.cfg:325 ./Eliador/utils/eliador-battle.cfg:548
+#: ./Eliador/utils/eliador-balas.cfg:680 ./Eliador/utils/eliador-battle.cfg:548 ./Eliador/utils/eliador-deaths.cfg:4 ./Eliador/utils/eliador-anwar.cfg:222 ./Eliador/utils/eliador-kelroth.cfg:423 ./Eliador/utils/eliador-treasure.cfg:128 ./Eliador/utils/eliador-sinon.cfg:325
 msgid "Zeke!"
 msgstr ""
 
@@ -502,13 +502,13 @@ msgid "The fencers will leave after all elves have been killed or captured"
 msgstr ""
 
 #. [objective]: condition=win
-#: ./Eliador/utils/eliador-kelroth.cfg:96 ./Eliador/utils/eliador-balas.cfg:76
+#: ./Eliador/utils/eliador-balas.cfg:76 ./Eliador/utils/eliador-kelroth.cfg:96
 msgid "Kill all enemies"
 msgstr ""
 
 #. [objective]: condition=lose
 #. [objective]: condition=win
-#: ./Eliador/utils/eliador-kelroth.cfg:104 ./Eliador/utils/eliador-varad.cfg:68 ./Eliador/utils/eliador-illien.cfg:58 ./Eliador/utils/eliador-treasure.cfg:62 ./Eliador/utils/eliador-balas.cfg:84 ./Eliador/utils/eliador-battle.cfg:50 ./Eliador/utils/eliador-glorienda.cfg:56
+#: ./Eliador/utils/eliador-balas.cfg:84 ./Eliador/utils/eliador-battle.cfg:50 ./Eliador/utils/eliador-glorienda.cfg:56 ./Eliador/utils/eliador-kelroth.cfg:104 ./Eliador/utils/eliador-treasure.cfg:62 ./Eliador/utils/eliador-illien.cfg:58 ./Eliador/utils/eliador-varad.cfg:68
 msgid "Turns run out"
 msgstr ""
 
@@ -779,9 +779,9 @@ msgstr ""
 msgid "Ha! We dwarves are a brave bunch, but we would not stand a chance against our master. I'm sorry, but you must all die!"
 msgstr ""
 
-#. [event]: description=Randalf facing sw}
 #. [event]: description=Ardella description=Randalf}, (type=Fencer)}, (type=Duelist)}, (type=Master at Arms)}
-#: ./Eliador/utils/eliador-varad.cfg:81 ./Eliador/utils/eliador-battle.cfg:243
+#. [event]: description=Randalf facing sw}
+#: ./Eliador/utils/eliador-battle.cfg:243 ./Eliador/utils/eliador-varad.cfg:81
 msgid "Randalf"
 msgstr ""
 
@@ -1183,9 +1183,9 @@ msgstr ""
 msgid "You lose Anna or Zeke"
 msgstr ""
 
-#. [event]: (description=Ardella) yes}, (description=Anna) yes}, (description=Zeke) yes}
 #. [event]
-#: ./Eliador/utils/eliador-varad.cfg:235 ./Eliador/utils/eliador-illien.cfg:79
+#. [event]: (description=Ardella) yes}, (description=Anna) yes}, (description=Zeke) yes}
+#: ./Eliador/utils/eliador-illien.cfg:79 ./Eliador/utils/eliador-varad.cfg:235
 msgid "Othello"
 msgstr ""
 
